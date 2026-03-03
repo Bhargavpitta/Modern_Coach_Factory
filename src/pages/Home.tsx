@@ -11,6 +11,9 @@ import {
   Users2,
 } from "lucide-react";
 import heroBg from "@/assets/hero-bg.jpg";
+import ashwiniVaishnaw from "@/assets/ministers/ashwini-vaishnaw.jpeg";
+import ravneetSingh from "@/assets/ministers/ravneet-singh.jpeg";
+import vSomanna from "@/assets/ministers/v-somanna.jpg";
 import { newsData } from "@/data/newsData";
 import { tendersData } from "@/data/tendersData";
 import StatusBadge from "@/components/common/StatusBadge";
@@ -53,14 +56,17 @@ export default function Home() {
     {
       name: isHindi ? "श्री अश्विनी वैष्णव" : "Shri Ashwini Vaishnaw",
       role: isHindi ? "रेल मंत्री" : "Minister of Railways",
+      image: ashwiniVaishnaw,
     },
     {
       name: isHindi ? "श्री रवनीत सिंह बिट्टू" : "Shri Ravneet Singh Bittu",
       role: isHindi ? "रेल राज्य मंत्री" : "Minister of State for Railways",
+      image: ravneetSingh,
     },
     {
       name: isHindi ? "श्री वी. सोमन्ना" : "Shri V. Somanna",
       role: isHindi ? "रेल राज्य मंत्री" : "Minister of State for Railways",
+      image: vSomanna,
     },
   ];
 
@@ -105,7 +111,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="section-spacing bg-railway-surface" aria-label={isHindi ? "एमसीएफ अवलोकन" : "MCF overview"}>
+      <section className="section-spacing pb-8 bg-railway-surface" aria-label={isHindi ? "एमसीएफ अवलोकन" : "MCF overview"}>
         <div className="container-page">
           <SectionHeading title={isHindi ? "एमसीएफ का संक्षिप्त परिचय" : "MCF At a Glance"} />
           <p className="text-muted-foreground max-w-4xl mb-6">
@@ -126,7 +132,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="section-spacing" aria-label={t.news.title}>
+      <section className="section-spacing pt-8" aria-label={t.news.title}>
         <div className="container-page">
           <SectionHeading
             title={t.news.title}
@@ -153,7 +159,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="section-spacing bg-railway-surface" aria-label={t.tenders.title}>
+      <section className="section-spacing pt-8 pb-8 bg-railway-surface" aria-label={t.tenders.title}>
         <div className="container-page">
           <SectionHeading
             title={isHindi ? "सक्रिय निविदाएं" : "Active Tenders"}
@@ -190,7 +196,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="section-spacing" aria-label={t.certifications.title}>
+      <section className="section-spacing pt-8 pb-8" aria-label={t.certifications.title}>
         <div className="container-page">
           <SectionHeading title={isHindi ? "प्रमाणन और अनुपालन" : "Certifications & Compliance"} />
           <div className="grid sm:grid-cols-3 gap-5">
@@ -221,22 +227,36 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="section-spacing bg-railway-surface" aria-label={isHindi ? "मंत्रालय नेतृत्व" : "Ministerial leadership"}>
+      <section className="section-spacing pt-8 pb-8 bg-railway-surface" aria-label={isHindi ? "मंत्रालय नेतृत्व" : "Ministerial leadership"}>
         <div className="container-page">
           <SectionHeading title={isHindi ? "मंत्रालय नेतृत्व" : "Ministers"} />
-          <div className="grid md:grid-cols-3 gap-5">
+          <div className="grid md:grid-cols-3 gap-5 items-stretch">
             {ministers.map((minister) => (
-              <article key={minister.name} className="card-gov p-5">
-                <Users2 className="w-8 h-8 text-primary mb-3" aria-hidden="true" />
-                <h3 className="font-semibold text-foreground">{minister.name}</h3>
-                <p className="text-sm text-muted-foreground mt-1">{minister.role}</p>
+              <article key={minister.name} className="card-gov overflow-hidden flex flex-col h-full">
+                <div className="h-64 md:h-72 lg:h-80 flex items-center justify-center bg-gray-100 overflow-hidden">
+                  <img
+                    src={minister.image}
+                    alt={minister.name}
+                    className={
+                      minister.name.includes("Somanna") || minister.name.includes("सोमन्ना")
+                        ? "h-full w-auto object-cover object-center scale-110"
+                        : minister.name.includes("Ashwini") || minister.name.includes("अश्विनी")
+                        ? "h-full w-auto object-cover object-center"
+                        : "h-full w-auto object-contain"
+                    }
+                  />
+                </div>
+                <div className="p-5 grow">
+                  <h3 className="font-semibold text-foreground">{minister.name}</h3>
+                  <p className="text-sm text-muted-foreground mt-1">{minister.role}</p>
+                </div>
               </article>
             ))}
           </div>
         </div>
       </section>
 
-      <section className="bg-primary text-primary-foreground py-8" aria-label={isHindi ? "महत्वपूर्ण बाहरी लिंक" : "Important external links"}>
+      <section className="bg-primary text-primary-foreground py-8 pt-8 pb-8" aria-label={isHindi ? "महत्वपूर्ण बाहरी लिंक" : "Important external links"}>
         <div className="container-page">
           <SectionHeading title={isHindi ? "महत्वपूर्ण बाहरी लिंक" : "Important External Links"} />
           <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3 text-sm">
