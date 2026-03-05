@@ -154,23 +154,25 @@ export default function About() {
               {labels.milestones}
             </h2>
           </div>
-          <ol className="space-y-4">
-            {aboutData.milestones.map((item) => (
-              <li key={item.id}>
-                <article className="rounded-lg border bg-background p-4 md:grid md:grid-cols-[110px,1fr] gap-4">
-                  <time
-                    dateTime={item.year}
-                    className="inline-flex items-center justify-center rounded-md bg-primary/10 text-primary font-semibold px-3 py-1.5 text-sm h-fit"
-                  >
-                    {item.year}
-                  </time>
-                  <p className="text-sm text-muted-foreground mt-3 md:mt-0">
-                    {isHindi ? item.descriptionHi : item.description}
-                  </p>
-                </article>
-              </li>
-            ))}
-          </ol>
+          <div className="max-h-[350px] overflow-y-auto pr-2">
+            <ol className="space-y-2">
+              {aboutData.milestones.map((item) => (
+                <li key={item.id}>
+                  <article className="rounded-lg border bg-background p-3 md:grid md:grid-cols-[120px,1fr] gap-3 hover:bg-muted/50 hover:border-primary/50 transition-colors cursor-pointer">
+                    <time
+                      dateTime={item.year}
+                      className="inline-flex items-center justify-center rounded-md bg-primary/10 text-primary font-semibold px-2 py-1 text-xs h-fit whitespace-nowrap"
+                    >
+                      {item.year}
+                    </time>
+                    <p className="text-xs text-muted-foreground mt-1 md:mt-0">
+                      {isHindi ? item.descriptionHi : item.description}
+                    </p>
+                  </article>
+                </li>
+              ))}
+            </ol>
+          </div>
         </section>
 
         <section aria-labelledby="infrastructure-heading" className="card-gov p-6 sm:p-8">
@@ -232,44 +234,36 @@ export default function About() {
           </div>
         </section>
 
-        <section aria-labelledby="export-heading" className="card-gov p-6 sm:p-8">
+        <section aria-labelledby="production-heading" className="card-gov p-6 sm:p-8">
           <div className="flex items-center gap-2 mb-5">
-            <Ship className="w-5 h-5 text-primary" aria-hidden="true" />
-            <h2 id="export-heading" className="text-xl font-bold text-foreground">
-              {labels.exportCapability}
+            <Factory className="w-5 h-5 text-primary" aria-hidden="true" />
+            <h2 id="production-heading" className="text-xl font-bold text-foreground">
+              {isHindi ? "वार्षिक कोच उत्पादन" : "Yearly Coach Production"}
             </h2>
           </div>
-          <p className="text-sm text-muted-foreground mb-4">
-            {isHindi ? aboutData.exportCapability.summaryHi : aboutData.exportCapability.summary}
-          </p>
-          <ul className="space-y-2">
-            {(isHindi ? aboutData.exportCapability.highlightsHi : aboutData.exportCapability.highlights).map((item) => (
-              <li key={item} className="rounded-md bg-muted/40 px-3 py-2 text-sm text-foreground">
-                {item}
-              </li>
-            ))}
-          </ul>
-        </section>
-
-        <section aria-labelledby="org-chart-heading" className="card-gov p-6 sm:p-8">
-          <div className="flex items-center gap-2 mb-5">
-            <Network className="w-5 h-5 text-primary" aria-hidden="true" />
-            <h2 id="org-chart-heading" className="text-xl font-bold text-foreground">
-              {labels.organisationChart}
-            </h2>
-          </div>
-          <div className="rounded-lg border bg-muted/40 min-h-48 p-6 flex items-center justify-center text-center">
-            <div>
-              <p className="font-semibold text-foreground">
-                {isHindi ? aboutData.organisationChart.titleHi : aboutData.organisationChart.title}
-              </p>
-              <p className="text-sm text-muted-foreground mt-1">
-                {isHindi ? aboutData.organisationChart.noteHi : aboutData.organisationChart.note}
-              </p>
-            </div>
+          <div className="overflow-x-auto">
+            <table className="w-full text-sm" role="table">
+              <thead>
+                <tr className="border-b bg-muted/50">
+                  <th className="text-left p-3 font-semibold">{isHindi ? "वर्ष" : "Year"}</th>
+                  <th className="text-left p-3 font-semibold">{isHindi ? "उत्पादित कोच" : "Coaches Produced"}</th>
+                  <th className="text-left p-3 font-semibold">{isHindi ? "नोट्स" : "Notes"}</th>
+                </tr>
+              </thead>
+              <tbody>
+                {aboutData.yearlyProduction.map((item) => (
+                  <tr key={item.id} className="border-b last:border-0 hover:bg-muted/30 transition-colors">
+                    <td className="p-3 font-medium">{item.year}</td>
+                    <td className="p-3">{item.coachesProduced}</td>
+                    <td className="p-3 text-muted-foreground">{isHindi ? item.notesHi : item.notes}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
           </div>
         </section>
       </div>
     </>
   );
 }
+
