@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { ChevronLeft, ChevronRight, Eye, Filter, Search } from "lucide-react";
 
 import PageHeader from "@/components/common/PageHeader";
+import PageActions from "@/components/common/PageActions";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { newsData, type NewsCategoryType } from "@/data/newsData";
 
@@ -91,6 +92,9 @@ export default function News() {
       <PageHeader title={t.news.title} breadcrumbs={[{ label: t.news.title }]} />
 
       <div className="container-page section-spacing space-y-6">
+        <div className="flex justify-end">
+          <PageActions title={t.news.title} />
+        </div>
         <section className="card-gov p-5" aria-labelledby="news-filters-heading">
           <div className="flex items-center gap-2 mb-4">
             <Filter className="w-4 h-4 text-primary" aria-hidden="true" />

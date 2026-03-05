@@ -2,6 +2,7 @@ import { useMemo, useState } from "react";
 import { Download, Eye, Filter, Search } from "lucide-react";
 
 import PageHeader from "@/components/common/PageHeader";
+import PageActions from "@/components/common/PageActions";
 import StatusBadge from "@/components/common/StatusBadge";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { tendersData } from "@/data/tendersData";
@@ -67,6 +68,9 @@ export default function Tenders() {
       <PageHeader title={t.tenders.title} breadcrumbs={[{ label: t.tenders.title }]} />
 
       <div className="container-page section-spacing space-y-6">
+        <div className="flex justify-end">
+          <PageActions title={t.tenders.title} />
+        </div>
         <section className="card-gov p-5" aria-labelledby="tender-filters-heading">
           <div className="flex items-center gap-2 mb-4">
             <Filter className="w-4 h-4 text-primary" aria-hidden="true" />

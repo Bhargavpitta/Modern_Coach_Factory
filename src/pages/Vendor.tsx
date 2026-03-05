@@ -1,6 +1,7 @@
 import { AlertTriangle, ClipboardList, Download, Mail, Phone, ScrollText } from "lucide-react";
 
 import PageHeader from "@/components/common/PageHeader";
+import PageActions from "@/components/common/PageActions";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { vendorData } from "@/data/vendorData";
 
@@ -23,6 +24,9 @@ export default function Vendor() {
       <PageHeader title={t.vendor.title} breadcrumbs={[{ label: t.vendor.title }]} />
 
       <main className="container-page section-spacing space-y-8">
+        <div className="flex justify-end">
+          <PageActions title={t.vendor.title} />
+        </div>
         <section aria-labelledby="vendor-overview-heading" className="card-gov p-6 sm:p-8">
           <div className="flex items-start gap-3">
             <ClipboardList className="w-6 h-6 text-primary mt-0.5" aria-hidden="true" />

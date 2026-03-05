@@ -1,6 +1,7 @@
 import { Mail, MapPin, Navigation, Phone, Train, Plane, Car } from "lucide-react";
 
 import PageHeader from "@/components/common/PageHeader";
+import PageActions from "@/components/common/PageActions";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { contactData } from "@/data/contactData";
 
@@ -30,6 +31,9 @@ export default function Contact() {
       <PageHeader title={t.contact.title} breadcrumbs={[{ label: t.contact.title }]} />
 
       <main className="container-page section-spacing space-y-8">
+        <div className="flex justify-end">
+          <PageActions title={t.contact.title} />
+        </div>
         <section aria-labelledby="mcf-address-heading">
           <h2 id="mcf-address-heading" className="text-xl font-bold text-foreground mb-4">
             {labels.addressBlock}

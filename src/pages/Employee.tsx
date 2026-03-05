@@ -12,6 +12,7 @@ import {
 import type { LucideIcon } from "lucide-react";
 
 import PageHeader from "@/components/common/PageHeader";
+import PageActions from "@/components/common/PageActions";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { employeeData } from "@/data/employeeData";
 
@@ -42,6 +43,9 @@ export default function Employee() {
       <PageHeader title={t.employee.title} breadcrumbs={[{ label: t.employee.title }]} />
 
       <main className="container-page section-spacing space-y-8">
+        <div className="flex justify-end">
+          <PageActions title={t.employee.title} />
+        </div>
         <section aria-labelledby="hr-modules-heading">
           <h2 id="hr-modules-heading" className="text-xl font-bold text-foreground mb-4">
             {t.employee.hrModules}

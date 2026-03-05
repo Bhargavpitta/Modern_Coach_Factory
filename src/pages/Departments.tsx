@@ -5,6 +5,7 @@ import type { LucideIcon } from "lucide-react";
 
 import { useLanguage } from "@/contexts/LanguageContext";
 import PageHeader from "@/components/common/PageHeader";
+import PageActions from "@/components/common/PageActions";
 import { departmentsData, type DepartmentCategory } from "@/data/departmentsData";
 
 const iconMap: Record<string, LucideIcon> = {
@@ -48,6 +49,9 @@ export default function Departments() {
       <PageHeader title={t.departments.title} breadcrumbs={[{ label: t.departments.title }]} />
 
       <div className="container-page section-spacing space-y-6">
+        <div className="flex justify-end">
+          <PageActions title={t.departments.title} />
+        </div>
         <section className="card-gov p-5" aria-labelledby="dept-filters-heading">
           <div className="flex items-center gap-2 mb-4">
             <Filter className="w-4 h-4 text-primary" aria-hidden="true" />

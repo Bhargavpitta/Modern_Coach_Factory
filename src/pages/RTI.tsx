@@ -1,6 +1,7 @@
 import { Download, FileText, Scale, UserCheck } from "lucide-react";
 
 import PageHeader from "@/components/common/PageHeader";
+import PageActions from "@/components/common/PageActions";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { rtiData } from "@/data/rtiData";
 
@@ -27,6 +28,9 @@ export default function RTI() {
       <PageHeader title={t.rti.title} breadcrumbs={[{ label: t.rti.title }]} />
 
       <main className="container-page section-spacing space-y-8">
+        <div className="flex justify-end">
+          <PageActions title={t.rti.title} />
+        </div>
         <section aria-labelledby="rti-overview-heading" className="card-gov p-6 sm:p-8">
           <div className="flex items-start gap-3">
             <Scale className="w-6 h-6 text-primary mt-0.5" aria-hidden="true" />
