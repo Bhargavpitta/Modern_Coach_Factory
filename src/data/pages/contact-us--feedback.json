@@ -1,0 +1,43 @@
+{
+  "id": "0,300,318",
+  "slug": "contact-us/feedback",
+  "title": "Feedback",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p>\n\t\t\t\t\t\t\t\t\t<br>\n\n\t\t\t\t\t\t\t\t\t\t\n\n\n<table width=\"90%\" align=\"center\" border=\"1\" brodercolor=\"EFEFEF\">\n\n\n\n\n\n\n<tr>\n\t<td height=\"25\" align=\"center\" class=\"textn\" colspan=\"2\" bgcolor=\"EFEFEF\">\n\t<b>Please fill out the following information</b>\n\t/कृपया निम्न जानकारी भरें</td>\n</tr>\n<tr>\n\t<td width=\"40%\" class=\"textn\">\n\tYour Name/ आपका नाम&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\t</td>\n\t<td width=\"60%\">\n\t\n\t</td>\n</tr>\n<tr>\n\t<td width=\"40%\" class=\"textn\">\n\tYour E-mail\n\t/ आपका ईमेल</td>\n\t<td width=\"60%\">\n\t\n\t</td>\n</tr>\n<tr>\n\t<td width=\"40%\" class=\"textn\">\n\tContact No. / संपर्क नंबर</td>\n\t<td width=\"60%\">\n\t\n\t</td>\n</tr>\n<tr>\n\t<td width=\"40%\" class=\"textn\">\n\tSelect type of comment\n\t/ टिप्पणी प्रकार का चयन करें</td>\n\t<td width=\"60%\">\n\t\n\t</td>\n</tr>\n<tr>\n\t<td width=\"40%\" class=\"textn\">\n\tComments\n\t/ टिप्पणी</td>\n\t<td width=\"60%\">\n\t\n\t</td>\n</tr>\n<tr>\n\t<td align=\"center\" colspan=\"2\">\n\t\n\t\n\t</td>\n</tr>\n\n</table>\n\n<br><br>",
+  "contentMarkdown": "  \n\n**Please fill out the following information** /कृपया निम्न जानकारी भरें\n\nYour Name/ आपका नाम                       \n\nYour E-mail / आपका ईमेल\n\nContact No. / संपर्क नंबर\n\nSelect type of comment / टिप्पणी प्रकार का चयन करें\n\nComments / टिप्पणी",
+  "tables": [
+    {
+      "headers": [
+        "Please fill out the following information /कृपया निम्न जानकारी भरें"
+      ],
+      "rows": [
+        [
+          "Your Name/ आपका नाम",
+          ""
+        ],
+        [
+          "Your E-mail / आपका ईमेल",
+          ""
+        ],
+        [
+          "Contact No. / संपर्क नंबर",
+          ""
+        ],
+        [
+          "Select type of comment / टिप्पणी प्रकार का चयन करें",
+          ""
+        ],
+        [
+          "Comments / टिप्पणी",
+          ""
+        ],
+        [
+          ""
+        ]
+      ]
+    }
+  ],
+  "images": [],
+  "attachments": []
+}

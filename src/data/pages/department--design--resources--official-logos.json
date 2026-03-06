@@ -1,0 +1,43 @@
+{
+  "id": "0,298,732,912,913",
+  "slug": "department/design/resources/official-logos",
+  "title": "Official Logos",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p>\n\t<strong>Indian Railways Official Logos</strong></p>\n<p>\n\tLogo in Red&nbsp;&nbsp; <a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/IR_logo_Red_400.png\">400px X 400px</a>&nbsp;&nbsp;&nbsp;&nbsp; <a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/IR_logo_Red_800.png\">800px X 800px</a>&nbsp;&nbsp;&nbsp; <a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/IR_logo_Red_1024.png\">1024px X 1024px</a>&nbsp;&nbsp;&nbsp; </p>\n<p>\n\tLogo in Blue&nbsp; <a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/IR_logo_Blue_400.png\">400px X 400px&nbsp;</a>&nbsp;&nbsp;&nbsp; <a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/IR_logo_Blue_800.png\">800px X 800px</a>&nbsp;&nbsp;&nbsp; <a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/IR_logo_Blue_1024.png\">1024px X 1024px</a>&nbsp;&nbsp;&nbsp; </p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "**Indian Railways Official Logos**\n\nLogo in Red   [400px X 400px](https://mcf.indianrailways.gov.in/uploads/IR_logo_Red_400.png)     [800px X 800px](https://mcf.indianrailways.gov.in/uploads/IR_logo_Red_800.png)    [1024px X 1024px](https://mcf.indianrailways.gov.in/uploads/IR_logo_Red_1024.png)   \n\nLogo in Blue  [400px X 400px](https://mcf.indianrailways.gov.in/uploads/IR_logo_Blue_400.png)     [800px X 800px](https://mcf.indianrailways.gov.in/uploads/IR_logo_Blue_800.png)    [1024px X 1024px](https://mcf.indianrailways.gov.in/uploads/IR_logo_Blue_1024.png)",
+  "tables": [],
+  "images": [],
+  "attachments": [
+    {
+      "label": "400px X 400px",
+      "href": "https://mcf.indianrailways.gov.in/uploads/IR_logo_Red_400.png",
+      "localPath": "attachments/IR_logo_Red_400.png"
+    },
+    {
+      "label": "800px X 800px",
+      "href": "https://mcf.indianrailways.gov.in/uploads/IR_logo_Red_800.png",
+      "localPath": "attachments/IR_logo_Red_800.png"
+    },
+    {
+      "label": "1024px X 1024px",
+      "href": "https://mcf.indianrailways.gov.in/uploads/IR_logo_Red_1024.png",
+      "localPath": "attachments/IR_logo_Red_1024.png"
+    },
+    {
+      "label": "400px X 400px",
+      "href": "https://mcf.indianrailways.gov.in/uploads/IR_logo_Blue_400.png",
+      "localPath": "attachments/IR_logo_Blue_400.png"
+    },
+    {
+      "label": "800px X 800px",
+      "href": "https://mcf.indianrailways.gov.in/uploads/IR_logo_Blue_800.png",
+      "localPath": "attachments/IR_logo_Blue_800.png"
+    },
+    {
+      "label": "1024px X 1024px",
+      "href": "https://mcf.indianrailways.gov.in/uploads/IR_logo_Blue_1024.png",
+      "localPath": "attachments/IR_logo_Blue_1024.png"
+    }
+  ]
+}

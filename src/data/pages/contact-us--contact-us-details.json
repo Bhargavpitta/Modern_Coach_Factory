@@ -1,0 +1,78 @@
+{
+  "id": "0,300,406",
+  "slug": "contact-us/contact-us-details",
+  "title": "Contact us Details",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p>\n\t<strong>Contact Us</strong></p>\n<p>\n\t&nbsp;</p>\n<table align=\"center\" border=\"2\" cellpadding=\"2\" cellspacing=\"2\" width=\"400\">\n\t\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/works/view_section.jsp?lang=0&amp;id=0,298,823,825\">Technical Training Centre</a></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/contcat%20details002.pdf\">IT Department</a></td>\n\t\t</tr>\n\t\n</table>\n<p>\n\t&nbsp;</p>\n<p>\n\t<strong>Help Desk</strong></p>\n<table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" width=\"400\">\n\t\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\tFor Tender Related enquiry &nbsp;mail to&nbsp;<a class=\"linkn\" href=\"mailto:dycmmhq@rcfrbl.railnet.gov.in\">dycmmhq@rcfrbl.railnet.gov.in</a></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\tFor Recruitment Related enquiry, Contact at&nbsp;0535-2704367 or mail&nbsp;on <a class=\"linkn\" href=\"mailto:dycpomcfrbl@gmail.com\">dycpomcfrbl@gmail.com</a></td>\n\t\t</tr>\n\t\n</table>\n<p>\n\t&nbsp;</p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "**Contact Us**\n\n[Technical Training Centre](https://mcf.indianrailways.gov.in/works/view_section.jsp?lang=0&id=0,298,823,825)\n\n[IT Department](https://mcf.indianrailways.gov.in/uploads/contcat%20details002.pdf)\n\n**Help Desk**\n\nFor Tender Related enquiry  mail to [dycmmhq@rcfrbl.railnet.gov.in](mailto:dycmmhq@rcfrbl.railnet.gov.in)\n\nFor Recruitment Related enquiry, Contact at 0535-2704367 or mail on [dycpomcfrbl@gmail.com](mailto:dycpomcfrbl@gmail.com)",
+  "tables": [
+    {
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Technical Training Centre"
+        ],
+        [
+          "IT Department"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "For Tender Related enquiry mail to dycmmhq@rcfrbl.railnet.gov.in"
+      ],
+      "rows": [
+        [
+          "For Recruitment Related enquiry, Contact at 0535-2704367 or mail on dycpomcfrbl@gmail.com"
+        ]
+      ]
+    }
+  ],
+  "images": [],
+  "attachments": [
+    {
+      "label": "IT Department",
+      "href": "https://mcf.indianrailways.gov.in/uploads/contcat%20details002.pdf",
+      "localPath": "attachments/contcat details002.pdf"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0,298,739,785",
+  "slug": "department/quality/departmental-chart",
+  "title": "Departmental Chart",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p>\n\t<img alt=\"\" src=\"https://mcf.indianrailways.gov.in/uploads/files/Organisation%20Chart(3).pdf\"><img alt=\"\" src=\"https://mcf.indianrailways.gov.in/uploads/files/orgnaisation%20chart_page-0001.jpg\"></p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "![](https://mcf.indianrailways.gov.in/uploads/files/Organisation%20Chart(3).pdf)![](https://mcf.indianrailways.gov.in/uploads/files/orgnaisation%20chart_page-0001.jpg)",
+  "tables": [],
+  "images": [
+    {
+      "src": "https://mcf.indianrailways.gov.in/uploads/files/Organisation%20Chart(3).pdf",
+      "alt": "",
+      "localPath": "images/Organisation Chart(3).pdf"
+    },
+    {
+      "src": "https://mcf.indianrailways.gov.in/uploads/files/orgnaisation%20chart_page-0001.jpg",
+      "alt": "",
+      "localPath": "images/orgnaisation chart_page-0001.jpg"
+    }
+  ],
+  "attachments": []
+}

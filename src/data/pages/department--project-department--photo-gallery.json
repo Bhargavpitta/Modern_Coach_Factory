@@ -1,0 +1,23 @@
+{
+  "id": "0,298,740,758",
+  "slug": "department/project-department/photo-gallery",
+  "title": "Photo Gallery",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p>\n\t<strong>1-</strong><strong><a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/works/uploads/File/Photo%20gallery%20PDF.pdf\">Photo Gallery</a></strong></p>\n<p>\n\t<strong>2-</strong><strong><a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/works/uploads/File/Green%20initiatives%20Photo%20Gallery.pdf\">Photo Gallery</a></strong></p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "**1-****[Photo Gallery](https://mcf.indianrailways.gov.in/works/uploads/File/Photo%20gallery%20PDF.pdf)**\n\n**2-****[Photo Gallery](https://mcf.indianrailways.gov.in/works/uploads/File/Green%20initiatives%20Photo%20Gallery.pdf)**",
+  "tables": [],
+  "images": [],
+  "attachments": [
+    {
+      "label": "Photo Gallery",
+      "href": "https://mcf.indianrailways.gov.in/works/uploads/File/Photo%20gallery%20PDF.pdf",
+      "localPath": "attachments/Photo gallery PDF.pdf"
+    },
+    {
+      "label": "Photo Gallery",
+      "href": "https://mcf.indianrailways.gov.in/works/uploads/File/Green%20initiatives%20Photo%20Gallery.pdf",
+      "localPath": "attachments/Green initiatives Photo Gallery.pdf"
+    }
+  ]
+}

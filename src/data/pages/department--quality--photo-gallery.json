@@ -1,0 +1,18 @@
+{
+  "id": "0,298,739,845",
+  "slug": "department/quality/photo-gallery",
+  "title": "Photo Gallery",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p>\n\t<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/files/Picture%20gallary(3).pdf\">Photo Gallery</a></p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "[Photo Gallery](https://mcf.indianrailways.gov.in/uploads/files/Picture%20gallary\\(3\\).pdf)",
+  "tables": [],
+  "images": [],
+  "attachments": [
+    {
+      "label": "Photo Gallery",
+      "href": "https://mcf.indianrailways.gov.in/uploads/files/Picture%20gallary(3).pdf",
+      "localPath": "attachments/Picture gallary(3).pdf"
+    }
+  ]
+}

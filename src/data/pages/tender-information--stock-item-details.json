@@ -1,0 +1,23 @@
+{
+  "id": "0,299,829",
+  "slug": "tender-information/stock-item-details",
+  "title": "Stock Item Details",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p>\n\t<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/works/uploads/File/A_Category%20MCF%20ABC_Cat_2019_20.pdf\">A Category Stock Items</a></p>\n<p>\n\t<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/works/uploads/File/B%20Category%20MCF%20ABC_Cat_2019_20.pdf\">B Category Stock Items</a></p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "[A Category Stock Items](https://mcf.indianrailways.gov.in/works/uploads/File/A_Category%20MCF%20ABC_Cat_2019_20.pdf)\n\n[B Category Stock Items](https://mcf.indianrailways.gov.in/works/uploads/File/B%20Category%20MCF%20ABC_Cat_2019_20.pdf)",
+  "tables": [],
+  "images": [],
+  "attachments": [
+    {
+      "label": "A Category Stock Items",
+      "href": "https://mcf.indianrailways.gov.in/works/uploads/File/A_Category%20MCF%20ABC_Cat_2019_20.pdf",
+      "localPath": "attachments/A_Category MCF ABC_Cat_2019_20.pdf"
+    },
+    {
+      "label": "B Category Stock Items",
+      "href": "https://mcf.indianrailways.gov.in/works/uploads/File/B%20Category%20MCF%20ABC_Cat_2019_20.pdf",
+      "localPath": "attachments/B Category MCF ABC_Cat_2019_20.pdf"
+    }
+  ]
+}

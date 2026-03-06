@@ -1,0 +1,52 @@
+{
+  "id": "0,298,740,748",
+  "slug": "department/project-department/contact-details",
+  "title": "Contact Details",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p align=\"center\">\n\t<strong>Contact details of Project Department</strong></p>\n<p align=\"center\">\n\t&nbsp;</p>\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<b>Name(Sh.smt)</b></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>Designation</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>DOT No.</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>Railway No.(039)</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<strong>Email-ID</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tVIVEK KHARE</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tPCME</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t2704300</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t60400</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tpcmemcf@gmail.com</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tMANOJ JAIN</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tCPM</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t2704273</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t61002</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tcpmmcfrbl@gmail.com</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tPRATAP SINGH</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tDy.CPM</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t61006</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tdycpmmcfrbl@gmail.com</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tSHABEEH AHMED</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tSME/Project</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t&nbsp;</td>\n\t\t\t<td>\n\t\t\t\t61038</td>\n\t\t\t<td>\n\t\t\t\tsmeprojectmcf@gmail.com</td>\n\t\t</tr>\n\t\n</table>\n<p>\n\t&nbsp;&nbsp;</p>\n<p>\n\t&nbsp;</p>\n<p>\n\t<strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fax No.0535-2704319</strong></p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "**Contact details of Project Department**\n\n**Name(Sh.smt)**\n\n**Designation**\n\n**DOT No.**\n\n**Railway No.(039)**\n\n**Email-ID**\n\nVIVEK KHARE\n\nPCME\n\n2704300\n\n60400\n\npcmemcf@gmail.com\n\nMANOJ JAIN\n\nCPM\n\n2704273\n\n61002\n\ncpmmcfrbl@gmail.com\n\nPRATAP SINGH\n\nDy.CPM\n\n61006\n\ndycpmmcfrbl@gmail.com\n\nSHABEEH AHMED\n\nSME/Project\n\n \n\n61038\n\nsmeprojectmcf@gmail.com\n\n            **Fax No.0535-2704319**",
+  "tables": [
+    {
+      "headers": [
+        "Name(Sh.smt)",
+        "Designation",
+        "DOT No.",
+        "Railway No.(039)",
+        "Email-ID"
+      ],
+      "rows": [
+        [
+          "VIVEK KHARE",
+          "PCME",
+          "2704300",
+          "60400",
+          "pcmemcf@gmail.com"
+        ],
+        [
+          "MANOJ JAIN",
+          "CPM",
+          "2704273",
+          "61002",
+          "cpmmcfrbl@gmail.com"
+        ],
+        [
+          "PRATAP SINGH",
+          "Dy.CPM",
+          "",
+          "61006",
+          "dycpmmcfrbl@gmail.com"
+        ],
+        [
+          "SHABEEH AHMED",
+          "SME/Project",
+          "",
+          "61038",
+          "smeprojectmcf@gmail.com"
+        ]
+      ]
+    }
+  ],
+  "images": [],
+  "attachments": []
+}

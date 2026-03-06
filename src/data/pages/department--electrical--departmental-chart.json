@@ -1,0 +1,18 @@
+{
+  "id": "0,298,998,999",
+  "slug": "department/electrical/departmental-chart",
+  "title": "Departmental Chart",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p dir=\"ltr\">\n\t\t<img alt=\"\" src=\"https://mcf.indianrailways.gov.in/uploads/0a24a4ef1d71af6d07c0fb3ee56dad97-0.jpeg\"></p>",
+  "contentMarkdown": "![](https://mcf.indianrailways.gov.in/uploads/0a24a4ef1d71af6d07c0fb3ee56dad97-0.jpeg)",
+  "tables": [],
+  "images": [
+    {
+      "src": "https://mcf.indianrailways.gov.in/uploads/0a24a4ef1d71af6d07c0fb3ee56dad97-0.jpeg",
+      "alt": "",
+      "localPath": "images/0a24a4ef1d71af6d07c0fb3ee56dad97-0.jpeg"
+    }
+  ],
+  "attachments": []
+}

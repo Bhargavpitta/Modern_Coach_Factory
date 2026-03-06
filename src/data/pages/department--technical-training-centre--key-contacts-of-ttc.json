@@ -1,0 +1,59 @@
+{
+  "id": "0,298,823,825",
+  "slug": "department/technical-training-centre/key-contacts-of-ttc",
+  "title": "Key Contacts of TTC",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p>\n\t&nbsp;</p>\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" width=\"655\">\n\t\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>S. No.</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>Designation</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>Contact No.</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>Email ID</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t01.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tDy. CME/Safety &amp; Training</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t--</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t--</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t02.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tPrincipal TTC</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tpttcmcfrbl@gmail.com</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t03</td>\n\t\t\t<td>\n\t\t\t\tSSE/TTC/Co-ordination</td>\n\t\t\t<td>\n\t\t\t\t9798209929</td>\n\t\t\t<td>\n\t\t\t\t&nbsp;--</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t04</td>\n\t\t\t<td>\n\t\t\t\tSSE/TTC/Elec</td>\n\t\t\t<td>\n\t\t\t\t7408062174</td>\n\t\t\t<td>\n\t\t\t\t--</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t05</td>\n\t\t\t<td>\n\t\t\t\tSSE/TTC/Hostel &amp; Library</td>\n\t\t\t<td>\n\t\t\t\t7905817485</td>\n\t\t\t<td>\n\t\t\t\t--</td>\n\t\t</tr>\n\t\n</table>\n<p>\n\t&nbsp;</p>\n<p>\n\t<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/Scann%20by%20Dheeru%20Apr%206%2C%202022%204-01%20PM.pdf\">MCF TTC Training Calendar 2022-23</a></p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "**S. No.**\n\n**Designation**\n\n**Contact No.**\n\n**Email ID**\n\n01.\n\nDy. CME/Safety & Training\n\n\\--\n\n\\--\n\n02.\n\nPrincipal TTC\n\npttcmcfrbl@gmail.com\n\n03\n\nSSE/TTC/Co-ordination\n\n9798209929\n\n --\n\n04\n\nSSE/TTC/Elec\n\n7408062174\n\n\\--\n\n05\n\nSSE/TTC/Hostel & Library\n\n7905817485\n\n\\--\n\n[MCF TTC Training Calendar 2022-23](https://mcf.indianrailways.gov.in/uploads/Scann%20by%20Dheeru%20Apr%206%2C%202022%204-01%20PM.pdf)",
+  "tables": [
+    {
+      "headers": [
+        "S. No.",
+        "Designation",
+        "Contact No.",
+        "Email ID"
+      ],
+      "rows": [
+        [
+          "01.",
+          "Dy. CME/Safety & Training",
+          "--",
+          "--"
+        ],
+        [
+          "02.",
+          "Principal TTC",
+          "",
+          "pttcmcfrbl@gmail.com"
+        ],
+        [
+          "03",
+          "SSE/TTC/Co-ordination",
+          "9798209929",
+          "--"
+        ],
+        [
+          "04",
+          "SSE/TTC/Elec",
+          "7408062174",
+          "--"
+        ],
+        [
+          "05",
+          "SSE/TTC/Hostel & Library",
+          "7905817485",
+          "--"
+        ]
+      ]
+    }
+  ],
+  "images": [],
+  "attachments": [
+    {
+      "label": "MCF TTC Training Calendar 2022-23",
+      "href": "https://mcf.indianrailways.gov.in/uploads/Scann%20by%20Dheeru%20Apr%206%2C%202022%204-01%20PM.pdf",
+      "localPath": "attachments/Scann by Dheeru Apr 6, 2022 4-01 PM.pdf"
+    }
+  ]
+}

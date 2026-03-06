@@ -1,0 +1,23 @@
+{
+  "id": "0,295,899",
+  "slug": "news-information/offical-laptop-policy-and-forms",
+  "title": "Offical Laptop Policy and Forms",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p>\n\t<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/Laptop%20Policy(1).pdf\">Official Laptop Policy</a></p>\n<p>\n\t<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/modified%20laptop%20rem_form(4).pdf\">Laptop&nbsp;Reimburment&nbsp;Forms</a></p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "[Official Laptop Policy](https://mcf.indianrailways.gov.in/uploads/Laptop%20Policy\\(1\\).pdf)\n\n[Laptop Reimburment Forms](https://mcf.indianrailways.gov.in/uploads/modified%20laptop%20rem_form\\(4\\).pdf)",
+  "tables": [],
+  "images": [],
+  "attachments": [
+    {
+      "label": "Official Laptop Policy",
+      "href": "https://mcf.indianrailways.gov.in/uploads/Laptop%20Policy(1).pdf",
+      "localPath": "attachments/Laptop Policy(1).pdf"
+    },
+    {
+      "label": "Laptop Reimburment Forms",
+      "href": "https://mcf.indianrailways.gov.in/uploads/modified%20laptop%20rem_form(4).pdf",
+      "localPath": "attachments/modified laptop rem_form(4).pdf"
+    }
+  ]
+}

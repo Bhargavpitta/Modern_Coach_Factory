@@ -1,0 +1,66 @@
+{
+  "id": "0,298,741,792",
+  "slug": "department/civil-engineering/contact-details",
+  "title": "Contact Details",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p align=\"center\" class=\"MsoNormal\">\n\t&nbsp;</p>\n<p class=\"MsoNormal\">\n\t<b>CONTACT DETAILS OF CIVIL DEPARTMENT&nbsp;</b><b></b><b></b></p>\n<table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\">\n\t\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<strong>S.No</strong></td>\n\t\t\t<td>\n\t\t\t\t<strong>Name/Shri</strong></td>\n\t\t\t<td>\n\t\t\t\t<strong>Designation</strong></td>\n\t\t\t<td>\n\t\t\t\t<strong>Rly No</strong></td>\n\t\t\t<td>\n\t\t\t\t<strong>CUG No</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t1</td>\n\t\t\t<td>\n\t\t\t\tSatya Prakash Yadav</td>\n\t\t\t<td>\n\t\t\t\tPCE</td>\n\t\t\t<td>\n\t\t\t\t61200</td>\n\t\t\t<td>\n\t\t\t\t7318060200</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t2</td>\n\t\t\t<td>\n\t\t\t\tNeta Prasad</td>\n\t\t\t<td>\n\t\t\t\tDy.CE/P&amp;D,TA</td>\n\t\t\t<td>\n\t\t\t\t61202</td>\n\t\t\t<td>\n\t\t\t\t7318060202</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t3</td>\n\t\t\t<td>\n\t\t\t\tU.C. Kushwaha</td>\n\t\t\t<td>\n\t\t\t\tDy.CE-I</td>\n\t\t\t<td>\n\t\t\t\t61201</td>\n\t\t\t<td>\n\t\t\t\t7318060201</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t4</td>\n\t\t\t<td>\n\t\t\t\tPankaj Kumar Rai</td>\n\t\t\t<td>\n\t\t\t\tAXEN/Workshop</td>\n\t\t\t<td>\n\t\t\t\t61248</td>\n\t\t\t<td>\n\t\t\t\t7318060223</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t5</td>\n\t\t\t<td>\n\t\t\t\tMukesh Verma</td>\n\t\t\t<td>\n\t\t\t\tAXEN/HQ</td>\n\t\t\t<td>\n\t\t\t\t61217</td>\n\t\t\t<td>\n\t\t\t\t7318060228</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t6</td>\n\t\t\t<td>\n\t\t\t\tAmit Kumar Singh</td>\n\t\t\t<td>\n\t\t\t\tAXEN/TS</td>\n\t\t\t<td>\n\t\t\t\t61216</td>\n\t\t\t<td>\n\t\t\t\t7318060229</td>\n\t\t</tr>\n\t\n</table>\n<p>\n\t&nbsp;</p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "**CONTACT DETAILS OF CIVIL DEPARTMENT** \n\n**S.No**\n\n**Name/Shri**\n\n**Designation**\n\n**Rly No**\n\n**CUG No**\n\n1\n\nSatya Prakash Yadav\n\nPCE\n\n61200\n\n7318060200\n\n2\n\nNeta Prasad\n\nDy.CE/P&D,TA\n\n61202\n\n7318060202\n\n3\n\nU.C. Kushwaha\n\nDy.CE-I\n\n61201\n\n7318060201\n\n4\n\nPankaj Kumar Rai\n\nAXEN/Workshop\n\n61248\n\n7318060223\n\n5\n\nMukesh Verma\n\nAXEN/HQ\n\n61217\n\n7318060228\n\n6\n\nAmit Kumar Singh\n\nAXEN/TS\n\n61216\n\n7318060229",
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Name/Shri",
+        "Designation",
+        "Rly No",
+        "CUG No"
+      ],
+      "rows": [
+        [
+          "1",
+          "Satya Prakash Yadav",
+          "PCE",
+          "61200",
+          "7318060200"
+        ],
+        [
+          "2",
+          "Neta Prasad",
+          "Dy.CE/P&D,TA",
+          "61202",
+          "7318060202"
+        ],
+        [
+          "3",
+          "U.C. Kushwaha",
+          "Dy.CE-I",
+          "61201",
+          "7318060201"
+        ],
+        [
+          "4",
+          "Pankaj Kumar Rai",
+          "AXEN/Workshop",
+          "61248",
+          "7318060223"
+        ],
+        [
+          "5",
+          "Mukesh Verma",
+          "AXEN/HQ",
+          "61217",
+          "7318060228"
+        ],
+        [
+          "6",
+          "Amit Kumar Singh",
+          "AXEN/TS",
+          "61216",
+          "7318060229"
+        ]
+      ]
+    }
+  ],
+  "images": [],
+  "attachments": []
+}

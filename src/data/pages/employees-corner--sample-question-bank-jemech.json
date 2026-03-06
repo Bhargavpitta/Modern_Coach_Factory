@@ -1,0 +1,18 @@
+{
+  "id": "0,297,973",
+  "slug": "employees-corner/sample-question-bank-jemech",
+  "title": "Sample Question Bank (JE/Mech.)",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/Basic%20Electrical.PDF\">Basic Electrical</a>",
+  "contentMarkdown": "[Basic Electrical](https://mcf.indianrailways.gov.in/uploads/Basic%20Electrical.PDF)",
+  "tables": [],
+  "images": [],
+  "attachments": [
+    {
+      "label": "Basic Electrical",
+      "href": "https://mcf.indianrailways.gov.in/uploads/Basic%20Electrical.PDF",
+      "localPath": "attachments/Basic Electrical.PDF"
+    }
+  ]
+}

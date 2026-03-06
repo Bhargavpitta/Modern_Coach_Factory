@@ -1,0 +1,73 @@
+{
+  "id": "0,298,728,762",
+  "slug": "department/personnel/contact-details",
+  "title": "Contact Details",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p>\n\tContact Details</p>\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<strong>Sr.No</strong></td>\n\t\t\t<td>\n\t\t\t\t<strong>Name of Officer(Shri)</strong></td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>Designation</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>DOT (0535)</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>Rly.No. (039)</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t1</td>\n\t\t\t<td>\n\t\t\t\tRoopesh Kumar Srivastava</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tPCPO</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t2704306</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t61600</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t2</td>\n\t\t\t<td>\n\t\t\t\tAnil Kumar Mishra</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tDy.CPO/NG</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t2704285</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t61601</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t3</td>\n\t\t\t<td>\n\t\t\t\tNeeraj Srivastava</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tSPO/NG</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t----------</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t61621</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t4</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tAnil Kumar Yadav</td>\n\t\t\t<td>\n\t\t\t\tSPO/G</td>\n\t\t\t<td>\n\t\t\t\t----------</td>\n\t\t\t<td>\n\t\t\t\t61612</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t5</td>\n\t\t\t<td>\n\t\t\t\tZ.M.Khan</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tAPO/Bill</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t----------</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t61616</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t6</td>\n\t\t\t<td>\n\t\t\t\tDipak Kumar</td>\n\t\t\t<td>\n\t\t\t\tAPO/IR &amp; Welfare</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t----------</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t61602</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t7</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\tDarb Singh Meena</td>\n\t\t\t<td>\n\t\t\t\tAPO/Staff</td>\n\t\t\t<td>\n\t\t\t\t----------</td>\n\t\t\t<td>\n\t\t\t\t61614</td>\n\t\t</tr>\n\t\n</table>\n<p>\n\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "Contact Details\n\n**Sr.No**\n\n**Name of Officer(Shri)**\n\n**Designation**\n\n**DOT (0535)**\n\n**Rly.No. (039)**\n\n1\n\nRoopesh Kumar Srivastava\n\nPCPO\n\n2704306\n\n61600\n\n2\n\nAnil Kumar Mishra\n\nDy.CPO/NG\n\n2704285\n\n61601\n\n3\n\nNeeraj Srivastava\n\nSPO/NG\n\n\\----------\n\n61621\n\n4\n\nAnil Kumar Yadav\n\nSPO/G\n\n\\----------\n\n61612\n\n5\n\nZ.M.Khan\n\nAPO/Bill\n\n\\----------\n\n61616\n\n6\n\nDipak Kumar\n\nAPO/IR & Welfare\n\n\\----------\n\n61602\n\n7\n\nDarb Singh Meena\n\nAPO/Staff\n\n\\----------\n\n61614",
+  "tables": [
+    {
+      "headers": [
+        "Sr.No",
+        "Name of Officer(Shri)",
+        "Designation",
+        "DOT (0535)",
+        "Rly.No. (039)"
+      ],
+      "rows": [
+        [
+          "1",
+          "Roopesh Kumar Srivastava",
+          "PCPO",
+          "2704306",
+          "61600"
+        ],
+        [
+          "2",
+          "Anil Kumar Mishra",
+          "Dy.CPO/NG",
+          "2704285",
+          "61601"
+        ],
+        [
+          "3",
+          "Neeraj Srivastava",
+          "SPO/NG",
+          "----------",
+          "61621"
+        ],
+        [
+          "4",
+          "Anil Kumar Yadav",
+          "SPO/G",
+          "----------",
+          "61612"
+        ],
+        [
+          "5",
+          "Z.M.Khan",
+          "APO/Bill",
+          "----------",
+          "61616"
+        ],
+        [
+          "6",
+          "Dipak Kumar",
+          "APO/IR & Welfare",
+          "----------",
+          "61602"
+        ],
+        [
+          "7",
+          "Darb Singh Meena",
+          "APO/Staff",
+          "----------",
+          "61614"
+        ]
+      ]
+    }
+  ],
+  "images": [],
+  "attachments": []
+}

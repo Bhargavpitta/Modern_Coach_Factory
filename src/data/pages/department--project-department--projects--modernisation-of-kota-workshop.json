@@ -1,0 +1,18 @@
+{
+  "id": "0,298,740,753,757",
+  "slug": "department/project-department/projects/modernisation-of-kota-workshop",
+  "title": "Modernisation of Kota Workshop",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p><img alt=\"\" src=\"https://mcf.indianrailways.gov.in/works/uploads/Image/kota.JPG\"></p><p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "![](https://mcf.indianrailways.gov.in/works/uploads/Image/kota.JPG)",
+  "tables": [],
+  "images": [
+    {
+      "src": "https://mcf.indianrailways.gov.in/works/uploads/Image/kota.JPG",
+      "alt": "",
+      "localPath": "images/kota.JPG"
+    }
+  ],
+  "attachments": []
+}

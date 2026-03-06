@@ -1,0 +1,35 @@
+{
+  "id": "0,298,745,924",
+  "slug": "department/vigilance/related-links",
+  "title": "Related Links",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"center\">\n\t\t<strong>RELATED LINKS</strong></p>\n\t<p>\n\t\t&nbsp;</p>\n\t<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"1\" width=\"462\">\n\t\t\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\t<p>\n\t\t\t\t\t\t<a class=\"linkn\" href=\"https://cvc.gov.in/\">&nbsp;&nbsp;Central Vigilance Commission&nbsp;&nbsp;</a></p>\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\t<p>\n\t\t\t\t\t\t&nbsp;&nbsp;<a class=\"linkn\" href=\"http://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&amp;id=0,1,304,366,546\">Vigilance Directorate/Railway Board&nbsp;</a></p>\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\t<p>\n\t\t\t\t\t\t&nbsp;&nbsp;<a class=\"linkn\" href=\"https://indianrailways.gov.in/railwayboard/uploads/directorate/vigilance/VM_2018/Indian_Railways_Vigilance_Manual-2018_Sep-18.pdf\">IRVM</a></p>\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\t<p>\n\t\t\t\t\t\t&nbsp;&nbsp;<a class=\"linkn\" href=\"https://cbi.gov.in/\">Central Bureau of Investigation&nbsp;</a></p>\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t\n\t</table>\n\t\n\t\t&nbsp;\n\t<p>\n\t\t&nbsp;</p>",
+  "contentMarkdown": "**RELATED LINKS**\n\n  [Central Vigilance Commission](https://cvc.gov.in/)  \n\n  [Vigilance Directorate/Railway Board](http://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,1,304,366,546) \n\n  [IRVM](https://indianrailways.gov.in/railwayboard/uploads/directorate/vigilance/VM_2018/Indian_Railways_Vigilance_Manual-2018_Sep-18.pdf)\n\n  [Central Bureau of Investigation](https://cbi.gov.in/)",
+  "tables": [
+    {
+      "headers": [
+        "Central Vigilance Commission"
+      ],
+      "rows": [
+        [
+          "Vigilance Directorate/Railway Board"
+        ],
+        [
+          "IRVM"
+        ],
+        [
+          "Central Bureau of Investigation"
+        ]
+      ]
+    }
+  ],
+  "images": [],
+  "attachments": [
+    {
+      "label": "IRVM",
+      "href": "https://indianrailways.gov.in/railwayboard/uploads/directorate/vigilance/VM_2018/Indian_Railways_Vigilance_Manual-2018_Sep-18.pdf",
+      "localPath": "attachments/Indian_Railways_Vigilance_Manual-2018_Sep-18.pdf"
+    }
+  ]
+}

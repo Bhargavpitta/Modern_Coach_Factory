@@ -1,0 +1,28 @@
+{
+  "id": "0,295,667,1023",
+  "slug": "news-information/press-release/2023",
+  "title": "2023",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "02.<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/Kavi%20Sammelan%20at%20MCF.pdf\">Press Release on Kavi Sammelan</a><a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/DG%20Safety%20Visit%20at%20MCF(2).PDF\">&nbsp;at MCF</a><a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/DG%20Safety%20Visit%20at%20MCF(3).PDF\">&nbsp;</a>",
+  "contentMarkdown": "02.[Press Release on Kavi Sammelan](https://mcf.indianrailways.gov.in/uploads/Kavi%20Sammelan%20at%20MCF.pdf) [at MCF](https://mcf.indianrailways.gov.in/uploads/DG%20Safety%20Visit%20at%20MCF\\(2\\).PDF) [](https://mcf.indianrailways.gov.in/uploads/DG%20Safety%20Visit%20at%20MCF\\(3\\).PDF)",
+  "tables": [],
+  "images": [],
+  "attachments": [
+    {
+      "label": "Press Release on Kavi Sammelan",
+      "href": "https://mcf.indianrailways.gov.in/uploads/Kavi%20Sammelan%20at%20MCF.pdf",
+      "localPath": "attachments/Kavi Sammelan at MCF.pdf"
+    },
+    {
+      "label": "at MCF",
+      "href": "https://mcf.indianrailways.gov.in/uploads/DG%20Safety%20Visit%20at%20MCF(2).PDF",
+      "localPath": "attachments/DG Safety Visit at MCF(2).PDF"
+    },
+    {
+      "label": "DG Safety Visit at MCF(3).PDF",
+      "href": "https://mcf.indianrailways.gov.in/uploads/DG%20Safety%20Visit%20at%20MCF(3).PDF",
+      "localPath": "attachments/DG Safety Visit at MCF(3).PDF"
+    }
+  ]
+}

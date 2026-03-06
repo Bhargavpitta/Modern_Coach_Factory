@@ -1,0 +1,24 @@
+{
+  "id": "0,294,1050",
+  "slug": "about-mcf/heritage",
+  "title": "Heritage",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/1751697950955G%20Branch.pdf\"><img alt=\"\" src=\"https://mcf.indianrailways.gov.in/uploads/Image/WhatsApp%20Image%202025-07-12%20at%2010_36_37%20AM.jpeg\"></a>",
+  "contentMarkdown": "[![](https://mcf.indianrailways.gov.in/uploads/Image/WhatsApp%20Image%202025-07-12%20at%2010_36_37%20AM.jpeg)](https://mcf.indianrailways.gov.in/uploads/1751697950955G%20Branch.pdf)",
+  "tables": [],
+  "images": [
+    {
+      "src": "https://mcf.indianrailways.gov.in/uploads/Image/WhatsApp%20Image%202025-07-12%20at%2010_36_37%20AM.jpeg",
+      "alt": "",
+      "localPath": "images/WhatsApp Image 2025-07-12 at 10_36_37 AM.jpeg"
+    }
+  ],
+  "attachments": [
+    {
+      "label": "1751697950955G Branch.pdf",
+      "href": "https://mcf.indianrailways.gov.in/uploads/1751697950955G%20Branch.pdf",
+      "localPath": "attachments/1751697950955G Branch.pdf"
+    }
+  ]
+}

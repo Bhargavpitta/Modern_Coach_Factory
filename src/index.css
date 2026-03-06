@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700;800&family=Noto+Sans+Devanagari:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ================= BASE VARIABLES ================= */
+
+@layer base {
+  :root {
+    --background: 210 20% 98%;
+    --foreground: 215 30% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 215 30% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 215 30% 15%;
+
+    --primary: 215 70% 22%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 210 25% 93%;
+    --secondary-foreground: 215 30% 15%;
+
+    --muted: 210 20% 95%;
+    --muted-foreground: 215 15% 45%;
+
+    --accent: 0 72% 45%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214 20% 88%;
+    --input: 214 20% 88%;
+    --ring: 215 70% 22%;
+
+    --radius: 0.5rem;
+
+    --railway-blue: 215 70% 22%;
+    --railway-blue-light: 215 60% 35%;
+    --railway-blue-lighter: 215 50% 50%;
+    --railway-dark: 215 80% 12%;
+    --railway-red: 0 72% 45%;
+    --railway-red-light: 0 65% 55%;
+    --railway-gold: 40 85% 50%;
+    --railway-green: 145 60% 38%;
+    --railway-surface: 210 25% 97%;
+    --railway-surface-alt: 215 20% 94%;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold tracking-tight;
+  }
+}
+
+/* ================= COMPONENTS ================= */
+
+@layer components {
+  .container-page {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-spacing {
+    @apply py-12 md:py-16;
+  }
+
+  .card-gov {
+    @apply bg-card rounded-lg border shadow-sm hover:shadow-md transition-shadow duration-200;
+  }
+
+  .badge-status {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+  }
+
+  .badge-open {
+    @apply badge-status bg-railway-green/10 text-railway-green;
+  }
+
+  .badge-closed {
+    @apply badge-status bg-railway-red/10 text-railway-red;
+  }
+
+  .badge-upcoming {
+    @apply badge-status bg-railway-gold/10 text-railway-gold;
+  }
+
+  .link-gov {
+    @apply text-primary underline-offset-4 hover:underline focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 rounded-sm;
+  }
+
+  .utility-bar {
+    @apply bg-railway-dark text-primary-foreground text-sm py-1.5;
+  }
+
+  .nav-gov {
+    @apply bg-primary text-primary-foreground sticky top-0 z-50 shadow-md;
+  }
+
+  .hero-overlay {
+    @apply absolute inset-0 bg-gradient-to-r from-railway-dark/90 via-railway-dark/70 to-transparent;
+  }
+
+  .quick-tile {
+    @apply card-gov flex flex-col items-center gap-3 p-6 text-center cursor-pointer hover:border-primary/30;
+  }
+
+  .footer-gov {
+    @apply bg-railway-dark text-primary-foreground;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.2s ease-out;
+}
+
+/* MCF content HTML styles */
+.content-html {
+  line-height: 1.6;
+}
+.content-html table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.875rem;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.content-html table th,
+.content-html table td {
+  border: 1px solid hsl(var(--border));
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+  min-width: 80px;
+}
+.content-html table th {
+  background-color: hsl(var(--muted));
+  font-weight: 600;
+  white-space: nowrap;
+}
+.content-html table tr:nth-child(even) td {
+  background-color: hsl(var(--muted) / 0.3);
+}
+.content-html a {
+  color: hsl(var(--primary));
+  text-decoration: underline;
+  word-break: break-word;
+}
+.content-html p {
+  margin-bottom: 0.75rem;
+}
+.content-html ul,
+.content-html ol {
+  margin: 0.5rem 0 0.75rem 1.5rem;
+}
+.content-html li {
+  margin-bottom: 0.25rem;
+}
+.content-html h1,
+.content-html h2,
+.content-html h3,
+.content-html h4 {
+  font-weight: 600;
+  margin: 1.25rem 0 0.5rem;
+  line-height: 1.3;
+}
+.content-html img {
+  max-width: 100%;
+  height: auto;
+}

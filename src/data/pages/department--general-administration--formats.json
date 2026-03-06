@@ -1,0 +1,28 @@
+{
+  "id": "0,298,729,1010",
+  "slug": "department/general-administration/formats",
+  "title": "FORMATS",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p class=\"MsoListParagraphCxSpFirst\">\n\t\t<!--[if !supportLists]-->§<!--[endif]-->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ORH Booking Requisition&nbsp;&nbsp; – NDLS/LKO/LLJ <a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/ORH%20FORM.PDF\">Click here</a>&nbsp;&nbsp;&nbsp;</p>\n\t<p class=\"MsoListParagraphCxSpMiddle\">\n\t\t<!--[if !supportLists]-->§<!--[endif]-->WGH/SRH Booking Requisition – NDLS/LKO/LLJ&nbsp;&nbsp;<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/SRH%20FORM.PDF\">Click here</a></p>\n\t<p class=\"MsoListParagraphCxSpMiddle\">\n\t\t§Format for Noise Permission&nbsp;&nbsp;<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/formate%20for%20noise%20pollution%20permission%20.PDF\">Click here</a></p>",
+  "contentMarkdown": "§       ORH Booking Requisition   – NDLS/LKO/LLJ [Click here](https://mcf.indianrailways.gov.in/uploads/ORH%20FORM.PDF)   \n\n§WGH/SRH Booking Requisition – NDLS/LKO/LLJ  [Click here](https://mcf.indianrailways.gov.in/uploads/SRH%20FORM.PDF)\n\n§Format for Noise Permission  [Click here](https://mcf.indianrailways.gov.in/uploads/formate%20for%20noise%20pollution%20permission%20.PDF)",
+  "tables": [],
+  "images": [],
+  "attachments": [
+    {
+      "label": "Click here",
+      "href": "https://mcf.indianrailways.gov.in/uploads/ORH%20FORM.PDF",
+      "localPath": "attachments/ORH FORM.PDF"
+    },
+    {
+      "label": "Click here",
+      "href": "https://mcf.indianrailways.gov.in/uploads/SRH%20FORM.PDF",
+      "localPath": "attachments/SRH FORM.PDF"
+    },
+    {
+      "label": "Click here",
+      "href": "https://mcf.indianrailways.gov.in/uploads/formate%20for%20noise%20pollution%20permission%20.PDF",
+      "localPath": "attachments/formate for noise pollution permission .PDF"
+    }
+  ]
+}

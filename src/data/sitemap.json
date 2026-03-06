@@ -1,0 +1,2319 @@
+[
+  {
+    "id": "0,294",
+    "label": "About MCF",
+    "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294",
+    "slug": "about-mcf",
+    "depth": 1,
+    "parentId": null,
+    "children": [
+      {
+        "id": "0,294,302",
+        "label": "General Manager",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C302",
+        "slug": "about-mcf/general-manager",
+        "depth": 2,
+        "parentId": "0,294",
+        "children": []
+      },
+      {
+        "id": "0,294,928",
+        "label": "MCF Organisation Chart",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C928",
+        "slug": "about-mcf/mcf-organisation-chart",
+        "depth": 2,
+        "parentId": "0,294",
+        "children": []
+      },
+      {
+        "id": "0,294,467",
+        "label": "Milestones of MCF",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C467",
+        "slug": "about-mcf/milestones-of-mcf",
+        "depth": 2,
+        "parentId": "0,294",
+        "children": []
+      },
+      {
+        "id": "0,294,1050",
+        "label": "Heritage",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C1050",
+        "slug": "about-mcf/heritage",
+        "depth": 2,
+        "parentId": "0,294",
+        "children": []
+      },
+      {
+        "id": "0,294,812",
+        "label": "RailNet Link",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C812",
+        "slug": "about-mcf/railnet-link",
+        "depth": 2,
+        "parentId": "0,294",
+        "children": []
+      },
+      {
+        "id": "0,294,917",
+        "label": "Export",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C917",
+        "slug": "about-mcf/export",
+        "depth": 2,
+        "parentId": "0,294",
+        "children": [
+          {
+            "id": "0,294,917,918",
+            "label": "Mozambique",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C917%2C918",
+            "slug": "about-mcf/export/mozambique",
+            "depth": 3,
+            "parentId": "0,294,917",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,294,327",
+        "label": "Rajbhasha",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C327",
+        "slug": "about-mcf/rajbhasha",
+        "depth": 2,
+        "parentId": "0,294",
+        "children": []
+      },
+      {
+        "id": "0,294,616",
+        "label": "Annual Report",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C616",
+        "slug": "about-mcf/annual-report",
+        "depth": 2,
+        "parentId": "0,294",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "0,295",
+    "label": "News & Information",
+    "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295",
+    "slug": "news-information",
+    "depth": 1,
+    "parentId": null,
+    "children": [
+      {
+        "id": "0,295,667",
+        "label": "Press Release",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667",
+        "slug": "news-information/press-release",
+        "depth": 2,
+        "parentId": "0,295",
+        "children": [
+          {
+            "id": "0,295,667,1046",
+            "label": "2025",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667%2C1046",
+            "slug": "news-information/press-release/2025",
+            "depth": 3,
+            "parentId": "0,295,667",
+            "children": []
+          },
+          {
+            "id": "0,295,667,1032",
+            "label": "2024",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667%2C1032",
+            "slug": "news-information/press-release/2024",
+            "depth": 3,
+            "parentId": "0,295,667",
+            "children": []
+          },
+          {
+            "id": "0,295,667,1023",
+            "label": "2023",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667%2C1023",
+            "slug": "news-information/press-release/2023",
+            "depth": 3,
+            "parentId": "0,295,667",
+            "children": []
+          },
+          {
+            "id": "0,295,667,990",
+            "label": "2022",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667%2C990",
+            "slug": "news-information/press-release/2022",
+            "depth": 3,
+            "parentId": "0,295,667",
+            "children": []
+          },
+          {
+            "id": "0,295,667,991",
+            "label": "Before 2022",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667%2C991",
+            "slug": "news-information/press-release/before-2022",
+            "depth": 3,
+            "parentId": "0,295,667",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,295,700",
+        "label": "Features in MCF Designed Coaches",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C700",
+        "slug": "news-information/features-in-mcf-designed-coaches",
+        "depth": 2,
+        "parentId": "0,295",
+        "children": [
+          {
+            "id": "0,295,700,701",
+            "label": "Deen Dayalu Coaches",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C700%2C701",
+            "slug": "news-information/features-in-mcf-designed-coaches/deen-dayalu-coaches",
+            "depth": 3,
+            "parentId": "0,295,700",
+            "children": []
+          },
+          {
+            "id": "0,295,700,702",
+            "label": "Antyodaya Express Coaches",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C700%2C702",
+            "slug": "news-information/features-in-mcf-designed-coaches/antyodaya-express-coaches",
+            "depth": 3,
+            "parentId": "0,295,700",
+            "children": []
+          },
+          {
+            "id": "0,295,700,703",
+            "label": "Humsafar Coaches",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C700%2C703",
+            "slug": "news-information/features-in-mcf-designed-coaches/humsafar-coaches",
+            "depth": 3,
+            "parentId": "0,295,700",
+            "children": []
+          },
+          {
+            "id": "0,295,700,704",
+            "label": "Tejas Coaches",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C700%2C704",
+            "slug": "news-information/features-in-mcf-designed-coaches/tejas-coaches",
+            "depth": 3,
+            "parentId": "0,295,700",
+            "children": []
+          },
+          {
+            "id": "0,295,700,993",
+            "label": "AC 3 Tier Economy (LWACCNE)",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C700%2C993",
+            "slug": "news-information/features-in-mcf-designed-coaches/ac-3-tier-economy-lwaccne",
+            "depth": 3,
+            "parentId": "0,295,700",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,295,813",
+        "label": "Right To Information Act",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C813",
+        "slug": "news-information/right-to-information-act",
+        "depth": 2,
+        "parentId": "0,295",
+        "children": []
+      },
+      {
+        "id": "0,295,1021",
+        "label": "Kaushal Vikas Yojna",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C1021",
+        "slug": "news-information/kaushal-vikas-yojna",
+        "depth": 2,
+        "parentId": "0,295",
+        "children": []
+      },
+      {
+        "id": "0,295,582",
+        "label": "Quality",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582",
+        "slug": "news-information/quality",
+        "depth": 2,
+        "parentId": "0,295",
+        "children": [
+          {
+            "id": "0,295,582,925",
+            "label": "Warranty",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C925",
+            "slug": "news-information/quality/warranty",
+            "depth": 3,
+            "parentId": "0,295,582",
+            "children": []
+          },
+          {
+            "id": "0,295,582,584",
+            "label": "Railwaywise Rolling Stock Certificate",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584",
+            "slug": "news-information/quality/railwaywise-rolling-stock-certificate",
+            "depth": 3,
+            "parentId": "0,295,582",
+            "children": [
+              {
+                "id": "0,295,582,584,585",
+                "label": "Central Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C585",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/central-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,587",
+                "label": "Eastern Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C587",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/eastern-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,586",
+                "label": "East Central Ralway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C586",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/east-central-ralway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,588",
+                "label": "East Coast Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C588",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/east-coast-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,590",
+                "label": "Northern Railway/RDSO",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C590",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/northern-railwayrdso",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,591",
+                "label": "North Central Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C591",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/north-central-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,592",
+                "label": "North Eastern Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C592",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/north-eastern-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,593",
+                "label": "North Frontier Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C593",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/north-frontier-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,594",
+                "label": "North Western Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C594",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/north-western-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,595",
+                "label": "Southern Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C595",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/southern-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,596",
+                "label": "South Central Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C596",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/south-central-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,597",
+                "label": "South Eastern Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C597",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/south-eastern-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,598",
+                "label": "South East Central Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C598",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/south-east-central-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,599",
+                "label": "South Western Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C599",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/south-western-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,600",
+                "label": "Western Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C600",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/western-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,601",
+                "label": "West Central Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C601",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/west-central-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              },
+              {
+                "id": "0,295,582,584,589",
+                "label": "Konkan Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C589",
+                "slug": "news-information/quality/railwaywise-rolling-stock-certificate/konkan-railway",
+                "depth": 4,
+                "parentId": "0,295,582,584",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "0,295,582,583",
+            "label": "Paint Warranty (Upto March-2019)",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583",
+            "slug": "news-information/quality/paint-warranty-upto-march-2019",
+            "depth": 3,
+            "parentId": "0,295,582",
+            "children": [
+              {
+                "id": "0,295,582,583,658",
+                "label": "Central Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C658",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/central-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,612",
+                "label": "Eastern Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C612",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/eastern-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,653",
+                "label": "East Central Ralway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C653",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/east-central-ralway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,646",
+                "label": "East Coast Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C646",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/east-coast-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,659",
+                "label": "NORTH RAILWAY",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C659",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/north-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,660",
+                "label": "North central railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C660",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/north-central-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,705",
+                "label": "NORTH EASTERN RAILWAY",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C705",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/north-eastern-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,695",
+                "label": "NORTH FRONTIER RAILWAY",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C695",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/north-frontier-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,652",
+                "label": "North western railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C652",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/north-western-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,694",
+                "label": "SOUTH RAILWAY",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C694",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/south-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,668",
+                "label": "South Central Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C668",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/south-central-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,647",
+                "label": "South Eastern Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C647",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/south-eastern-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,650",
+                "label": "South East Central Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C650",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/south-east-central-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,648",
+                "label": "South Western Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C648",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/south-western-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,651",
+                "label": "Western Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C651",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/western-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,649",
+                "label": "Western Central Railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C649",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/western-central-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              },
+              {
+                "id": "0,295,582,583,724",
+                "label": "konkan railway",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C724",
+                "slug": "news-information/quality/paint-warranty-upto-march-2019/konkan-railway",
+                "depth": 4,
+                "parentId": "0,295,582,583",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "0,295,852",
+        "label": "Mechanical Design Specifications",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C852",
+        "slug": "news-information/mechanical-design-specifications",
+        "depth": 2,
+        "parentId": "0,295",
+        "children": []
+      },
+      {
+        "id": "0,295,900",
+        "label": "Mechanical Design Draft Specifications",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C900",
+        "slug": "news-information/mechanical-design-draft-specifications",
+        "depth": 2,
+        "parentId": "0,295",
+        "children": []
+      },
+      {
+        "id": "0,295,865",
+        "label": "ELECTRICAL DESIGN SPECIFICATIONS",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C865",
+        "slug": "news-information/electrical-design-specifications",
+        "depth": 2,
+        "parentId": "0,295",
+        "children": []
+      },
+      {
+        "id": "0,295,832",
+        "label": "EOI",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C832",
+        "slug": "news-information/eoi",
+        "depth": 2,
+        "parentId": "0,295",
+        "children": [
+          {
+            "id": "0,295,832,896",
+            "label": "Mechanical Design",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C832%2C896",
+            "slug": "news-information/eoi/mechanical-design",
+            "depth": 3,
+            "parentId": "0,295,832",
+            "children": []
+          },
+          {
+            "id": "0,295,832,1048",
+            "label": "Mechanical FWP",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C832%2C1048",
+            "slug": "news-information/eoi/mechanical-fwp",
+            "depth": 3,
+            "parentId": "0,295,832",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,295,899",
+        "label": "Offical Laptop Policy and Forms",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C899",
+        "slug": "news-information/offical-laptop-policy-and-forms",
+        "depth": 2,
+        "parentId": "0,295",
+        "children": []
+      },
+      {
+        "id": "0,295,492",
+        "label": "Immovable Property Return by officers",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C492",
+        "slug": "news-information/immovable-property-return-by-officers",
+        "depth": 2,
+        "parentId": "0,295",
+        "children": []
+      },
+      {
+        "id": "0,295,827",
+        "label": "MCF Coach Outtrurn",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C827",
+        "slug": "news-information/mcf-coach-outtrurn",
+        "depth": 2,
+        "parentId": "0,295",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "0,298",
+    "label": "Department",
+    "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298",
+    "slug": "department",
+    "depth": 1,
+    "parentId": null,
+    "children": [
+      {
+        "id": "0,298,729",
+        "label": "General Administration",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729",
+        "slug": "department/general-administration",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,729,1014",
+            "label": "General Administration",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1014",
+            "slug": "department/general-administration/general-administration",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          },
+          {
+            "id": "0,298,729,1051",
+            "label": "Calendar 2026",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1051",
+            "slug": "department/general-administration/calendar-2026",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          },
+          {
+            "id": "0,298,729,764",
+            "label": "Public Relations",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C764",
+            "slug": "department/general-administration/public-relations",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          },
+          {
+            "id": "0,298,729,765",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C765",
+            "slug": "department/general-administration/contact-details",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          },
+          {
+            "id": "0,298,729,1006",
+            "label": "Estate Office",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1006",
+            "slug": "department/general-administration/estate-office",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          },
+          {
+            "id": "0,298,729,1007",
+            "label": "Rest House Booking in MCF/Raebareli",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1007",
+            "slug": "department/general-administration/rest-house-booking-in-mcfraebareli",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          },
+          {
+            "id": "0,298,729,1008",
+            "label": "Schedule of Powers",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1008",
+            "slug": "department/general-administration/schedule-of-powers",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          },
+          {
+            "id": "0,298,729,1009",
+            "label": "REPORTS",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1009",
+            "slug": "department/general-administration/reports",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          },
+          {
+            "id": "0,298,729,1010",
+            "label": "FORMATS",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1010",
+            "slug": "department/general-administration/formats",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          },
+          {
+            "id": "0,298,729,1011",
+            "label": "STANDARDISATION OF FURNITURES",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1011",
+            "slug": "department/general-administration/standardisation-of-furnitures",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          },
+          {
+            "id": "0,298,729,1012",
+            "label": "Revised Occupancy Charges of Rest houses in MCF",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1012",
+            "slug": "department/general-administration/revised-occupancy-charges-of-rest-houses-in-mcf",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          },
+          {
+            "id": "0,298,729,1013",
+            "label": "Air Travel for Officials of MCF",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1013",
+            "slug": "department/general-administration/air-travel-for-officials-of-mcf",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          },
+          {
+            "id": "0,298,729,1015",
+            "label": "Policy for Briefcase Allowance",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1015",
+            "slug": "department/general-administration/policy-for-briefcase-allowance",
+            "depth": 3,
+            "parentId": "0,298,729",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,728",
+        "label": "Personnel",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C728",
+        "slug": "department/personnel",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,728,760",
+            "label": "Function of Department",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C728%2C760",
+            "slug": "department/personnel/function-of-department",
+            "depth": 3,
+            "parentId": "0,298,728",
+            "children": []
+          },
+          {
+            "id": "0,298,728,762",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C728%2C762",
+            "slug": "department/personnel/contact-details",
+            "depth": 3,
+            "parentId": "0,298,728",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,731",
+        "label": "Production",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C731",
+        "slug": "department/production",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,731,769",
+            "label": "Function of Department",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C731%2C769",
+            "slug": "department/production/function-of-department",
+            "depth": 3,
+            "parentId": "0,298,731",
+            "children": []
+          },
+          {
+            "id": "0,298,731,771",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C731%2C771",
+            "slug": "department/production/contact-details",
+            "depth": 3,
+            "parentId": "0,298,731",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,732",
+        "label": "Design",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732",
+        "slug": "department/design",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,732,772",
+            "label": "Function of Department",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C772",
+            "slug": "department/design/function-of-department",
+            "depth": 3,
+            "parentId": "0,298,732",
+            "children": []
+          },
+          {
+            "id": "0,298,732,773",
+            "label": "Departmental Chart",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C773",
+            "slug": "department/design/departmental-chart",
+            "depth": 3,
+            "parentId": "0,298,732",
+            "children": []
+          },
+          {
+            "id": "0,298,732,774",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C774",
+            "slug": "department/design/contact-details",
+            "depth": 3,
+            "parentId": "0,298,732",
+            "children": []
+          },
+          {
+            "id": "0,298,732,912",
+            "label": "Resources",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C912",
+            "slug": "department/design/resources",
+            "depth": 3,
+            "parentId": "0,298,732",
+            "children": [
+              {
+                "id": "0,298,732,912,913",
+                "label": "Official Logos",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C912%2C913",
+                "slug": "department/design/resources/official-logos",
+                "depth": 4,
+                "parentId": "0,298,732,912",
+                "children": []
+              },
+              {
+                "id": "0,298,732,912,914",
+                "label": "Forms and Important Policies",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C912%2C914",
+                "slug": "department/design/resources/forms-and-important-policies",
+                "depth": 4,
+                "parentId": "0,298,732,912",
+                "children": []
+              },
+              {
+                "id": "0,298,732,912,988",
+                "label": "Manuals/Handbook",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C912%2C988",
+                "slug": "department/design/resources/manualshandbook",
+                "depth": 4,
+                "parentId": "0,298,732,912",
+                "children": []
+              },
+              {
+                "id": "0,298,732,912,995",
+                "label": "Digital Brochures and Pamphlets",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C912%2C995",
+                "slug": "department/design/resources/digital-brochures-and-pamphlets",
+                "depth": 4,
+                "parentId": "0,298,732,912",
+                "children": []
+              },
+              {
+                "id": "0,298,732,912,1045",
+                "label": "Turnkey Documents",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C912%2C1045",
+                "slug": "department/design/resources/turnkey-documents",
+                "depth": 4,
+                "parentId": "0,298,732,912",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "0,298,740",
+        "label": "Project Department",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740",
+        "slug": "department/project-department",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,740,1044",
+            "label": "Functions and Working",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C1044",
+            "slug": "department/project-department/functions-and-working",
+            "depth": 3,
+            "parentId": "0,298,740",
+            "children": []
+          },
+          {
+            "id": "0,298,740,746",
+            "label": "Organisation Chart",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C746",
+            "slug": "department/project-department/organisation-chart",
+            "depth": 3,
+            "parentId": "0,298,740",
+            "children": []
+          },
+          {
+            "id": "0,298,740,748",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C748",
+            "slug": "department/project-department/contact-details",
+            "depth": 3,
+            "parentId": "0,298,740",
+            "children": []
+          },
+          {
+            "id": "0,298,740,749",
+            "label": "Layouts",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C749",
+            "slug": "department/project-department/layouts",
+            "depth": 3,
+            "parentId": "0,298,740",
+            "children": [
+              {
+                "id": "0,298,740,749,750",
+                "label": "Location",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C749%2C750",
+                "slug": "department/project-department/layouts/location",
+                "depth": 4,
+                "parentId": "0,298,740,749",
+                "children": []
+              },
+              {
+                "id": "0,298,740,749,751",
+                "label": "Factory Side",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C749%2C751",
+                "slug": "department/project-department/layouts/factory-side",
+                "depth": 4,
+                "parentId": "0,298,740,749",
+                "children": []
+              },
+              {
+                "id": "0,298,740,749,752",
+                "label": "Township Side",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C749%2C752",
+                "slug": "department/project-department/layouts/township-side",
+                "depth": 4,
+                "parentId": "0,298,740,749",
+                "children": []
+              },
+              {
+                "id": "0,298,740,749,811",
+                "label": "Power Supply",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C749%2C811",
+                "slug": "department/project-department/layouts/power-supply",
+                "depth": 4,
+                "parentId": "0,298,740,749",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "0,298,740,753",
+            "label": "Projects",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C753",
+            "slug": "department/project-department/projects",
+            "depth": 3,
+            "parentId": "0,298,740",
+            "children": [
+              {
+                "id": "0,298,740,753,754",
+                "label": "Setting up of Modern Coach Factory,Rabareli",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C753%2C754",
+                "slug": "department/project-department/projects/setting-up-of-modern-coach-factoryrabareli",
+                "depth": 4,
+                "parentId": "0,298,740,753",
+                "children": []
+              },
+              {
+                "id": "0,298,740,753,840",
+                "label": "Augumentation of Production Capacity",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C753%2C840",
+                "slug": "department/project-department/projects/augumentation-of-production-capacity",
+                "depth": 4,
+                "parentId": "0,298,740,753",
+                "children": []
+              },
+              {
+                "id": "0,298,740,753,756",
+                "label": "Modernisation of Alambag Workshop",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C753%2C756",
+                "slug": "department/project-department/projects/modernisation-of-alambag-workshop",
+                "depth": 4,
+                "parentId": "0,298,740,753",
+                "children": []
+              },
+              {
+                "id": "0,298,740,753,757",
+                "label": "Modernisation of Kota Workshop",
+                "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C753%2C757",
+                "slug": "department/project-department/projects/modernisation-of-kota-workshop",
+                "depth": 4,
+                "parentId": "0,298,740,753",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "0,298,740,758",
+            "label": "Photo Gallery",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C758",
+            "slug": "department/project-department/photo-gallery",
+            "depth": 3,
+            "parentId": "0,298,740",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,739",
+        "label": "Quality",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C739",
+        "slug": "department/quality",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,739,786",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C739%2C786",
+            "slug": "department/quality/contact-details",
+            "depth": 3,
+            "parentId": "0,298,739",
+            "children": []
+          },
+          {
+            "id": "0,298,739,785",
+            "label": "Departmental Chart",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C739%2C785",
+            "slug": "department/quality/departmental-chart",
+            "depth": 3,
+            "parentId": "0,298,739",
+            "children": []
+          },
+          {
+            "id": "0,298,739,1033",
+            "label": "Function of Quality",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C739%2C1033",
+            "slug": "department/quality/function-of-quality",
+            "depth": 3,
+            "parentId": "0,298,739",
+            "children": []
+          },
+          {
+            "id": "0,298,739,845",
+            "label": "Photo Gallery",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C739%2C845",
+            "slug": "department/quality/photo-gallery",
+            "depth": 3,
+            "parentId": "0,298,739",
+            "children": []
+          },
+          {
+            "id": "0,298,739,1034",
+            "label": "ISO Certificate",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C739%2C1034",
+            "slug": "department/quality/iso-certificate",
+            "depth": 3,
+            "parentId": "0,298,739",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,741",
+        "label": "Civil Engineering",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C741",
+        "slug": "department/civil-engineering",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,741,790",
+            "label": "Function of Department",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C741%2C790",
+            "slug": "department/civil-engineering/function-of-department",
+            "depth": 3,
+            "parentId": "0,298,741",
+            "children": []
+          },
+          {
+            "id": "0,298,741,987",
+            "label": "Quarter allotment policy",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C741%2C987",
+            "slug": "department/civil-engineering/quarter-allotment-policy",
+            "depth": 3,
+            "parentId": "0,298,741",
+            "children": []
+          },
+          {
+            "id": "0,298,741,1028",
+            "label": "Civil Maintenance Schedule",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C741%2C1028",
+            "slug": "department/civil-engineering/civil-maintenance-schedule",
+            "depth": 3,
+            "parentId": "0,298,741",
+            "children": []
+          },
+          {
+            "id": "0,298,741,792",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C741%2C792",
+            "slug": "department/civil-engineering/contact-details",
+            "depth": 3,
+            "parentId": "0,298,741",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,738",
+        "label": "Plant Maintenence",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C738",
+        "slug": "department/plant-maintenence",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,738,793",
+            "label": "Function of Department",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C738%2C793",
+            "slug": "department/plant-maintenence/function-of-department",
+            "depth": 3,
+            "parentId": "0,298,738",
+            "children": []
+          },
+          {
+            "id": "0,298,738,795",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C738%2C795",
+            "slug": "department/plant-maintenence/contact-details",
+            "depth": 3,
+            "parentId": "0,298,738",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,806",
+        "label": "Medical",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C806",
+        "slug": "department/medical",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,806,807",
+            "label": "Function of Department",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C806%2C807",
+            "slug": "department/medical/function-of-department",
+            "depth": 3,
+            "parentId": "0,298,806",
+            "children": []
+          },
+          {
+            "id": "0,298,806,809",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C806%2C809",
+            "slug": "department/medical/contact-details",
+            "depth": 3,
+            "parentId": "0,298,806",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,735",
+        "label": "Stores",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C735",
+        "slug": "department/stores",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,735,742",
+            "label": "Function of Department",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C735%2C742",
+            "slug": "department/stores/function-of-department",
+            "depth": 3,
+            "parentId": "0,298,735",
+            "children": []
+          },
+          {
+            "id": "0,298,735,743",
+            "label": "Departmental Chart",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C735%2C743",
+            "slug": "department/stores/departmental-chart",
+            "depth": 3,
+            "parentId": "0,298,735",
+            "children": []
+          },
+          {
+            "id": "0,298,735,744",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C735%2C744",
+            "slug": "department/stores/contact-details",
+            "depth": 3,
+            "parentId": "0,298,735",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,736",
+        "label": "Accounts",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C736",
+        "slug": "department/accounts",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,736,781",
+            "label": "Function of Department",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C736%2C781",
+            "slug": "department/accounts/function-of-department",
+            "depth": 3,
+            "parentId": "0,298,736",
+            "children": []
+          },
+          {
+            "id": "0,298,736,783",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C736%2C783",
+            "slug": "department/accounts/contact-details",
+            "depth": 3,
+            "parentId": "0,298,736",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,745",
+        "label": "Vigilance",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745",
+        "slug": "department/vigilance",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,745,923",
+            "label": "Vigilance Awareness Week",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C923",
+            "slug": "department/vigilance/vigilance-awareness-week",
+            "depth": 3,
+            "parentId": "0,298,745",
+            "children": []
+          },
+          {
+            "id": "0,298,745,788",
+            "label": "Organization",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C788",
+            "slug": "department/vigilance/organization",
+            "depth": 3,
+            "parentId": "0,298,745",
+            "children": []
+          },
+          {
+            "id": "0,298,745,920",
+            "label": "Important Letters",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C920",
+            "slug": "department/vigilance/important-letters",
+            "depth": 3,
+            "parentId": "0,298,745",
+            "children": []
+          },
+          {
+            "id": "0,298,745,994",
+            "label": "Vigilance Angle",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C994",
+            "slug": "department/vigilance/vigilance-angle",
+            "depth": 3,
+            "parentId": "0,298,745",
+            "children": []
+          },
+          {
+            "id": "0,298,745,919",
+            "label": "System Improvements",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C919",
+            "slug": "department/vigilance/system-improvements",
+            "depth": 3,
+            "parentId": "0,298,745",
+            "children": []
+          },
+          {
+            "id": "0,298,745,898",
+            "label": "Vigilance Bulletin",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C898",
+            "slug": "department/vigilance/vigilance-bulletin",
+            "depth": 3,
+            "parentId": "0,298,745",
+            "children": []
+          },
+          {
+            "id": "0,298,745,921",
+            "label": "DOs & DONTs",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C921",
+            "slug": "department/vigilance/dos-donts",
+            "depth": 3,
+            "parentId": "0,298,745",
+            "children": []
+          },
+          {
+            "id": "0,298,745,922",
+            "label": "Complaint Policy",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C922",
+            "slug": "department/vigilance/complaint-policy",
+            "depth": 3,
+            "parentId": "0,298,745",
+            "children": []
+          },
+          {
+            "id": "0,298,745,815",
+            "label": "Selections",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C815",
+            "slug": "department/vigilance/selections",
+            "depth": 3,
+            "parentId": "0,298,745",
+            "children": []
+          },
+          {
+            "id": "0,298,745,787",
+            "label": "Function of Vigilance",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C787",
+            "slug": "department/vigilance/function-of-vigilance",
+            "depth": 3,
+            "parentId": "0,298,745",
+            "children": []
+          },
+          {
+            "id": "0,298,745,924",
+            "label": "Related Links",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C924",
+            "slug": "department/vigilance/related-links",
+            "depth": 3,
+            "parentId": "0,298,745",
+            "children": []
+          },
+          {
+            "id": "0,298,745,789",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C789",
+            "slug": "department/vigilance/contact-details",
+            "depth": 3,
+            "parentId": "0,298,745",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,823",
+        "label": "Technical Training Centre",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C823",
+        "slug": "department/technical-training-centre",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,823,825",
+            "label": "Key Contacts of TTC",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C823%2C825",
+            "slug": "department/technical-training-centre/key-contacts-of-ttc",
+            "depth": 3,
+            "parentId": "0,298,823",
+            "children": []
+          },
+          {
+            "id": "0,298,823,839",
+            "label": "TTC Library",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C823%2C839",
+            "slug": "department/technical-training-centre/ttc-library",
+            "depth": 3,
+            "parentId": "0,298,823",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,998",
+        "label": "Electrical",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C998",
+        "slug": "department/electrical",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,998,1001",
+            "label": "Function of Department",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C998%2C1001",
+            "slug": "department/electrical/function-of-department",
+            "depth": 3,
+            "parentId": "0,298,998",
+            "children": []
+          },
+          {
+            "id": "0,298,998,999",
+            "label": "Departmental Chart",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C998%2C999",
+            "slug": "department/electrical/departmental-chart",
+            "depth": 3,
+            "parentId": "0,298,998",
+            "children": []
+          },
+          {
+            "id": "0,298,998,1000",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C998%2C1000",
+            "slug": "department/electrical/contact-details",
+            "depth": 3,
+            "parentId": "0,298,998",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,1042",
+        "label": "Security",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C1042",
+        "slug": "department/security",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,1042,1043",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C1042%2C1043",
+            "slug": "department/security/contact-details",
+            "depth": 3,
+            "parentId": "0,298,1042",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,1035",
+        "label": "Information Technology",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C1035",
+        "slug": "department/information-technology",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": [
+          {
+            "id": "0,298,1035,1036",
+            "label": "Function of IT Department",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C1035%2C1036",
+            "slug": "department/information-technology/function-of-it-department",
+            "depth": 3,
+            "parentId": "0,298,1035",
+            "children": []
+          },
+          {
+            "id": "0,298,1035,1037",
+            "label": "Contact Details",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C1035%2C1037",
+            "slug": "department/information-technology/contact-details",
+            "depth": 3,
+            "parentId": "0,298,1035",
+            "children": []
+          },
+          {
+            "id": "0,298,1035,1038",
+            "label": "Departmental Chart",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C1035%2C1038",
+            "slug": "department/information-technology/departmental-chart",
+            "depth": 3,
+            "parentId": "0,298,1035",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,298,529",
+        "label": "Terms & Conditions",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C529",
+        "slug": "department/terms-conditions",
+        "depth": 2,
+        "parentId": "0,298",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "0,299",
+    "label": "Tender Information",
+    "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C299",
+    "slug": "tender-information",
+    "depth": 1,
+    "parentId": null,
+    "children": [
+      {
+        "id": "0,299,316",
+        "label": "Tenders",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C299%2C316",
+        "slug": "tender-information/tenders",
+        "depth": 2,
+        "parentId": "0,299",
+        "children": []
+      },
+      {
+        "id": "0,299,829",
+        "label": "Stock Item Details",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C299%2C829",
+        "slug": "tender-information/stock-item-details",
+        "depth": 2,
+        "parentId": "0,299",
+        "children": []
+      },
+      {
+        "id": "0,299,1039",
+        "label": "Drawings",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C299%2C1039",
+        "slug": "tender-information/drawings",
+        "depth": 2,
+        "parentId": "0,299",
+        "children": []
+      },
+      {
+        "id": "0,299,1040",
+        "label": "Specifications",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C299%2C1040",
+        "slug": "tender-information/specifications",
+        "depth": 2,
+        "parentId": "0,299",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "0,296",
+    "label": "Vendor Information",
+    "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296",
+    "slug": "vendor-information",
+    "depth": 1,
+    "parentId": null,
+    "children": [
+      {
+        "id": "0,296,493",
+        "label": "Tender",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C493",
+        "slug": "vendor-information/tender",
+        "depth": 2,
+        "parentId": "0,296",
+        "children": []
+      },
+      {
+        "id": "0,296,1026",
+        "label": "Bill Checking System",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C1026",
+        "slug": "vendor-information/bill-checking-system",
+        "depth": 2,
+        "parentId": "0,296",
+        "children": []
+      },
+      {
+        "id": "0,296,543",
+        "label": "Registered Vendors with MCF/RBL",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C543",
+        "slug": "vendor-information/registered-vendors-with-mcfrbl",
+        "depth": 2,
+        "parentId": "0,296",
+        "children": []
+      },
+      {
+        "id": "0,296,678",
+        "label": "Vendor Directory",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C678",
+        "slug": "vendor-information/vendor-directory",
+        "depth": 2,
+        "parentId": "0,296",
+        "children": [
+          {
+            "id": "0,296,678,707",
+            "label": "Mechanical",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C678%2C707",
+            "slug": "vendor-information/vendor-directory/mechanical",
+            "depth": 3,
+            "parentId": "0,296,678",
+            "children": []
+          },
+          {
+            "id": "0,296,678,708",
+            "label": "Electrical",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C678%2C708",
+            "slug": "vendor-information/vendor-directory/electrical",
+            "depth": 3,
+            "parentId": "0,296,678",
+            "children": []
+          },
+          {
+            "id": "0,296,678,926",
+            "label": "UVAM (Approved by RDSO)",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C678%2C926",
+            "slug": "vendor-information/vendor-directory/uvam-approved-by-rdso",
+            "depth": 3,
+            "parentId": "0,296,678",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,296,474",
+        "label": "Vendor Registration",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C474",
+        "slug": "vendor-information/vendor-registration",
+        "depth": 2,
+        "parentId": "0,296",
+        "children": []
+      },
+      {
+        "id": "0,296,901",
+        "label": "Difference Between Vendor Approval & Vendor Registration",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C901",
+        "slug": "vendor-information/difference-between-vendor-approval-vendor-registration",
+        "depth": 2,
+        "parentId": "0,296",
+        "children": []
+      },
+      {
+        "id": "0,296,475",
+        "label": "Trade Groups",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C475",
+        "slug": "vendor-information/trade-groups",
+        "depth": 2,
+        "parentId": "0,296",
+        "children": []
+      },
+      {
+        "id": "0,296,915",
+        "label": "Development of Sources",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C915",
+        "slug": "vendor-information/development-of-sources",
+        "depth": 2,
+        "parentId": "0,296",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "0,297",
+    "label": "Employee’s Corner",
+    "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297",
+    "slug": "employees-corner",
+    "depth": 1,
+    "parentId": null,
+    "children": [
+      {
+        "id": "0,297,946",
+        "label": "Seniority List",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C946",
+        "slug": "employees-corner/seniority-list",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,1031",
+        "label": "GDCE SELECTION",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1031",
+        "slug": "employees-corner/gdce-selection",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,1029",
+        "label": "NPS to OPS",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1029",
+        "slug": "employees-corner/nps-to-ops",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,1025",
+        "label": "General Manager’s Grievance Redressal Drive",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1025",
+        "slug": "employees-corner/general-managers-grievance-redressal-drive",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,1024",
+        "label": "Electricity Meter Reading",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1024",
+        "slug": "employees-corner/electricity-meter-reading",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,1017",
+        "label": "Election",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1017",
+        "slug": "employees-corner/election",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,1003",
+        "label": "Gazetted",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1003",
+        "slug": "employees-corner/gazetted",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,1002",
+        "label": "MACP",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1002",
+        "slug": "employees-corner/macp",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,997",
+        "label": "Chief Medical Practitioner",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C997",
+        "slug": "employees-corner/chief-medical-practitioner",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,947",
+        "label": "Selection",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C947",
+        "slug": "employees-corner/selection",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": [
+          {
+            "id": "0,297,947,966",
+            "label": "Notification",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C947%2C966",
+            "slug": "employees-corner/selection/notification",
+            "depth": 3,
+            "parentId": "0,297,947",
+            "children": []
+          },
+          {
+            "id": "0,297,947,996",
+            "label": "Gazetted",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C947%2C996",
+            "slug": "employees-corner/selection/gazetted",
+            "depth": 3,
+            "parentId": "0,297,947",
+            "children": []
+          },
+          {
+            "id": "0,297,947,1016",
+            "label": "Statement of Marks",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C947%2C1016",
+            "slug": "employees-corner/selection/statement-of-marks",
+            "depth": 3,
+            "parentId": "0,297,947",
+            "children": []
+          },
+          {
+            "id": "0,297,947,965",
+            "label": "Panel",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C947%2C965",
+            "slug": "employees-corner/selection/panel",
+            "depth": 3,
+            "parentId": "0,297,947",
+            "children": []
+          },
+          {
+            "id": "0,297,947,971",
+            "label": "Question and Answer key",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C947%2C971",
+            "slug": "employees-corner/selection/question-and-answer-key",
+            "depth": 3,
+            "parentId": "0,297,947",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,297,948",
+        "label": "Non Selection",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C948",
+        "slug": "employees-corner/non-selection",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": [
+          {
+            "id": "0,297,948,976",
+            "label": "Panel",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C948%2C976",
+            "slug": "employees-corner/non-selection/panel",
+            "depth": 3,
+            "parentId": "0,297,948",
+            "children": []
+          },
+          {
+            "id": "0,297,948,986",
+            "label": "Notification",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C948%2C986",
+            "slug": "employees-corner/non-selection/notification",
+            "depth": 3,
+            "parentId": "0,297,948",
+            "children": []
+          },
+          {
+            "id": "0,297,948,975",
+            "label": "Promotion Order",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C948%2C975",
+            "slug": "employees-corner/non-selection/promotion-order",
+            "depth": 3,
+            "parentId": "0,297,948",
+            "children": []
+          },
+          {
+            "id": "0,297,948,972",
+            "label": "Roster",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C948%2C972",
+            "slug": "employees-corner/non-selection/roster",
+            "depth": 3,
+            "parentId": "0,297,948",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,297,949",
+        "label": "Transfer",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C949",
+        "slug": "employees-corner/transfer",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": [
+          {
+            "id": "0,297,949,970",
+            "label": "Deputation Notice",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C949%2C970",
+            "slug": "employees-corner/transfer/deputation-notice",
+            "depth": 3,
+            "parentId": "0,297,949",
+            "children": []
+          },
+          {
+            "id": "0,297,949,981",
+            "label": "Inter Railway Transfer",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C949%2C981",
+            "slug": "employees-corner/transfer/inter-railway-transfer",
+            "depth": 3,
+            "parentId": "0,297,949",
+            "children": []
+          },
+          {
+            "id": "0,297,949,1004",
+            "label": "Relieving Order",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C949%2C1004",
+            "slug": "employees-corner/transfer/relieving-order",
+            "depth": 3,
+            "parentId": "0,297,949",
+            "children": []
+          },
+          {
+            "id": "0,297,949,982",
+            "label": "Indian Railway Mutual Transfer",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C949%2C982",
+            "slug": "employees-corner/transfer/indian-railway-mutual-transfer",
+            "depth": 3,
+            "parentId": "0,297,949",
+            "children": []
+          },
+          {
+            "id": "0,297,949,1020",
+            "label": "Resignation",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C949%2C1020",
+            "slug": "employees-corner/transfer/resignation",
+            "depth": 3,
+            "parentId": "0,297,949",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,297,950",
+        "label": "Office Order",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C950",
+        "slug": "employees-corner/office-order",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,951",
+        "label": "Act Apprentice",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C951",
+        "slug": "employees-corner/act-apprentice",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,952",
+        "label": "Welfare",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C952",
+        "slug": "employees-corner/welfare",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,953",
+        "label": "Industrial Relation",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C953",
+        "slug": "employees-corner/industrial-relation",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,954",
+        "label": "Pension Adalat",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C954",
+        "slug": "employees-corner/pension-adalat",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,960",
+        "label": "Various Forms",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C960",
+        "slug": "employees-corner/various-forms",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,961",
+        "label": "Women Empowerment",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C961",
+        "slug": "employees-corner/women-empowerment",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,957",
+        "label": "Shramik Portal",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C957",
+        "slug": "employees-corner/shramik-portal",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,310",
+        "label": "News & Announcements",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C310",
+        "slug": "employees-corner/news-announcements",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,962",
+        "label": "Settlement",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C962",
+        "slug": "employees-corner/settlement",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": [
+          {
+            "id": "0,297,962,967",
+            "label": "Retirement",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C962%2C967",
+            "slug": "employees-corner/settlement/retirement",
+            "depth": 3,
+            "parentId": "0,297,962",
+            "children": []
+          },
+          {
+            "id": "0,297,962,968",
+            "label": "Pension Adalat",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C962%2C968",
+            "slug": "employees-corner/settlement/pension-adalat",
+            "depth": 3,
+            "parentId": "0,297,962",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,297,963",
+        "label": "Policy Letters",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963",
+        "slug": "employees-corner/policy-letters",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": [
+          {
+            "id": "0,297,963,969",
+            "label": "Circulated Letters in MCF year 2020",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963%2C969",
+            "slug": "employees-corner/policy-letters/circulated-letters-in-mcf-year-2020",
+            "depth": 3,
+            "parentId": "0,297,963",
+            "children": []
+          },
+          {
+            "id": "0,297,963,964",
+            "label": "Circulated Letters in MCF year 2021",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963%2C964",
+            "slug": "employees-corner/policy-letters/circulated-letters-in-mcf-year-2021",
+            "depth": 3,
+            "parentId": "0,297,963",
+            "children": []
+          },
+          {
+            "id": "0,297,963,992",
+            "label": "Circulated Letters in MCF year 2022",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963%2C992",
+            "slug": "employees-corner/policy-letters/circulated-letters-in-mcf-year-2022",
+            "depth": 3,
+            "parentId": "0,297,963",
+            "children": []
+          },
+          {
+            "id": "0,297,963,1019",
+            "label": "Circulated Letters in MCF year 2023",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963%2C1019",
+            "slug": "employees-corner/policy-letters/circulated-letters-in-mcf-year-2023",
+            "depth": 3,
+            "parentId": "0,297,963",
+            "children": []
+          },
+          {
+            "id": "0,297,963,1047",
+            "label": "Circulated Letters in MCF year 2025",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963%2C1047",
+            "slug": "employees-corner/policy-letters/circulated-letters-in-mcf-year-2025",
+            "depth": 3,
+            "parentId": "0,297,963",
+            "children": []
+          },
+          {
+            "id": "0,297,963,1052",
+            "label": "Circulated Letters in MCF year 2026",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963%2C1052",
+            "slug": "employees-corner/policy-letters/circulated-letters-in-mcf-year-2026",
+            "depth": 3,
+            "parentId": "0,297,963",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0,297,973",
+        "label": "Sample Question Bank (JE/Mech.)",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C973",
+        "slug": "employees-corner/sample-question-bank-jemech",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,974",
+        "label": "Video Lectures (JE/Mech.)",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C974",
+        "slug": "employees-corner/video-lectures-jemech",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,983",
+        "label": "Quarter Seniority",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C983",
+        "slug": "employees-corner/quarter-seniority",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,984",
+        "label": "Training Circular",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C984",
+        "slug": "employees-corner/training-circular",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,985",
+        "label": "Gazetted Officer Posting order",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C985",
+        "slug": "employees-corner/gazetted-officer-posting-order",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,1027",
+        "label": "Pay Fixation",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1027",
+        "slug": "employees-corner/pay-fixation",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": []
+      },
+      {
+        "id": "0,297,977",
+        "label": "Question Bank",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C977",
+        "slug": "employees-corner/question-bank",
+        "depth": 2,
+        "parentId": "0,297",
+        "children": [
+          {
+            "id": "0,297,977,978",
+            "label": "JE/Mech.",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C977%2C978",
+            "slug": "employees-corner/question-bank/jemech",
+            "depth": 3,
+            "parentId": "0,297,977",
+            "children": []
+          },
+          {
+            "id": "0,297,977,1030",
+            "label": "Stenographer",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C977%2C1030",
+            "slug": "employees-corner/question-bank/stenographer",
+            "depth": 3,
+            "parentId": "0,297,977",
+            "children": []
+          },
+          {
+            "id": "0,297,977,989",
+            "label": "J.E/Electrical",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C977%2C989",
+            "slug": "employees-corner/question-bank/jeelectrical",
+            "depth": 3,
+            "parentId": "0,297,977",
+            "children": []
+          },
+          {
+            "id": "0,297,977,979",
+            "label": "Junior Clerk Cum Typist",
+            "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C977%2C979",
+            "slug": "employees-corner/question-bank/junior-clerk-cum-typist",
+            "depth": 3,
+            "parentId": "0,297,977",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0,300",
+    "label": "Contact Us",
+    "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300",
+    "slug": "contact-us",
+    "depth": 1,
+    "parentId": null,
+    "children": [
+      {
+        "id": "0,300,406",
+        "label": "Contact us Details",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C406",
+        "slug": "contact-us/contact-us-details",
+        "depth": 2,
+        "parentId": "0,300",
+        "children": []
+      },
+      {
+        "id": "0,300,328",
+        "label": "How to Reach Modern Coach Factory Raebareli",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C328",
+        "slug": "contact-us/how-to-reach-modern-coach-factory-raebareli",
+        "depth": 2,
+        "parentId": "0,300",
+        "children": []
+      },
+      {
+        "id": "0,300,318",
+        "label": "Feedback",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C318",
+        "slug": "contact-us/feedback",
+        "depth": 2,
+        "parentId": "0,300",
+        "children": []
+      },
+      {
+        "id": "0,300,319",
+        "label": "Other Railway Sites",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C319",
+        "slug": "contact-us/other-railway-sites",
+        "depth": 2,
+        "parentId": "0,300",
+        "children": []
+      },
+      {
+        "id": "0,300,424",
+        "label": "Privacy Policy",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C424",
+        "slug": "contact-us/privacy-policy",
+        "depth": 2,
+        "parentId": "0,300",
+        "children": []
+      },
+      {
+        "id": "0,300,425",
+        "label": "Terms and Conditions",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C425",
+        "slug": "contact-us/terms-and-conditions",
+        "depth": 2,
+        "parentId": "0,300",
+        "children": []
+      },
+      {
+        "id": "0,300,322",
+        "label": "Disclaimer",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C322",
+        "slug": "contact-us/disclaimer",
+        "depth": 2,
+        "parentId": "0,300",
+        "children": []
+      },
+      {
+        "id": "0,300,323",
+        "label": "Site Map",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C323",
+        "slug": "contact-us/site-map",
+        "depth": 2,
+        "parentId": "0,300",
+        "children": []
+      },
+      {
+        "id": "0,300,581",
+        "label": "Privacy Policy",
+        "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C581",
+        "slug": "contact-us/privacy-policy-581",
+        "depth": 2,
+        "parentId": "0,300",
+        "children": []
+      }
+    ]
+  }
+]

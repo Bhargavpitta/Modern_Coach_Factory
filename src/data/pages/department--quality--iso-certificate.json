@@ -1,0 +1,23 @@
+{
+  "id": "0,298,739,1034",
+  "slug": "department/quality/iso-certificate",
+  "title": "ISO Certificate",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p>\n\t<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/files/certificate-1.pdf\">Certificate</a><a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/iso%20certificate(1).pdf\">s</a></p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "[Certificate](https://mcf.indianrailways.gov.in/uploads/files/certificate-1.pdf)[s](https://mcf.indianrailways.gov.in/uploads/iso%20certificate\\(1\\).pdf)",
+  "tables": [],
+  "images": [],
+  "attachments": [
+    {
+      "label": "Certificate",
+      "href": "https://mcf.indianrailways.gov.in/uploads/files/certificate-1.pdf",
+      "localPath": "attachments/certificate-1.pdf"
+    },
+    {
+      "label": "s",
+      "href": "https://mcf.indianrailways.gov.in/uploads/iso%20certificate(1).pdf",
+      "localPath": "attachments/iso certificate(1).pdf"
+    }
+  ]
+}

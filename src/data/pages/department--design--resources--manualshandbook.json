@@ -1,0 +1,48 @@
+{
+  "id": "0,298,732,912,988",
+  "slug": "department/design/resources/manualshandbook",
+  "title": "Manuals/Handbook",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p>\n\t1.&nbsp; <a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/l%20Vacuum%20Evacuation%20toilet%20system.pdf\">Vacuum Evacuation Toilet System</a><br>\n\t2. <a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/Prssurised%20Flushing%20System.pdf\">Electro pneumatic Pressurised Flushing system</a></p>\n<p>\n\t3.<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/Presentation%20door%20System.pdf\">Presentation on automatic plug and sliding door</a></p>\n<p>\n\t4.<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/door%20Maintenance%20Plan.pdf\">Door mainatenance plan</a></p>\n<p>\n\t5. <a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/door%20Lubrication%20Instruction-%20LHB%20Plug%20door%20(1).pdf\">Door Lubrication instructions</a></p>\n<p>\n\t6. <a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/Handout%20for%20CBC%20CENTER%20BUFFER%20COUPLER%20TYPE-H.pdf\">Handout for AAR H Type Center Buffer Coupler (CBC)</a></p>\n<p>\n\t7. <a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/Technical%20data%20for%20Automatic%20Plug%20door.pdf\">Technical data for Automatic Plug door</a></p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "1.  [Vacuum Evacuation Toilet System](https://mcf.indianrailways.gov.in/uploads/l%20Vacuum%20Evacuation%20toilet%20system.pdf)  \n2\\. [Electro pneumatic Pressurised Flushing system](https://mcf.indianrailways.gov.in/uploads/Prssurised%20Flushing%20System.pdf)\n\n3.[Presentation on automatic plug and sliding door](https://mcf.indianrailways.gov.in/uploads/Presentation%20door%20System.pdf)\n\n4.[Door mainatenance plan](https://mcf.indianrailways.gov.in/uploads/door%20Maintenance%20Plan.pdf)\n\n5\\. [Door Lubrication instructions](https://mcf.indianrailways.gov.in/uploads/door%20Lubrication%20Instruction-%20LHB%20Plug%20door%20\\(1\\).pdf)\n\n6\\. [Handout for AAR H Type Center Buffer Coupler (CBC)](https://mcf.indianrailways.gov.in/uploads/Handout%20for%20CBC%20CENTER%20BUFFER%20COUPLER%20TYPE-H.pdf)\n\n7\\. [Technical data for Automatic Plug door](https://mcf.indianrailways.gov.in/uploads/Technical%20data%20for%20Automatic%20Plug%20door.pdf)",
+  "tables": [],
+  "images": [],
+  "attachments": [
+    {
+      "label": "Vacuum Evacuation Toilet System",
+      "href": "https://mcf.indianrailways.gov.in/uploads/l%20Vacuum%20Evacuation%20toilet%20system.pdf",
+      "localPath": "attachments/l Vacuum Evacuation toilet system.pdf"
+    },
+    {
+      "label": "Electro pneumatic Pressurised Flushing system",
+      "href": "https://mcf.indianrailways.gov.in/uploads/Prssurised%20Flushing%20System.pdf",
+      "localPath": "attachments/Prssurised Flushing System.pdf"
+    },
+    {
+      "label": "Presentation on automatic plug and sliding door",
+      "href": "https://mcf.indianrailways.gov.in/uploads/Presentation%20door%20System.pdf",
+      "localPath": "attachments/Presentation door System.pdf"
+    },
+    {
+      "label": "Door mainatenance plan",
+      "href": "https://mcf.indianrailways.gov.in/uploads/door%20Maintenance%20Plan.pdf",
+      "localPath": "attachments/door Maintenance Plan.pdf"
+    },
+    {
+      "label": "Door Lubrication instructions",
+      "href": "https://mcf.indianrailways.gov.in/uploads/door%20Lubrication%20Instruction-%20LHB%20Plug%20door%20(1).pdf",
+      "localPath": "attachments/door Lubrication Instruction- LHB Plug door (1).pdf"
+    },
+    {
+      "label": "Handout for AAR H Type Center Buffer Coupler (CBC)",
+      "href": "https://mcf.indianrailways.gov.in/uploads/Handout%20for%20CBC%20CENTER%20BUFFER%20COUPLER%20TYPE-H.pdf",
+      "localPath": "attachments/Handout for CBC CENTER BUFFER COUPLER TYPE-H.pdf"
+    },
+    {
+      "label": "Technical data for Automatic Plug door",
+      "href": "https://mcf.indianrailways.gov.in/uploads/Technical%20data%20for%20Automatic%20Plug%20door.pdf",
+      "localPath": "attachments/Technical data for Automatic Plug door.pdf"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0,298,738,795",
+  "slug": "department/plant-maintenence/contact-details",
+  "title": "Contact Details",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<p align=\"justify\"></p><p class=\"MsoNoSpacing\">\n\t</p>\n<p class=\"MsoNoSpacing\">\n\t </p>\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" width=\"655\">\n\t\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>S. No.</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>Designation</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>Contact No.</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t<strong>Email ID</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t01.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tDy. CME/M&amp;P</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t7318060430</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tdycmemnp54@gmail.com</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t02.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tWM/Plant</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t7318174447</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tankitgupta120496@gmail.com</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t03.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tAME/Plant</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\t7318060457</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t\t<p>\n\t\t\t\t\tmohan.0024@gov.in</p>\n\t\t\t</td>\n\t\t</tr>\n\t\n</table>\n<p>\n\t&nbsp;</p>\n<p>\n\t </p>\n<p>\n\t&nbsp; </p>\n<p>\n\t&nbsp;</p>\n<p class=\"MsoNoSpacing\">\n\t&nbsp;</p>\n<p>\n\t&nbsp;</p>\n<p></p>\n\t\t\t\t\t\t\t\t\t<br>",
+  "contentMarkdown": "**S. No.**\n\n**Designation**\n\n**Contact No.**\n\n**Email ID**\n\n01.\n\nDy. CME/M&P\n\n7318060430\n\ndycmemnp54@gmail.com\n\n02.\n\nWM/Plant\n\n7318174447\n\nankitgupta120496@gmail.com\n\n03.\n\nAME/Plant\n\n7318060457\n\nmohan.0024@gov.in",
+  "tables": [
+    {
+      "headers": [
+        "S. No.",
+        "Designation",
+        "Contact No.",
+        "Email ID"
+      ],
+      "rows": [
+        [
+          "01.",
+          "Dy. CME/M&P",
+          "7318060430",
+          "dycmemnp54@gmail.com"
+        ],
+        [
+          "02.",
+          "WM/Plant",
+          "7318174447",
+          "ankitgupta120496@gmail.com"
+        ],
+        [
+          "03.",
+          "AME/Plant",
+          "7318060457",
+          "mohan.0024@gov.in"
+        ]
+      ]
+    }
+  ],
+  "images": [],
+  "attachments": []
+}

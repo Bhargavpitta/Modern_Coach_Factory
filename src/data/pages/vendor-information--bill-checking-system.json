@@ -1,0 +1,18 @@
+{
+  "id": "0,296,1026",
+  "slug": "vendor-information/bill-checking-system",
+  "title": "Bill Checking System",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/1674.pdf\">Information for suppliers</a>",
+  "contentMarkdown": "[Information for suppliers](https://mcf.indianrailways.gov.in/uploads/1674.pdf)",
+  "tables": [],
+  "images": [],
+  "attachments": [
+    {
+      "label": "Information for suppliers",
+      "href": "https://mcf.indianrailways.gov.in/uploads/1674.pdf",
+      "localPath": "attachments/1674.pdf"
+    }
+  ]
+}

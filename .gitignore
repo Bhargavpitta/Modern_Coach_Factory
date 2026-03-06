@@ -1,0 +1,56 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules
+
+# Build output
+dist
+dist-ssr
+.vite
+build
+coverage
+
+# Environment files
+.env
+.env.*
+*.local
+
+# Cache
+.cache
+.eslintcache
+
+# Vite files
+vite.config.ts.timestamp*
+vite.config.js.timestamp*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+
+# TypeScript
+*.tsbuildinfo
+
+# Crawler — local only, never push
+crawler/
+
+# Static assets — too large for git, served from original MCF URLs
+public/attachments/
+public/images/

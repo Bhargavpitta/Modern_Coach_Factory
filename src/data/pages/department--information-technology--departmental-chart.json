@@ -1,0 +1,18 @@
+{
+  "id": "0,298,1035,1038",
+  "slug": "department/information-technology/departmental-chart",
+  "title": "Departmental Chart",
+  "lang": "en",
+  "lastReviewed": null,
+  "contentHtml": "<img alt=\"\" src=\"https://mcf.indianrailways.gov.in/uploads/IT%20Department%20Orgainational%20chart-1.jpg\">",
+  "contentMarkdown": "![](https://mcf.indianrailways.gov.in/uploads/IT%20Department%20Orgainational%20chart-1.jpg)",
+  "tables": [],
+  "images": [
+    {
+      "src": "https://mcf.indianrailways.gov.in/uploads/IT%20Department%20Orgainational%20chart-1.jpg",
+      "alt": "",
+      "localPath": "images/IT Department Orgainational chart-1.jpg"
+    }
+  ],
+  "attachments": []
+}
