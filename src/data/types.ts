@@ -1,6 +1,7 @@
 export interface SitemapNode {
   id: string;
   label: string;
+  labelHi?: string;
   url: string;
   slug: string;
   depth: number;

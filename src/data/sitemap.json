@@ -91,9 +91,10 @@
       }
     ]
   },
-  {
+{
     "id": "0,295",
     "label": "News & Information",
+    "labelHi": "समाचार एवं सूचना",
     "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295",
     "slug": "news-information",
     "depth": 1,
@@ -102,6 +103,7 @@
       {
         "id": "0,295,667",
         "label": "Press Release",
+        "labelHi": "प्रेस विज्ञप्ति",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667",
         "slug": "news-information/press-release",
         "depth": 2,
