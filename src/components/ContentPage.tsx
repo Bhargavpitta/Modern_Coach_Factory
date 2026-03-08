@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Download, FileText } from "lucide-react";
 import { getPageBySlug } from "@/data/loader";
 import type { PageContent as PageContentType } from "@/data/types";
+import { useLanguage } from "@/contexts/LanguageContext";
 
 interface ContentPageProps {
   slug: string;
@@ -15,6 +16,8 @@ function basenameFromLocalPath(localPath: string): string {
 export default function ContentPage({ slug }: ContentPageProps) {
   const [page, setPage] = useState<PageContentType | null>(null);
   const [loading, setLoading] = useState(true);
+  const { lang } = useLanguage();
+  const isHindi = lang === "hi";
 
   useEffect(() => {
     let active = true;
@@ -50,14 +53,18 @@ export default function ContentPage({ slug }: ContentPageProps) {
     );
   }
 
+  // Get language-specific content
+  const title = isHindi && page.titleHi ? page.titleHi : page.title;
+  const contentHtml = isHindi && page.contentHtmlHi ? page.contentHtmlHi : page.contentHtml;
+
   return (
     <div key={slug} className="animate-fadeIn">
       <section className="card-gov p-6 space-y-6">
-        <h2 className="text-2xl font-bold text-foreground">{page.title}</h2>
+        <h2 className="text-2xl font-bold text-foreground">{title}</h2>
 
         <div
           className="content-html"
-          dangerouslySetInnerHTML={{ __html: page.contentHtml || "" }}
+          dangerouslySetInnerHTML={{ __html: contentHtml || "" }}
         />
 
         {page.attachments?.length > 0 && (
