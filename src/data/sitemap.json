@@ -2,6 +2,7 @@
   {
     "id": "0,294",
     "label": "About MCF",
+    "labelHi": "एमसीएफ के बारे में",
     "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294",
     "slug": "about-mcf",
     "depth": 1,
@@ -10,6 +11,7 @@
       {
         "id": "0,294,302",
         "label": "General Manager",
+        "labelHi": "महाप्रबंधक",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C302",
         "slug": "about-mcf/general-manager",
         "depth": 2,
@@ -19,6 +21,7 @@
       {
         "id": "0,294,928",
         "label": "MCF Organisation Chart",
+        "labelHi": "एमसीएफ संगठन चार्ट",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C928",
         "slug": "about-mcf/mcf-organisation-chart",
         "depth": 2,
@@ -28,6 +31,7 @@
       {
         "id": "0,294,467",
         "label": "Milestones of MCF",
+        "labelHi": "एमसीएफ की मील के पत्थर",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C467",
         "slug": "about-mcf/milestones-of-mcf",
         "depth": 2,
@@ -37,6 +41,7 @@
       {
         "id": "0,294,1050",
         "label": "Heritage",
+        "labelHi": "विरासत",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C1050",
         "slug": "about-mcf/heritage",
         "depth": 2,
@@ -46,6 +51,7 @@
       {
         "id": "0,294,812",
         "label": "RailNet Link",
+        "labelHi": "रेलनेट लिंक",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C812",
         "slug": "about-mcf/railnet-link",
         "depth": 2,
@@ -55,6 +61,7 @@
       {
         "id": "0,294,917",
         "label": "Export",
+        "labelHi": "निर्यात",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C917",
         "slug": "about-mcf/export",
         "depth": 2,
@@ -63,6 +70,7 @@
           {
             "id": "0,294,917,918",
             "label": "Mozambique",
+            "labelHi": "मोज़ांबिक",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C917%2C918",
             "slug": "about-mcf/export/mozambique",
             "depth": 3,
@@ -74,6 +82,7 @@
       {
         "id": "0,294,327",
         "label": "Rajbhasha",
+        "labelHi": "राजभाषा",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C327",
         "slug": "about-mcf/rajbhasha",
         "depth": 2,
@@ -83,6 +92,7 @@
       {
         "id": "0,294,616",
         "label": "Annual Report",
+        "labelHi": "वार्षिक रिपोर्ट",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C616",
         "slug": "about-mcf/annual-report",
         "depth": 2,
@@ -94,6 +104,7 @@
   {
     "id": "0,295",
     "label": "News & Information",
+    "labelHi": "समाचार एवं सूचना",
     "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295",
     "slug": "news-information",
     "depth": 1,
@@ -102,6 +113,7 @@
       {
         "id": "0,295,667",
         "label": "Press Release",
+        "labelHi": "प्रेस विज्ञप्ति",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667",
         "slug": "news-information/press-release",
         "depth": 2,
@@ -110,6 +122,7 @@
           {
             "id": "0,295,667,1046",
             "label": "2025",
+            "labelHi": "2025",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667%2C1046",
             "slug": "news-information/press-release/2025",
             "depth": 3,
@@ -119,6 +132,7 @@
           {
             "id": "0,295,667,1032",
             "label": "2024",
+            "labelHi": "2024",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667%2C1032",
             "slug": "news-information/press-release/2024",
             "depth": 3,
@@ -128,6 +142,7 @@
           {
             "id": "0,295,667,1023",
             "label": "2023",
+            "labelHi": "2023",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667%2C1023",
             "slug": "news-information/press-release/2023",
             "depth": 3,
@@ -137,6 +152,7 @@
           {
             "id": "0,295,667,990",
             "label": "2022",
+            "labelHi": "2022",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667%2C990",
             "slug": "news-information/press-release/2022",
             "depth": 3,
@@ -146,6 +162,7 @@
           {
             "id": "0,295,667,991",
             "label": "Before 2022",
+            "labelHi": "2022 से पहले",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C667%2C991",
             "slug": "news-information/press-release/before-2022",
             "depth": 3,
@@ -157,6 +174,7 @@
       {
         "id": "0,295,700",
         "label": "Features in MCF Designed Coaches",
+        "labelHi": "एमसीएफ डिज़ाइन कोच की विशेषताएं",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C700",
         "slug": "news-information/features-in-mcf-designed-coaches",
         "depth": 2,
@@ -165,6 +183,7 @@
           {
             "id": "0,295,700,701",
             "label": "Deen Dayalu Coaches",
+            "labelHi": "दीनदयाल कोच",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C700%2C701",
             "slug": "news-information/features-in-mcf-designed-coaches/deen-dayalu-coaches",
             "depth": 3,
@@ -174,6 +193,7 @@
           {
             "id": "0,295,700,702",
             "label": "Antyodaya Express Coaches",
+            "labelHi": "अंत्योदय एक्सप्रेस कोच",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C700%2C702",
             "slug": "news-information/features-in-mcf-designed-coaches/antyodaya-express-coaches",
             "depth": 3,
@@ -183,6 +203,7 @@
           {
             "id": "0,295,700,703",
             "label": "Humsafar Coaches",
+            "labelHi": "हमसफर कोच",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C700%2C703",
             "slug": "news-information/features-in-mcf-designed-coaches/humsafar-coaches",
             "depth": 3,
@@ -192,6 +213,7 @@
           {
             "id": "0,295,700,704",
             "label": "Tejas Coaches",
+            "labelHi": "तेजस कोच",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C700%2C704",
             "slug": "news-information/features-in-mcf-designed-coaches/tejas-coaches",
             "depth": 3,
@@ -201,6 +223,7 @@
           {
             "id": "0,295,700,993",
             "label": "AC 3 Tier Economy (LWACCNE)",
+            "labelHi": "एसी 3 टियर इकोनॉमी (LWACCNE)",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C700%2C993",
             "slug": "news-information/features-in-mcf-designed-coaches/ac-3-tier-economy-lwaccne",
             "depth": 3,
@@ -212,6 +235,7 @@
       {
         "id": "0,295,813",
         "label": "Right To Information Act",
+        "labelHi": "सूचना का अधिकार अधिनियम",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C813",
         "slug": "news-information/right-to-information-act",
         "depth": 2,
@@ -221,6 +245,7 @@
       {
         "id": "0,295,1021",
         "label": "Kaushal Vikas Yojna",
+        "labelHi": "कौशल विकास योजना",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C1021",
         "slug": "news-information/kaushal-vikas-yojna",
         "depth": 2,
@@ -230,6 +255,7 @@
       {
         "id": "0,295,582",
         "label": "Quality",
+        "labelHi": "गुणवत्ता",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582",
         "slug": "news-information/quality",
         "depth": 2,
@@ -238,6 +264,7 @@
           {
             "id": "0,295,582,925",
             "label": "Warranty",
+            "labelHi": "गारंटी",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C925",
             "slug": "news-information/quality/warranty",
             "depth": 3,
@@ -247,6 +274,7 @@
           {
             "id": "0,295,582,584",
             "label": "Railwaywise Rolling Stock Certificate",
+            "labelHi": "रेलवे-वार रोलिंग स्टॉक प्रमाण पत्र",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584",
             "slug": "news-information/quality/railwaywise-rolling-stock-certificate",
             "depth": 3,
@@ -255,6 +283,7 @@
               {
                 "id": "0,295,582,584,585",
                 "label": "Central Railway",
+                "labelHi": "मध्य रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C585",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/central-railway",
                 "depth": 4,
@@ -264,6 +293,7 @@
               {
                 "id": "0,295,582,584,587",
                 "label": "Eastern Railway",
+                "labelHi": "पूर्व रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C587",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/eastern-railway",
                 "depth": 4,
@@ -273,6 +303,7 @@
               {
                 "id": "0,295,582,584,586",
                 "label": "East Central Ralway",
+                "labelHi": "पूर्व मध्य रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C586",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/east-central-ralway",
                 "depth": 4,
@@ -282,6 +313,7 @@
               {
                 "id": "0,295,582,584,588",
                 "label": "East Coast Railway",
+                "labelHi": "पूर्व तट रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C588",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/east-coast-railway",
                 "depth": 4,
@@ -291,6 +323,7 @@
               {
                 "id": "0,295,582,584,590",
                 "label": "Northern Railway/RDSO",
+                "labelHi": "उत्तर रेलवे/आरडीएसओ",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C590",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/northern-railwayrdso",
                 "depth": 4,
@@ -300,6 +333,7 @@
               {
                 "id": "0,295,582,584,591",
                 "label": "North Central Railway",
+                "labelHi": "उत्तर मध्य रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C591",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/north-central-railway",
                 "depth": 4,
@@ -309,6 +343,7 @@
               {
                 "id": "0,295,582,584,592",
                 "label": "North Eastern Railway",
+                "labelHi": "उत्तर पूर्वी रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C592",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/north-eastern-railway",
                 "depth": 4,
@@ -318,6 +353,7 @@
               {
                 "id": "0,295,582,584,593",
                 "label": "North Frontier Railway",
+                "labelHi": "उत्तर सीमांत रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C593",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/north-frontier-railway",
                 "depth": 4,
@@ -327,6 +363,7 @@
               {
                 "id": "0,295,582,584,594",
                 "label": "North Western Railway",
+                "labelHi": "उत्तर पश्चिम रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C594",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/north-western-railway",
                 "depth": 4,
@@ -336,6 +373,7 @@
               {
                 "id": "0,295,582,584,595",
                 "label": "Southern Railway",
+                "labelHi": "दक्षिण रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C595",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/southern-railway",
                 "depth": 4,
@@ -345,6 +383,7 @@
               {
                 "id": "0,295,582,584,596",
                 "label": "South Central Railway",
+                "labelHi": "दक्षिण मध्य रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C596",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/south-central-railway",
                 "depth": 4,
@@ -354,6 +393,7 @@
               {
                 "id": "0,295,582,584,597",
                 "label": "South Eastern Railway",
+                "labelHi": "दक्षिण पूर्वी रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C597",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/south-eastern-railway",
                 "depth": 4,
@@ -363,6 +403,7 @@
               {
                 "id": "0,295,582,584,598",
                 "label": "South East Central Railway",
+                "labelHi": "दक्षिण पूर्व मध्य रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C598",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/south-east-central-railway",
                 "depth": 4,
@@ -372,6 +413,7 @@
               {
                 "id": "0,295,582,584,599",
                 "label": "South Western Railway",
+                "labelHi": "दक्षिण पश्चिम रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C599",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/south-western-railway",
                 "depth": 4,
@@ -381,6 +423,7 @@
               {
                 "id": "0,295,582,584,600",
                 "label": "Western Railway",
+                "labelHi": "पश्चिम रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C600",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/western-railway",
                 "depth": 4,
@@ -390,6 +433,7 @@
               {
                 "id": "0,295,582,584,601",
                 "label": "West Central Railway",
+                "labelHi": "पश्चिम मध्य रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C601",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/west-central-railway",
                 "depth": 4,
@@ -399,6 +443,7 @@
               {
                 "id": "0,295,582,584,589",
                 "label": "Konkan Railway",
+                "labelHi": "कोंकण रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C584%2C589",
                 "slug": "news-information/quality/railwaywise-rolling-stock-certificate/konkan-railway",
                 "depth": 4,
@@ -410,6 +455,7 @@
           {
             "id": "0,295,582,583",
             "label": "Paint Warranty (Upto March-2019)",
+            "labelHi": "पेंट गारंटी (मार्च-2019 तक)",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583",
             "slug": "news-information/quality/paint-warranty-upto-march-2019",
             "depth": 3,
@@ -418,6 +464,7 @@
               {
                 "id": "0,295,582,583,658",
                 "label": "Central Railway",
+                "labelHi": "मध्य रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C658",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/central-railway",
                 "depth": 4,
@@ -427,6 +474,7 @@
               {
                 "id": "0,295,582,583,612",
                 "label": "Eastern Railway",
+                "labelHi": "पूर्व रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C612",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/eastern-railway",
                 "depth": 4,
@@ -436,6 +484,7 @@
               {
                 "id": "0,295,582,583,653",
                 "label": "East Central Ralway",
+                "labelHi": "पूर्व मध्य रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C653",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/east-central-ralway",
                 "depth": 4,
@@ -445,6 +494,7 @@
               {
                 "id": "0,295,582,583,646",
                 "label": "East Coast Railway",
+                "labelHi": "पूर्व तट रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C646",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/east-coast-railway",
                 "depth": 4,
@@ -454,6 +504,7 @@
               {
                 "id": "0,295,582,583,659",
                 "label": "NORTH RAILWAY",
+                "labelHi": "उत्तर रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C659",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/north-railway",
                 "depth": 4,
@@ -463,6 +514,7 @@
               {
                 "id": "0,295,582,583,660",
                 "label": "North central railway",
+                "labelHi": "उत्तर मध्य रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C660",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/north-central-railway",
                 "depth": 4,
@@ -472,6 +524,7 @@
               {
                 "id": "0,295,582,583,705",
                 "label": "NORTH EASTERN RAILWAY",
+                "labelHi": "उत्तर पूर्वी रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C705",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/north-eastern-railway",
                 "depth": 4,
@@ -481,6 +534,7 @@
               {
                 "id": "0,295,582,583,695",
                 "label": "NORTH FRONTIER RAILWAY",
+                "labelHi": "उत्तर सीमांत रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C695",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/north-frontier-railway",
                 "depth": 4,
@@ -490,6 +544,7 @@
               {
                 "id": "0,295,582,583,652",
                 "label": "North western railway",
+                "labelHi": "उत्तर पश्चिम रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C652",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/north-western-railway",
                 "depth": 4,
@@ -499,6 +554,7 @@
               {
                 "id": "0,295,582,583,694",
                 "label": "SOUTH RAILWAY",
+                "labelHi": "दक्षिण रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C694",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/south-railway",
                 "depth": 4,
@@ -508,6 +564,7 @@
               {
                 "id": "0,295,582,583,668",
                 "label": "South Central Railway",
+                "labelHi": "दक्षिण मध्य रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C668",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/south-central-railway",
                 "depth": 4,
@@ -517,6 +574,7 @@
               {
                 "id": "0,295,582,583,647",
                 "label": "South Eastern Railway",
+                "labelHi": "दक्षिण पूर्वी रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C647",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/south-eastern-railway",
                 "depth": 4,
@@ -526,6 +584,7 @@
               {
                 "id": "0,295,582,583,650",
                 "label": "South East Central Railway",
+                "labelHi": "दक्षिण पूर्व मध्य रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C650",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/south-east-central-railway",
                 "depth": 4,
@@ -535,6 +594,7 @@
               {
                 "id": "0,295,582,583,648",
                 "label": "South Western Railway",
+                "labelHi": "दक्षिण पश्चिम रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C648",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/south-western-railway",
                 "depth": 4,
@@ -544,6 +604,7 @@
               {
                 "id": "0,295,582,583,651",
                 "label": "Western Railway",
+                "labelHi": "पश्चिम रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C651",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/western-railway",
                 "depth": 4,
@@ -553,6 +614,7 @@
               {
                 "id": "0,295,582,583,649",
                 "label": "Western Central Railway",
+                "labelHi": "पश्चिम मध्य रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C649",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/western-central-railway",
                 "depth": 4,
@@ -562,6 +624,7 @@
               {
                 "id": "0,295,582,583,724",
                 "label": "konkan railway",
+                "labelHi": "कोंकण रेलवे",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C582%2C583%2C724",
                 "slug": "news-information/quality/paint-warranty-upto-march-2019/konkan-railway",
                 "depth": 4,
@@ -575,6 +638,7 @@
       {
         "id": "0,295,852",
         "label": "Mechanical Design Specifications",
+        "labelHi": "यांत्रिक डिज़ाइन विशिष्टताएं",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C852",
         "slug": "news-information/mechanical-design-specifications",
         "depth": 2,
@@ -584,6 +648,7 @@
       {
         "id": "0,295,900",
         "label": "Mechanical Design Draft Specifications",
+        "labelHi": "यांत्रिक डिज़ाइन प्रारूप विशिष्टताएं",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C900",
         "slug": "news-information/mechanical-design-draft-specifications",
         "depth": 2,
@@ -593,6 +658,7 @@
       {
         "id": "0,295,865",
         "label": "ELECTRICAL DESIGN SPECIFICATIONS",
+        "labelHi": "विद्युत डिज़ाइन विशिष्टताएं",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C865",
         "slug": "news-information/electrical-design-specifications",
         "depth": 2,
@@ -602,6 +668,7 @@
       {
         "id": "0,295,832",
         "label": "EOI",
+        "labelHi": "ईओआई",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C832",
         "slug": "news-information/eoi",
         "depth": 2,
@@ -610,6 +677,7 @@
           {
             "id": "0,295,832,896",
             "label": "Mechanical Design",
+            "labelHi": "यांत्रिक डिज़ाइन",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C832%2C896",
             "slug": "news-information/eoi/mechanical-design",
             "depth": 3,
@@ -619,6 +687,7 @@
           {
             "id": "0,295,832,1048",
             "label": "Mechanical FWP",
+            "labelHi": "यांत्रिक FWP",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C832%2C1048",
             "slug": "news-information/eoi/mechanical-fwp",
             "depth": 3,
@@ -630,6 +699,7 @@
       {
         "id": "0,295,899",
         "label": "Offical Laptop Policy and Forms",
+        "labelHi": "आधिकारिक लैपटॉप नीति और प्रपत्र",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C899",
         "slug": "news-information/offical-laptop-policy-and-forms",
         "depth": 2,
@@ -639,6 +709,7 @@
       {
         "id": "0,295,492",
         "label": "Immovable Property Return by officers",
+        "labelHi": "अधिकारियों द्वारा अचल संपत्ति विवरणी",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C492",
         "slug": "news-information/immovable-property-return-by-officers",
         "depth": 2,
@@ -648,6 +719,7 @@
       {
         "id": "0,295,827",
         "label": "MCF Coach Outtrurn",
+        "labelHi": "एमसीएफ कोच आउटटर्न",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C295%2C827",
         "slug": "news-information/mcf-coach-outtrurn",
         "depth": 2,
@@ -659,6 +731,7 @@
   {
     "id": "0,298",
     "label": "Department",
+    "labelHi": "विभाग",
     "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298",
     "slug": "department",
     "depth": 1,
@@ -667,6 +740,7 @@
       {
         "id": "0,298,729",
         "label": "General Administration",
+        "labelHi": "सामान्य प्रशासन",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729",
         "slug": "department/general-administration",
         "depth": 2,
@@ -675,6 +749,7 @@
           {
             "id": "0,298,729,1014",
             "label": "General Administration",
+            "labelHi": "सामान्य प्रशासन",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1014",
             "slug": "department/general-administration/general-administration",
             "depth": 3,
@@ -684,6 +759,7 @@
           {
             "id": "0,298,729,1051",
             "label": "Calendar 2026",
+            "labelHi": "कैलेंडर 2026",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1051",
             "slug": "department/general-administration/calendar-2026",
             "depth": 3,
@@ -693,6 +769,7 @@
           {
             "id": "0,298,729,764",
             "label": "Public Relations",
+            "labelHi": "जनसंपर्क",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C764",
             "slug": "department/general-administration/public-relations",
             "depth": 3,
@@ -702,6 +779,7 @@
           {
             "id": "0,298,729,765",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C765",
             "slug": "department/general-administration/contact-details",
             "depth": 3,
@@ -711,6 +789,7 @@
           {
             "id": "0,298,729,1006",
             "label": "Estate Office",
+            "labelHi": "एस्टेट कार्यालय",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1006",
             "slug": "department/general-administration/estate-office",
             "depth": 3,
@@ -720,6 +799,7 @@
           {
             "id": "0,298,729,1007",
             "label": "Rest House Booking in MCF/Raebareli",
+            "labelHi": "एमसीएफ/रायबरेली में विश्राम गृह बुकिंग",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1007",
             "slug": "department/general-administration/rest-house-booking-in-mcfraebareli",
             "depth": 3,
@@ -729,6 +809,7 @@
           {
             "id": "0,298,729,1008",
             "label": "Schedule of Powers",
+            "labelHi": "शक्तियों की अनुसूची",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1008",
             "slug": "department/general-administration/schedule-of-powers",
             "depth": 3,
@@ -738,6 +819,7 @@
           {
             "id": "0,298,729,1009",
             "label": "REPORTS",
+            "labelHi": "रिपोर्ट",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1009",
             "slug": "department/general-administration/reports",
             "depth": 3,
@@ -747,6 +829,7 @@
           {
             "id": "0,298,729,1010",
             "label": "FORMATS",
+            "labelHi": "प्रारूप",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1010",
             "slug": "department/general-administration/formats",
             "depth": 3,
@@ -756,6 +839,7 @@
           {
             "id": "0,298,729,1011",
             "label": "STANDARDISATION OF FURNITURES",
+            "labelHi": "फर्नीचर का मानकीकरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1011",
             "slug": "department/general-administration/standardisation-of-furnitures",
             "depth": 3,
@@ -765,6 +849,7 @@
           {
             "id": "0,298,729,1012",
             "label": "Revised Occupancy Charges of Rest houses in MCF",
+            "labelHi": "एमसीएफ में विश्राम गृह के संशोित व्यय शुल्क",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1012",
             "slug": "department/general-administration/revised-occupancy-charges-of-rest-houses-in-mcf",
             "depth": 3,
@@ -774,6 +859,7 @@
           {
             "id": "0,298,729,1013",
             "label": "Air Travel for Officials of MCF",
+            "labelHi": "एमसीएफ के अधिकारियों के लिए हवाई यात्रा",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1013",
             "slug": "department/general-administration/air-travel-for-officials-of-mcf",
             "depth": 3,
@@ -783,6 +869,7 @@
           {
             "id": "0,298,729,1015",
             "label": "Policy for Briefcase Allowance",
+            "labelHi": "ब्रीफकेस भत्ता नीति",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C729%2C1015",
             "slug": "department/general-administration/policy-for-briefcase-allowance",
             "depth": 3,
@@ -794,6 +881,7 @@
       {
         "id": "0,298,728",
         "label": "Personnel",
+        "labelHi": "कार्मिक",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C728",
         "slug": "department/personnel",
         "depth": 2,
@@ -802,6 +890,7 @@
           {
             "id": "0,298,728,760",
             "label": "Function of Department",
+            "labelHi": "विभाग का कार्य",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C728%2C760",
             "slug": "department/personnel/function-of-department",
             "depth": 3,
@@ -811,6 +900,7 @@
           {
             "id": "0,298,728,762",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C728%2C762",
             "slug": "department/personnel/contact-details",
             "depth": 3,
@@ -822,6 +912,7 @@
       {
         "id": "0,298,731",
         "label": "Production",
+        "labelHi": "उत्पादन",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C731",
         "slug": "department/production",
         "depth": 2,
@@ -830,6 +921,7 @@
           {
             "id": "0,298,731,769",
             "label": "Function of Department",
+            "labelHi": "विभाग का कार्य",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C731%2C769",
             "slug": "department/production/function-of-department",
             "depth": 3,
@@ -839,6 +931,7 @@
           {
             "id": "0,298,731,771",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C731%2C771",
             "slug": "department/production/contact-details",
             "depth": 3,
@@ -850,6 +943,7 @@
       {
         "id": "0,298,732",
         "label": "Design",
+        "labelHi": "डिज़ाइन",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732",
         "slug": "department/design",
         "depth": 2,
@@ -858,6 +952,7 @@
           {
             "id": "0,298,732,772",
             "label": "Function of Department",
+            "labelHi": "विभाग का कार्य",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C772",
             "slug": "department/design/function-of-department",
             "depth": 3,
@@ -867,6 +962,7 @@
           {
             "id": "0,298,732,773",
             "label": "Departmental Chart",
+            "labelHi": "विभागीय चार्ट",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C773",
             "slug": "department/design/departmental-chart",
             "depth": 3,
@@ -876,6 +972,7 @@
           {
             "id": "0,298,732,774",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C774",
             "slug": "department/design/contact-details",
             "depth": 3,
@@ -885,6 +982,7 @@
           {
             "id": "0,298,732,912",
             "label": "Resources",
+            "labelHi": "संसाधन",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C912",
             "slug": "department/design/resources",
             "depth": 3,
@@ -893,6 +991,7 @@
               {
                 "id": "0,298,732,912,913",
                 "label": "Official Logos",
+                "labelHi": "आधिकारिक लोगो",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C912%2C913",
                 "slug": "department/design/resources/official-logos",
                 "depth": 4,
@@ -902,6 +1001,7 @@
               {
                 "id": "0,298,732,912,914",
                 "label": "Forms and Important Policies",
+                "labelHi": "प्रपत्र और महत्वपूर्ण नीतियां",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C912%2C914",
                 "slug": "department/design/resources/forms-and-important-policies",
                 "depth": 4,
@@ -911,6 +1011,7 @@
               {
                 "id": "0,298,732,912,988",
                 "label": "Manuals/Handbook",
+                "labelHi": "मैनुअल/हैंडबुक",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C912%2C988",
                 "slug": "department/design/resources/manualshandbook",
                 "depth": 4,
@@ -920,6 +1021,7 @@
               {
                 "id": "0,298,732,912,995",
                 "label": "Digital Brochures and Pamphlets",
+                "labelHi": "डिजिटल ब्रोशर और पैम्फलेट",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C912%2C995",
                 "slug": "department/design/resources/digital-brochures-and-pamphlets",
                 "depth": 4,
@@ -929,6 +1031,7 @@
               {
                 "id": "0,298,732,912,1045",
                 "label": "Turnkey Documents",
+                "labelHi": "टर्नकी दस्तावेज़",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C732%2C912%2C1045",
                 "slug": "department/design/resources/turnkey-documents",
                 "depth": 4,
@@ -942,6 +1045,7 @@
       {
         "id": "0,298,740",
         "label": "Project Department",
+        "labelHi": "परियोजना विभाग",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740",
         "slug": "department/project-department",
         "depth": 2,
@@ -950,6 +1054,7 @@
           {
             "id": "0,298,740,1044",
             "label": "Functions and Working",
+            "labelHi": "कार्य और कार्यप्रणाली",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C1044",
             "slug": "department/project-department/functions-and-working",
             "depth": 3,
@@ -959,6 +1064,7 @@
           {
             "id": "0,298,740,746",
             "label": "Organisation Chart",
+            "labelHi": "संगठन चार्ट",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C746",
             "slug": "department/project-department/organisation-chart",
             "depth": 3,
@@ -968,6 +1074,7 @@
           {
             "id": "0,298,740,748",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C748",
             "slug": "department/project-department/contact-details",
             "depth": 3,
@@ -977,6 +1084,7 @@
           {
             "id": "0,298,740,749",
             "label": "Layouts",
+            "labelHi": "नक्शे",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C749",
             "slug": "department/project-department/layouts",
             "depth": 3,
@@ -985,6 +1093,7 @@
               {
                 "id": "0,298,740,749,750",
                 "label": "Location",
+                "labelHi": "स्थान",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C749%2C750",
                 "slug": "department/project-department/layouts/location",
                 "depth": 4,
@@ -994,6 +1103,7 @@
               {
                 "id": "0,298,740,749,751",
                 "label": "Factory Side",
+                "labelHi": "कारखाना पक्ष",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C749%2C751",
                 "slug": "department/project-department/layouts/factory-side",
                 "depth": 4,
@@ -1003,6 +1113,7 @@
               {
                 "id": "0,298,740,749,752",
                 "label": "Township Side",
+                "labelHi": "टाउनशिप पक्ष",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C749%2C752",
                 "slug": "department/project-department/layouts/township-side",
                 "depth": 4,
@@ -1012,6 +1123,7 @@
               {
                 "id": "0,298,740,749,811",
                 "label": "Power Supply",
+                "labelHi": "बिजली आपूर्ति",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C749%2C811",
                 "slug": "department/project-department/layouts/power-supply",
                 "depth": 4,
@@ -1023,6 +1135,7 @@
           {
             "id": "0,298,740,753",
             "label": "Projects",
+            "labelHi": "परियोजनाएं",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C753",
             "slug": "department/project-department/projects",
             "depth": 3,
@@ -1031,6 +1144,7 @@
               {
                 "id": "0,298,740,753,754",
                 "label": "Setting up of Modern Coach Factory,Rabareli",
+                "labelHi": "आधुनिक कोच कारखाना, रायबरेली की स्थापना",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C753%2C754",
                 "slug": "department/project-department/projects/setting-up-of-modern-coach-factoryrabareli",
                 "depth": 4,
@@ -1040,6 +1154,7 @@
               {
                 "id": "0,298,740,753,840",
                 "label": "Augumentation of Production Capacity",
+                "labelHi": "उत्पादन क्षमता में वृद्धि",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C753%2C840",
                 "slug": "department/project-department/projects/augumentation-of-production-capacity",
                 "depth": 4,
@@ -1049,6 +1164,7 @@
               {
                 "id": "0,298,740,753,756",
                 "label": "Modernisation of Alambag Workshop",
+                "labelHi": "इलामबाग कार्यशाला का आधुनिकीकरण",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C753%2C756",
                 "slug": "department/project-department/projects/modernisation-of-alambag-workshop",
                 "depth": 4,
@@ -1058,6 +1174,7 @@
               {
                 "id": "0,298,740,753,757",
                 "label": "Modernisation of Kota Workshop",
+                "labelHi": "कोटा कार्यशाला का आधुनिकीकरण",
                 "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C753%2C757",
                 "slug": "department/project-department/projects/modernisation-of-kota-workshop",
                 "depth": 4,
@@ -1069,6 +1186,7 @@
           {
             "id": "0,298,740,758",
             "label": "Photo Gallery",
+            "labelHi": "फोटो गैलरी",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C740%2C758",
             "slug": "department/project-department/photo-gallery",
             "depth": 3,
@@ -1080,6 +1198,7 @@
       {
         "id": "0,298,739",
         "label": "Quality",
+        "labelHi": "गुणवत्ता",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C739",
         "slug": "department/quality",
         "depth": 2,
@@ -1088,6 +1207,7 @@
           {
             "id": "0,298,739,786",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C739%2C786",
             "slug": "department/quality/contact-details",
             "depth": 3,
@@ -1097,6 +1217,7 @@
           {
             "id": "0,298,739,785",
             "label": "Departmental Chart",
+            "labelHi": "विभागीय चार्ट",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C739%2C785",
             "slug": "department/quality/departmental-chart",
             "depth": 3,
@@ -1106,6 +1227,7 @@
           {
             "id": "0,298,739,1033",
             "label": "Function of Quality",
+            "labelHi": "गुणवत्ता विभाग का कार्य",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C739%2C1033",
             "slug": "department/quality/function-of-quality",
             "depth": 3,
@@ -1115,6 +1237,7 @@
           {
             "id": "0,298,739,845",
             "label": "Photo Gallery",
+            "labelHi": "फोटो गैलरी",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C739%2C845",
             "slug": "department/quality/photo-gallery",
             "depth": 3,
@@ -1124,6 +1247,7 @@
           {
             "id": "0,298,739,1034",
             "label": "ISO Certificate",
+            "labelHi": "आईएसओ प्रमाण पत्र",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C739%2C1034",
             "slug": "department/quality/iso-certificate",
             "depth": 3,
@@ -1135,6 +1259,7 @@
       {
         "id": "0,298,741",
         "label": "Civil Engineering",
+        "labelHi": "सिविल इंजीनियरिंग",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C741",
         "slug": "department/civil-engineering",
         "depth": 2,
@@ -1143,6 +1268,7 @@
           {
             "id": "0,298,741,790",
             "label": "Function of Department",
+            "labelHi": "विभाग का कार्य",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C741%2C790",
             "slug": "department/civil-engineering/function-of-department",
             "depth": 3,
@@ -1152,6 +1278,7 @@
           {
             "id": "0,298,741,987",
             "label": "Quarter allotment policy",
+            "labelHi": "क्वार्टर आवंटन नीति",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C741%2C987",
             "slug": "department/civil-engineering/quarter-allotment-policy",
             "depth": 3,
@@ -1161,6 +1288,7 @@
           {
             "id": "0,298,741,1028",
             "label": "Civil Maintenance Schedule",
+            "labelHi": "सिविल रखरखाव अनुसूची",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C741%2C1028",
             "slug": "department/civil-engineering/civil-maintenance-schedule",
             "depth": 3,
@@ -1170,6 +1298,7 @@
           {
             "id": "0,298,741,792",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C741%2C792",
             "slug": "department/civil-engineering/contact-details",
             "depth": 3,
@@ -1181,6 +1310,7 @@
       {
         "id": "0,298,738",
         "label": "Plant Maintenence",
+        "labelHi": "संयंत्र रखरखाव",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C738",
         "slug": "department/plant-maintenence",
         "depth": 2,
@@ -1189,6 +1319,7 @@
           {
             "id": "0,298,738,793",
             "label": "Function of Department",
+            "labelHi": "विभाग का कार्य",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C738%2C793",
             "slug": "department/plant-maintenence/function-of-department",
             "depth": 3,
@@ -1198,6 +1329,7 @@
           {
             "id": "0,298,738,795",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C738%2C795",
             "slug": "department/plant-maintenence/contact-details",
             "depth": 3,
@@ -1209,6 +1341,7 @@
       {
         "id": "0,298,806",
         "label": "Medical",
+        "labelHi": "चिकित्सा",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C806",
         "slug": "department/medical",
         "depth": 2,
@@ -1217,6 +1350,7 @@
           {
             "id": "0,298,806,807",
             "label": "Function of Department",
+            "labelHi": "विभाग का कार्य",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C806%2C807",
             "slug": "department/medical/function-of-department",
             "depth": 3,
@@ -1226,6 +1360,7 @@
           {
             "id": "0,298,806,809",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C806%2C809",
             "slug": "department/medical/contact-details",
             "depth": 3,
@@ -1237,6 +1372,7 @@
       {
         "id": "0,298,735",
         "label": "Stores",
+        "labelHi": "भंडार",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C735",
         "slug": "department/stores",
         "depth": 2,
@@ -1245,6 +1381,7 @@
           {
             "id": "0,298,735,742",
             "label": "Function of Department",
+            "labelHi": "विभाग का कार्य",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C735%2C742",
             "slug": "department/stores/function-of-department",
             "depth": 3,
@@ -1254,6 +1391,7 @@
           {
             "id": "0,298,735,743",
             "label": "Departmental Chart",
+            "labelHi": "विभागीय चार्ट",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C735%2C743",
             "slug": "department/stores/departmental-chart",
             "depth": 3,
@@ -1263,6 +1401,7 @@
           {
             "id": "0,298,735,744",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C735%2C744",
             "slug": "department/stores/contact-details",
             "depth": 3,
@@ -1274,6 +1413,7 @@
       {
         "id": "0,298,736",
         "label": "Accounts",
+        "labelHi": "लेखा",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C736",
         "slug": "department/accounts",
         "depth": 2,
@@ -1282,6 +1422,7 @@
           {
             "id": "0,298,736,781",
             "label": "Function of Department",
+            "labelHi": "विभाग का कार्य",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C736%2C781",
             "slug": "department/accounts/function-of-department",
             "depth": 3,
@@ -1291,6 +1432,7 @@
           {
             "id": "0,298,736,783",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C736%2C783",
             "slug": "department/accounts/contact-details",
             "depth": 3,
@@ -1302,6 +1444,7 @@
       {
         "id": "0,298,745",
         "label": "Vigilance",
+        "labelHi": "सतर्कता",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745",
         "slug": "department/vigilance",
         "depth": 2,
@@ -1310,6 +1453,7 @@
           {
             "id": "0,298,745,923",
             "label": "Vigilance Awareness Week",
+            "labelHi": "सतर्कता जागरूकता सप्ताह",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C923",
             "slug": "department/vigilance/vigilance-awareness-week",
             "depth": 3,
@@ -1319,6 +1463,7 @@
           {
             "id": "0,298,745,788",
             "label": "Organization",
+            "labelHi": "संगठन",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C788",
             "slug": "department/vigilance/organization",
             "depth": 3,
@@ -1328,6 +1473,7 @@
           {
             "id": "0,298,745,920",
             "label": "Important Letters",
+            "labelHi": "महत्वपूर्ण पत्र",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C920",
             "slug": "department/vigilance/important-letters",
             "depth": 3,
@@ -1337,6 +1483,7 @@
           {
             "id": "0,298,745,994",
             "label": "Vigilance Angle",
+            "labelHi": "सतर्कता कोण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C994",
             "slug": "department/vigilance/vigilance-angle",
             "depth": 3,
@@ -1346,6 +1493,7 @@
           {
             "id": "0,298,745,919",
             "label": "System Improvements",
+            "labelHi": "प्रणाली सुधार",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C919",
             "slug": "department/vigilance/system-improvements",
             "depth": 3,
@@ -1355,6 +1503,7 @@
           {
             "id": "0,298,745,898",
             "label": "Vigilance Bulletin",
+            "labelHi": "सतर्कता बुलेटिन",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C898",
             "slug": "department/vigilance/vigilance-bulletin",
             "depth": 3,
@@ -1364,6 +1513,7 @@
           {
             "id": "0,298,745,921",
             "label": "DOs & DONTs",
+            "labelHi": "क्या करें और क्या न करें",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C921",
             "slug": "department/vigilance/dos-donts",
             "depth": 3,
@@ -1373,6 +1523,7 @@
           {
             "id": "0,298,745,922",
             "label": "Complaint Policy",
+            "labelHi": "शिकायत नीति",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C922",
             "slug": "department/vigilance/complaint-policy",
             "depth": 3,
@@ -1382,6 +1533,7 @@
           {
             "id": "0,298,745,815",
             "label": "Selections",
+            "labelHi": "चयन",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C815",
             "slug": "department/vigilance/selections",
             "depth": 3,
@@ -1391,6 +1543,7 @@
           {
             "id": "0,298,745,787",
             "label": "Function of Vigilance",
+            "labelHi": "सतर्कता विभाग का कार्य",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C787",
             "slug": "department/vigilance/function-of-vigilance",
             "depth": 3,
@@ -1400,6 +1553,7 @@
           {
             "id": "0,298,745,924",
             "label": "Related Links",
+            "labelHi": "संबंधित लिंक",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C924",
             "slug": "department/vigilance/related-links",
             "depth": 3,
@@ -1409,6 +1563,7 @@
           {
             "id": "0,298,745,789",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C745%2C789",
             "slug": "department/vigilance/contact-details",
             "depth": 3,
@@ -1420,6 +1575,7 @@
       {
         "id": "0,298,823",
         "label": "Technical Training Centre",
+        "labelHi": "तकनीकी प्रशिक्षण केंद्र",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C823",
         "slug": "department/technical-training-centre",
         "depth": 2,
@@ -1428,6 +1584,7 @@
           {
             "id": "0,298,823,825",
             "label": "Key Contacts of TTC",
+            "labelHi": "टीटीसी के प्रमुख संपर्क",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C823%2C825",
             "slug": "department/technical-training-centre/key-contacts-of-ttc",
             "depth": 3,
@@ -1437,6 +1594,7 @@
           {
             "id": "0,298,823,839",
             "label": "TTC Library",
+            "labelHi": "टीटीसी पुस्तकालय",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C823%2C839",
             "slug": "department/technical-training-centre/ttc-library",
             "depth": 3,
@@ -1448,6 +1606,7 @@
       {
         "id": "0,298,998",
         "label": "Electrical",
+        "labelHi": "विद्युत",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C998",
         "slug": "department/electrical",
         "depth": 2,
@@ -1456,6 +1615,7 @@
           {
             "id": "0,298,998,1001",
             "label": "Function of Department",
+            "labelHi": "विभाग का कार्य",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C998%2C1001",
             "slug": "department/electrical/function-of-department",
             "depth": 3,
@@ -1465,6 +1625,7 @@
           {
             "id": "0,298,998,999",
             "label": "Departmental Chart",
+            "labelHi": "विभागीय चार्ट",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C998%2C999",
             "slug": "department/electrical/departmental-chart",
             "depth": 3,
@@ -1474,6 +1635,7 @@
           {
             "id": "0,298,998,1000",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C998%2C1000",
             "slug": "department/electrical/contact-details",
             "depth": 3,
@@ -1485,6 +1647,7 @@
       {
         "id": "0,298,1042",
         "label": "Security",
+        "labelHi": "सुरक्षा",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C1042",
         "slug": "department/security",
         "depth": 2,
@@ -1493,6 +1656,7 @@
           {
             "id": "0,298,1042,1043",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C1042%2C1043",
             "slug": "department/security/contact-details",
             "depth": 3,

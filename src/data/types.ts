@@ -1,6 +1,7 @@
 export interface SitemapNode {
   id: string;
   label: string;
+  labelHi?: string;
   url: string;
   slug: string;
   depth: number;
@@ -12,10 +13,13 @@ export interface PageContent {
   id: string;
   slug: string;
   title: string;
+  titleHi?: string;
   lang: string;
   lastReviewed?: string;
   contentHtml: string;
+  contentHtmlHi?: string;
   contentMarkdown: string;
+  contentMarkdownHi?: string;
   tables: Array<{
     headers: string[];
     rows: string[][];

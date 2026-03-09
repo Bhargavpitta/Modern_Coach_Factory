@@ -5,10 +5,15 @@ import ContentPage from "@/components/ContentPage";
 import { flattenSitemap, getSitemap } from "@/data/loader";
 import type { SitemapNode } from "@/data/types";
 import { useSitemapNode } from "@/hooks/useSitemapNode";
+import { useLanguage } from "@/contexts/LanguageContext";
 
 interface DynamicSectionProps {
   sectionSlug: string;
   pageSlug?: string;
+}
+
+function getNodeLabel(node: SitemapNode, isHindi: boolean): string {
+  return isHindi && node.labelHi ? node.labelHi : node.label;
 }
 
 function findSectionNodeBySlug(sitemap: SitemapNode[], sectionSlug: string): SitemapNode | null {
@@ -44,12 +49,14 @@ function SidebarNode({
   onSelect,
   defaultExpanded,
   depth,
+  isHindi,
 }: {
   node: SitemapNode;
   selectedSlug: string | null;
   onSelect: (slug: string) => void;
   defaultExpanded: boolean;
   depth: number;
+  isHindi: boolean;
 }) {
   const hasChildren = node.children?.length > 0;
   const isSelected = node.slug === selectedSlug;
@@ -69,7 +76,7 @@ function SidebarNode({
             type="button"
             onClick={() => setExpanded((value) => !value)}
             className="rounded p-1 text-muted-foreground hover:bg-muted/50"
-            aria-label={expanded ? `Collapse ${node.label}` : `Expand ${node.label}`}
+            aria-label={expanded ? `Collapse ${getNodeLabel(node, isHindi)}` : `Expand ${getNodeLabel(node, isHindi)}`}
           >
             {expanded ? (
               <ChevronDown className="h-4 w-4 transition-transform duration-200" />
@@ -90,7 +97,7 @@ function SidebarNode({
               : "text-foreground hover:bg-muted/50"
           }`}
         >
-          {node.label}
+          {getNodeLabel(node, isHindi)}
         </button>
       </div>
 
@@ -104,6 +111,7 @@ function SidebarNode({
               onSelect={onSelect}
               defaultExpanded={depth === 0 && child.children.length <= 5}
               depth={depth + 1}
+              isHindi={isHindi}
             />
           ))}
         </ul>
@@ -120,6 +128,8 @@ export default function DynamicSection({ sectionSlug, pageSlug }: DynamicSection
   const navigate = useNavigate();
   const location = useLocation();
   const drawerRef = useRef<HTMLDivElement | null>(null);
+  const { lang } = useLanguage();
+  const isHindi = lang === "hi";
 
   useEffect(() => {
     let active = true;
@@ -206,17 +216,17 @@ export default function DynamicSection({ sectionSlug, pageSlug }: DynamicSection
   const { node: currentNode, ancestors } = useSitemapNode(selected);
   const breadcrumbs = useMemo(() => {
     const items: Array<{ label: string; slug: string | null }> = [{ label: "Home", slug: null }];
-    if (sectionNode) items.push({ label: sectionNode.label, slug: sectionNode.slug });
+    if (sectionNode) items.push({ label: getNodeLabel(sectionNode, isHindi), slug: sectionNode.slug });
     for (const ancestor of ancestors) {
       if (ancestor.slug !== sectionNode?.slug) {
-        items.push({ label: ancestor.label, slug: ancestor.slug });
+        items.push({ label: getNodeLabel(ancestor, isHindi), slug: ancestor.slug });
       }
     }
     if (currentNode && currentNode.slug !== sectionNode?.slug) {
-      items.push({ label: currentNode.label, slug: currentNode.slug });
+      items.push({ label: getNodeLabel(currentNode, isHindi), slug: currentNode.slug });
     }
     return items;
-  }, [ancestors, currentNode, sectionNode]);
+  }, [ancestors, currentNode, sectionNode, isHindi]);
 
   if (loading) {
     return (
@@ -244,7 +254,7 @@ export default function DynamicSection({ sectionSlug, pageSlug }: DynamicSection
       className="bg-card border-r border-border overflow-y-auto max-h-[80vh] lg:max-h-none sticky top-4 p-4"
     >
       <div className="mb-4 flex items-center justify-between">
-        <h3 className="font-semibold text-foreground">{sectionNode.label}</h3>
+        <h3 className="font-semibold text-foreground">{getNodeLabel(sectionNode, isHindi)}</h3>
         <button
           type="button"
           className="rounded p-2 text-muted-foreground hover:bg-muted/50 lg:hidden"
@@ -261,6 +271,7 @@ export default function DynamicSection({ sectionSlug, pageSlug }: DynamicSection
           onSelect={handleSelect}
           defaultExpanded
           depth={0}
+          isHindi={isHindi}
         />
       </ul>
     </aside>
