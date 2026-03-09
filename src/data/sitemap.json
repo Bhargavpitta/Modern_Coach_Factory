@@ -1,7 +1,8 @@
 [
-  {
+{
     "id": "0,294",
     "label": "About MCF",
+    "labelHi": "एमसीएफ के बारे में",
     "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294",
     "slug": "about-mcf",
     "depth": 1,
@@ -10,6 +11,7 @@
       {
         "id": "0,294,302",
         "label": "General Manager",
+        "labelHi": "महाप्रबंधक",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C302",
         "slug": "about-mcf/general-manager",
         "depth": 2,
@@ -19,6 +21,7 @@
       {
         "id": "0,294,928",
         "label": "MCF Organisation Chart",
+        "labelHi": "एमसीएफ संगठन चार्ट",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C928",
         "slug": "about-mcf/mcf-organisation-chart",
         "depth": 2,
@@ -28,6 +31,7 @@
       {
         "id": "0,294,467",
         "label": "Milestones of MCF",
+        "labelHi": "एमसीएफ की मील के पत्थर",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C467",
         "slug": "about-mcf/milestones-of-mcf",
         "depth": 2,
@@ -37,6 +41,7 @@
       {
         "id": "0,294,1050",
         "label": "Heritage",
+        "labelHi": "विरासत",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C1050",
         "slug": "about-mcf/heritage",
         "depth": 2,
@@ -46,6 +51,7 @@
       {
         "id": "0,294,812",
         "label": "RailNet Link",
+        "labelHi": "रेलनेट लिंक",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C812",
         "slug": "about-mcf/railnet-link",
         "depth": 2,
@@ -55,6 +61,7 @@
       {
         "id": "0,294,917",
         "label": "Export",
+        "labelHi": "निर्यात",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C917",
         "slug": "about-mcf/export",
         "depth": 2,
@@ -63,6 +70,7 @@
           {
             "id": "0,294,917,918",
             "label": "Mozambique",
+            "labelHi": "मोज़ांबिक",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C917%2C918",
             "slug": "about-mcf/export/mozambique",
             "depth": 3,
@@ -74,6 +82,7 @@
       {
         "id": "0,294,327",
         "label": "Rajbhasha",
+        "labelHi": "राजभाषा",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C327",
         "slug": "about-mcf/rajbhasha",
         "depth": 2,
@@ -83,6 +92,7 @@
       {
         "id": "0,294,616",
         "label": "Annual Report",
+        "labelHi": "वार्षिक रिपोर्ट",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C294%2C616",
         "slug": "about-mcf/annual-report",
         "depth": 2,
