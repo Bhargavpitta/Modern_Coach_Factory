@@ -66,6 +66,10 @@ export const hi: Translations = {
   departments: {
     title: "विभाग",
     viewDetails: "विवरण देखें",
+    departments: "विभाग",
+    sections: "अनुभाग",
+    viewAll: "सभी देखें",
+    more: "अधिक",
   },
   vendor: {
     title: "विक्रेता सूचना",
