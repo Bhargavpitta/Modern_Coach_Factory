@@ -1668,6 +1668,7 @@
       {
         "id": "0,298,1035",
         "label": "Information Technology",
+        "labelHi": "सूचना प्रौद्योगिकी",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C1035",
         "slug": "department/information-technology",
         "depth": 2,
@@ -1676,6 +1677,7 @@
           {
             "id": "0,298,1035,1036",
             "label": "Function of IT Department",
+            "labelHi": "आईटी विभाग का कार्य",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C1035%2C1036",
             "slug": "department/information-technology/function-of-it-department",
             "depth": 3,
@@ -1685,6 +1687,7 @@
           {
             "id": "0,298,1035,1037",
             "label": "Contact Details",
+            "labelHi": "संपर्क विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C1035%2C1037",
             "slug": "department/information-technology/contact-details",
             "depth": 3,
@@ -1694,6 +1697,7 @@
           {
             "id": "0,298,1035,1038",
             "label": "Departmental Chart",
+            "labelHi": "विभागीय चार्ट",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C1035%2C1038",
             "slug": "department/information-technology/departmental-chart",
             "depth": 3,
@@ -1705,6 +1709,7 @@
       {
         "id": "0,298,529",
         "label": "Terms & Conditions",
+        "labelHi": "नियम एवं शर्तें",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C298%2C529",
         "slug": "department/terms-conditions",
         "depth": 2,
