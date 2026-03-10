@@ -64,6 +64,10 @@ export const en = {
   departments: {
     title: "Departments",
     viewDetails: "View Details",
+    departments: "Departments",
+    sections: "Sections",
+    viewAll: "View All",
+    more: "more",
   },
   vendor: {
     title: "Vendor Information",
