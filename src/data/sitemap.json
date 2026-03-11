@@ -1820,6 +1820,7 @@
           {
             "id": "0,296,678,707",
             "label": "Mechanical",
+            "labelHi": "यांत्रिक",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C678%2C707",
             "slug": "vendor-information/vendor-directory/mechanical",
             "depth": 3,
@@ -1829,6 +1830,7 @@
           {
             "id": "0,296,678,708",
             "label": "Electrical",
+            "labelHi": "विद्युत",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C678%2C708",
             "slug": "vendor-information/vendor-directory/electrical",
             "depth": 3,
@@ -1838,6 +1840,7 @@
           {
             "id": "0,296,678,926",
             "label": "UVAM (Approved by RDSO)",
+            "labelHi": "यूवीएएम (आरडीएसओ द्वारा अनुमोदित)",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C678%2C926",
             "slug": "vendor-information/vendor-directory/uvam-approved-by-rdso",
             "depth": 3,
@@ -1849,6 +1852,7 @@
       {
         "id": "0,296,474",
         "label": "Vendor Registration",
+        "labelHi": "विक्रेता पंजीकरण",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C474",
         "slug": "vendor-information/vendor-registration",
         "depth": 2,
@@ -1858,6 +1862,7 @@
       {
         "id": "0,296,901",
         "label": "Difference Between Vendor Approval & Vendor Registration",
+        "labelHi": "विक्रेता अनुमोदन और विक्रेता पंजीकरण में अंतर",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C901",
         "slug": "vendor-information/difference-between-vendor-approval-vendor-registration",
         "depth": 2,
@@ -1867,6 +1872,7 @@
       {
         "id": "0,296,475",
         "label": "Trade Groups",
+        "labelHi": "व्यापार समूह",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C475",
         "slug": "vendor-information/trade-groups",
         "depth": 2,
@@ -1876,6 +1882,7 @@
       {
         "id": "0,296,915",
         "label": "Development of Sources",
+        "labelHi": "स्रोतों का विकास",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C915",
         "slug": "vendor-information/development-of-sources",
         "depth": 2,
@@ -1887,6 +1894,7 @@
   {
     "id": "0,297",
     "label": "Employee’s Corner",
+    "labelHi": "कर्मचारी कोना",
     "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297",
     "slug": "employees-corner",
     "depth": 1,
@@ -1895,6 +1903,7 @@
       {
         "id": "0,297,946",
         "label": "Seniority List",
+        "labelHi": "वरिष्ठता सूची",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C946",
         "slug": "employees-corner/seniority-list",
         "depth": 2,
@@ -1904,6 +1913,7 @@
       {
         "id": "0,297,1031",
         "label": "GDCE SELECTION",
+        "labelHi": "जीडीसीई चयन",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1031",
         "slug": "employees-corner/gdce-selection",
         "depth": 2,
@@ -1913,6 +1923,7 @@
       {
         "id": "0,297,1029",
         "label": "NPS to OPS",
+        "labelHi": "एनपीएस से ओपीएस",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1029",
         "slug": "employees-corner/nps-to-ops",
         "depth": 2,
@@ -1922,6 +1933,7 @@
       {
         "id": "0,297,1025",
         "label": "General Manager’s Grievance Redressal Drive",
+        "labelHi": "महाप्रबंधक की शिकायत निवारण अभियान",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1025",
         "slug": "employees-corner/general-managers-grievance-redressal-drive",
         "depth": 2,
@@ -1931,6 +1943,7 @@
       {
         "id": "0,297,1024",
         "label": "Electricity Meter Reading",
+        "labelHi": "बिजली मीटर रीडिंग",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1024",
         "slug": "employees-corner/electricity-meter-reading",
         "depth": 2,
@@ -1940,6 +1953,7 @@
       {
         "id": "0,297,1017",
         "label": "Election",
+        "labelHi": "चुनाव",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1017",
         "slug": "employees-corner/election",
         "depth": 2,
@@ -1949,6 +1963,7 @@
       {
         "id": "0,297,1003",
         "label": "Gazetted",
+        "labelHi": "गजट",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1003",
         "slug": "employees-corner/gazetted",
         "depth": 2,
@@ -1958,6 +1973,7 @@
       {
         "id": "0,297,1002",
         "label": "MACP",
+        "labelHi": "एमएसीपी",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1002",
         "slug": "employees-corner/macp",
         "depth": 2,
@@ -1967,6 +1983,7 @@
       {
         "id": "0,297,997",
         "label": "Chief Medical Practitioner",
+        "labelHi": "मुख्य चिकित्सा अधिकारी",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C997",
         "slug": "employees-corner/chief-medical-practitioner",
         "depth": 2,
@@ -1976,6 +1993,7 @@
       {
         "id": "0,297,947",
         "label": "Selection",
+        "labelHi": "चयन",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C947",
         "slug": "employees-corner/selection",
         "depth": 2,
@@ -1984,6 +2002,7 @@
           {
             "id": "0,297,947,966",
             "label": "Notification",
+            "labelHi": "अधिसूचना",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C947%2C966",
             "slug": "employees-corner/selection/notification",
             "depth": 3,
@@ -1993,6 +2012,7 @@
           {
             "id": "0,297,947,996",
             "label": "Gazetted",
+            "labelHi": "गजट",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C947%2C996",
             "slug": "employees-corner/selection/gazetted",
             "depth": 3,
@@ -2002,6 +2022,7 @@
           {
             "id": "0,297,947,1016",
             "label": "Statement of Marks",
+            "labelHi": "अंक विवरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C947%2C1016",
             "slug": "employees-corner/selection/statement-of-marks",
             "depth": 3,
@@ -2011,6 +2032,7 @@
           {
             "id": "0,297,947,965",
             "label": "Panel",
+            "labelHi": "पैनल",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C947%2C965",
             "slug": "employees-corner/selection/panel",
             "depth": 3,
@@ -2020,6 +2042,7 @@
           {
             "id": "0,297,947,971",
             "label": "Question and Answer key",
+            "labelHi": "प्रश्न और उत्तर कुंजी",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C947%2C971",
             "slug": "employees-corner/selection/question-and-answer-key",
             "depth": 3,
@@ -2031,6 +2054,7 @@
       {
         "id": "0,297,948",
         "label": "Non Selection",
+        "labelHi": "गैर-चयन",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C948",
         "slug": "employees-corner/non-selection",
         "depth": 2,
@@ -2039,6 +2063,7 @@
           {
             "id": "0,297,948,976",
             "label": "Panel",
+            "labelHi": "पैनल",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C948%2C976",
             "slug": "employees-corner/non-selection/panel",
             "depth": 3,
@@ -2048,6 +2073,7 @@
           {
             "id": "0,297,948,986",
             "label": "Notification",
+            "labelHi": "अधिसूचना",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C948%2C986",
             "slug": "employees-corner/non-selection/notification",
             "depth": 3,
@@ -2057,6 +2083,7 @@
           {
             "id": "0,297,948,975",
             "label": "Promotion Order",
+            "labelHi": "पदोन्नति आदेश",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C948%2C975",
             "slug": "employees-corner/non-selection/promotion-order",
             "depth": 3,
@@ -2066,6 +2093,7 @@
           {
             "id": "0,297,948,972",
             "label": "Roster",
+            "labelHi": "रोस्टर",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C948%2C972",
             "slug": "employees-corner/non-selection/roster",
             "depth": 3,
@@ -2077,6 +2105,7 @@
       {
         "id": "0,297,949",
         "label": "Transfer",
+        "labelHi": "स्थानांतरण",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C949",
         "slug": "employees-corner/transfer",
         "depth": 2,
@@ -2085,6 +2114,7 @@
           {
             "id": "0,297,949,970",
             "label": "Deputation Notice",
+            "labelHi": "प्रतिनियुक्ति सूचना",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C949%2C970",
             "slug": "employees-corner/transfer/deputation-notice",
             "depth": 3,
@@ -2094,6 +2124,7 @@
           {
             "id": "0,297,949,981",
             "label": "Inter Railway Transfer",
+            "labelHi": "अंतर-रेलवे स्थानांतरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C949%2C981",
             "slug": "employees-corner/transfer/inter-railway-transfer",
             "depth": 3,
@@ -2103,6 +2134,7 @@
           {
             "id": "0,297,949,1004",
             "label": "Relieving Order",
+            "labelHi": "राहत आदेश",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C949%2C1004",
             "slug": "employees-corner/transfer/relieving-order",
             "depth": 3,
@@ -2112,6 +2144,7 @@
           {
             "id": "0,297,949,982",
             "label": "Indian Railway Mutual Transfer",
+            "labelHi": "भारतीय रेल पारस्परिक स्थानांतरण",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C949%2C982",
             "slug": "employees-corner/transfer/indian-railway-mutual-transfer",
             "depth": 3,
@@ -2121,6 +2154,7 @@
           {
             "id": "0,297,949,1020",
             "label": "Resignation",
+            "labelHi": "इस्तीफा",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C949%2C1020",
             "slug": "employees-corner/transfer/resignation",
             "depth": 3,
@@ -2132,6 +2166,7 @@
       {
         "id": "0,297,950",
         "label": "Office Order",
+        "labelHi": "कार्यालय आदेश",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C950",
         "slug": "employees-corner/office-order",
         "depth": 2,
@@ -2141,6 +2176,7 @@
       {
         "id": "0,297,951",
         "label": "Act Apprentice",
+        "labelHi": "अधिनियम शिक्षुता",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C951",
         "slug": "employees-corner/act-apprentice",
         "depth": 2,
@@ -2150,6 +2186,7 @@
       {
         "id": "0,297,952",
         "label": "Welfare",
+        "labelHi": "कल्याण",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C952",
         "slug": "employees-corner/welfare",
         "depth": 2,
@@ -2159,6 +2196,7 @@
       {
         "id": "0,297,953",
         "label": "Industrial Relation",
+        "labelHi": "औद्योगिक संबंध",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C953",
         "slug": "employees-corner/industrial-relation",
         "depth": 2,
@@ -2168,6 +2206,7 @@
       {
         "id": "0,297,954",
         "label": "Pension Adalat",
+        "labelHi": "पेंशन अदालत",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C954",
         "slug": "employees-corner/pension-adalat",
         "depth": 2,
@@ -2177,6 +2216,7 @@
       {
         "id": "0,297,960",
         "label": "Various Forms",
+        "labelHi": "विभिन्न प्रपत्र",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C960",
         "slug": "employees-corner/various-forms",
         "depth": 2,
@@ -2186,6 +2226,7 @@
       {
         "id": "0,297,961",
         "label": "Women Empowerment",
+        "labelHi": "महिला सशक्तिकरण",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C961",
         "slug": "employees-corner/women-empowerment",
         "depth": 2,
@@ -2195,6 +2236,7 @@
       {
         "id": "0,297,957",
         "label": "Shramik Portal",
+        "labelHi": "श्रमिक पोर्टल",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C957",
         "slug": "employees-corner/shramik-portal",
         "depth": 2,
@@ -2204,6 +2246,7 @@
       {
         "id": "0,297,310",
         "label": "News & Announcements",
+        "labelHi": "समाचार और घोषणाएं",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C310",
         "slug": "employees-corner/news-announcements",
         "depth": 2,
@@ -2213,6 +2256,7 @@
       {
         "id": "0,297,962",
         "label": "Settlement",
+        "labelHi": "निपटान",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C962",
         "slug": "employees-corner/settlement",
         "depth": 2,
@@ -2221,6 +2265,7 @@
           {
             "id": "0,297,962,967",
             "label": "Retirement",
+            "labelHi": "सेवानिवृत्ति",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C962%2C967",
             "slug": "employees-corner/settlement/retirement",
             "depth": 3,
@@ -2230,6 +2275,7 @@
           {
             "id": "0,297,962,968",
             "label": "Pension Adalat",
+            "labelHi": "पेंशन अदालत",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C962%2C968",
             "slug": "employees-corner/settlement/pension-adalat",
             "depth": 3,
@@ -2241,6 +2287,7 @@
       {
         "id": "0,297,963",
         "label": "Policy Letters",
+        "labelHi": "नीति पत्र",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963",
         "slug": "employees-corner/policy-letters",
         "depth": 2,
@@ -2249,6 +2296,7 @@
           {
             "id": "0,297,963,969",
             "label": "Circulated Letters in MCF year 2020",
+            "labelHi": "एमसीएफ वर्ष 2020 में परिचालित पत्र",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963%2C969",
             "slug": "employees-corner/policy-letters/circulated-letters-in-mcf-year-2020",
             "depth": 3,
@@ -2258,6 +2306,7 @@
           {
             "id": "0,297,963,964",
             "label": "Circulated Letters in MCF year 2021",
+            "labelHi": "एमसीएफ वर्ष 2021 में परिचालित पत्र",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963%2C964",
             "slug": "employees-corner/policy-letters/circulated-letters-in-mcf-year-2021",
             "depth": 3,
@@ -2267,6 +2316,7 @@
           {
             "id": "0,297,963,992",
             "label": "Circulated Letters in MCF year 2022",
+            "labelHi": "एमसीएफ वर्ष 2022 में परिचालित पत्र",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963%2C992",
             "slug": "employees-corner/policy-letters/circulated-letters-in-mcf-year-2022",
             "depth": 3,
@@ -2276,6 +2326,7 @@
           {
             "id": "0,297,963,1019",
             "label": "Circulated Letters in MCF year 2023",
+            "labelHi": "एमसीएफ वर्ष 2023 में परिचालित पत्र",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963%2C1019",
             "slug": "employees-corner/policy-letters/circulated-letters-in-mcf-year-2023",
             "depth": 3,
@@ -2285,6 +2336,7 @@
           {
             "id": "0,297,963,1047",
             "label": "Circulated Letters in MCF year 2025",
+            "labelHi": "एमसीएफ वर्ष 2025 में परिचालित पत्र",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963%2C1047",
             "slug": "employees-corner/policy-letters/circulated-letters-in-mcf-year-2025",
             "depth": 3,
@@ -2294,6 +2346,7 @@
           {
             "id": "0,297,963,1052",
             "label": "Circulated Letters in MCF year 2026",
+            "labelHi": "एमसीएफ वर्ष 2026 में परिचालित पत्र",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C963%2C1052",
             "slug": "employees-corner/policy-letters/circulated-letters-in-mcf-year-2026",
             "depth": 3,
@@ -2305,6 +2358,7 @@
       {
         "id": "0,297,973",
         "label": "Sample Question Bank (JE/Mech.)",
+        "labelHi": "नमूना प्रश्न बैंक (जेई/मैक)",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C973",
         "slug": "employees-corner/sample-question-bank-jemech",
         "depth": 2,
@@ -2314,6 +2368,7 @@
       {
         "id": "0,297,974",
         "label": "Video Lectures (JE/Mech.)",
+        "labelHi": "वीडियो व्याख्यान (जेई/मैक)",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C974",
         "slug": "employees-corner/video-lectures-jemech",
         "depth": 2,
@@ -2323,6 +2378,7 @@
       {
         "id": "0,297,983",
         "label": "Quarter Seniority",
+        "labelHi": "क्वार्टर वरिष्ठता",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C983",
         "slug": "employees-corner/quarter-seniority",
         "depth": 2,
@@ -2332,6 +2388,7 @@
       {
         "id": "0,297,984",
         "label": "Training Circular",
+        "labelHi": "प्रशिक्षण परिपत्र",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C984",
         "slug": "employees-corner/training-circular",
         "depth": 2,
@@ -2341,6 +2398,7 @@
       {
         "id": "0,297,985",
         "label": "Gazetted Officer Posting order",
+        "labelHi": "गजट अधिकारी पोस्टिंग आदेश",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C985",
         "slug": "employees-corner/gazetted-officer-posting-order",
         "depth": 2,
@@ -2350,6 +2408,7 @@
       {
         "id": "0,297,1027",
         "label": "Pay Fixation",
+        "labelHi": "वेतन निर्धारण",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C1027",
         "slug": "employees-corner/pay-fixation",
         "depth": 2,
@@ -2359,6 +2418,7 @@
       {
         "id": "0,297,977",
         "label": "Question Bank",
+        "labelHi": "प्रश्न बैंक",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C977",
         "slug": "employees-corner/question-bank",
         "depth": 2,
@@ -2367,6 +2427,7 @@
           {
             "id": "0,297,977,978",
             "label": "JE/Mech.",
+            "labelHi": "जेई/मैक",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C977%2C978",
             "slug": "employees-corner/question-bank/jemech",
             "depth": 3,
@@ -2376,6 +2437,7 @@
           {
             "id": "0,297,977,1030",
             "label": "Stenographer",
+            "labelHi": "स्टेनोग्राफर",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C977%2C1030",
             "slug": "employees-corner/question-bank/stenographer",
             "depth": 3,
@@ -2385,6 +2447,7 @@
           {
             "id": "0,297,977,989",
             "label": "J.E/Electrical",
+            "labelHi": "जेई/विद्युत",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C977%2C989",
             "slug": "employees-corner/question-bank/jeelectrical",
             "depth": 3,
@@ -2394,6 +2457,7 @@
           {
             "id": "0,297,977,979",
             "label": "Junior Clerk Cum Typist",
+            "labelHi": "कनिष्ठ लिपिक कम टाइपिस्ट",
             "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C297%2C977%2C979",
             "slug": "employees-corner/question-bank/junior-clerk-cum-typist",
             "depth": 3,
@@ -2407,6 +2471,7 @@
   {
     "id": "0,300",
     "label": "Contact Us",
+    "labelHi": "संपर्क करें",
     "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300",
     "slug": "contact-us",
     "depth": 1,
@@ -2415,6 +2480,7 @@
       {
         "id": "0,300,406",
         "label": "Contact us Details",
+        "labelHi": "संपर्क विवरण",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C406",
         "slug": "contact-us/contact-us-details",
         "depth": 2,
@@ -2424,6 +2490,7 @@
       {
         "id": "0,300,328",
         "label": "How to Reach Modern Coach Factory Raebareli",
+        "labelHi": "आधुनिक कोच कारखाना रायबरेली कैसे पहुंचें",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C328",
         "slug": "contact-us/how-to-reach-modern-coach-factory-raebareli",
         "depth": 2,
@@ -2433,6 +2500,7 @@
       {
         "id": "0,300,318",
         "label": "Feedback",
+        "labelHi": "प्रतिक्रिया",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C318",
         "slug": "contact-us/feedback",
         "depth": 2,
@@ -2442,6 +2510,7 @@
       {
         "id": "0,300,319",
         "label": "Other Railway Sites",
+        "labelHi": "अन्य रेलवे साइटें",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C319",
         "slug": "contact-us/other-railway-sites",
         "depth": 2,
@@ -2451,6 +2520,7 @@
       {
         "id": "0,300,424",
         "label": "Privacy Policy",
+        "labelHi": "गोपनीयता नीति",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C424",
         "slug": "contact-us/privacy-policy",
         "depth": 2,
@@ -2460,6 +2530,7 @@
       {
         "id": "0,300,425",
         "label": "Terms and Conditions",
+        "labelHi": "नियम और शर्तें",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C425",
         "slug": "contact-us/terms-and-conditions",
         "depth": 2,
@@ -2469,6 +2540,7 @@
       {
         "id": "0,300,322",
         "label": "Disclaimer",
+        "labelHi": "अस्वीकरण",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C322",
         "slug": "contact-us/disclaimer",
         "depth": 2,
@@ -2478,6 +2550,7 @@
       {
         "id": "0,300,323",
         "label": "Site Map",
+        "labelHi": "साइट मैप",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C323",
         "slug": "contact-us/site-map",
         "depth": 2,
@@ -2487,6 +2560,7 @@
       {
         "id": "0,300,581",
         "label": "Privacy Policy",
+        "labelHi": "गोपनीयता नीति",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C300%2C581",
         "slug": "contact-us/privacy-policy-581",
         "depth": 2,
