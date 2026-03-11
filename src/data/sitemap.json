@@ -1721,6 +1721,7 @@
   {
     "id": "0,299",
     "label": "Tender Information",
+    "labelHi": "निविदा जानकारी",
     "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C299",
     "slug": "tender-information",
     "depth": 1,
@@ -1729,6 +1730,7 @@
       {
         "id": "0,299,316",
         "label": "Tenders",
+        "labelHi": "निविदाएं",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C299%2C316",
         "slug": "tender-information/tenders",
         "depth": 2,
@@ -1738,6 +1740,7 @@
       {
         "id": "0,299,829",
         "label": "Stock Item Details",
+        "labelHi": "स्टॉक आइटम विवरण",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C299%2C829",
         "slug": "tender-information/stock-item-details",
         "depth": 2,
@@ -1747,6 +1750,7 @@
       {
         "id": "0,299,1039",
         "label": "Drawings",
+        "labelHi": "चित्र",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C299%2C1039",
         "slug": "tender-information/drawings",
         "depth": 2,
@@ -1756,6 +1760,7 @@
       {
         "id": "0,299,1040",
         "label": "Specifications",
+        "labelHi": "विशिष्टताएं",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C299%2C1040",
         "slug": "tender-information/specifications",
         "depth": 2,
@@ -1767,6 +1772,7 @@
   {
     "id": "0,296",
     "label": "Vendor Information",
+    "labelHi": "विक्रेता जानकारी",
     "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296",
     "slug": "vendor-information",
     "depth": 1,
@@ -1775,6 +1781,7 @@
       {
         "id": "0,296,493",
         "label": "Tender",
+        "labelHi": "निविदा",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C493",
         "slug": "vendor-information/tender",
         "depth": 2,
@@ -1784,6 +1791,7 @@
       {
         "id": "0,296,1026",
         "label": "Bill Checking System",
+        "labelHi": "बिल जांच प्रणाली",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C1026",
         "slug": "vendor-information/bill-checking-system",
         "depth": 2,
@@ -1793,6 +1801,7 @@
       {
         "id": "0,296,543",
         "label": "Registered Vendors with MCF/RBL",
+        "labelHi": "एमसीएफ/आरबीएल के पंजीकृत विक्रेता",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C543",
         "slug": "vendor-information/registered-vendors-with-mcfrbl",
         "depth": 2,
@@ -1802,6 +1811,7 @@
       {
         "id": "0,296,678",
         "label": "Vendor Directory",
+        "labelHi": "विक्रेता निर्देशिका",
         "url": "https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C296%2C678",
         "slug": "vendor-information/vendor-directory",
         "depth": 2,
@@ -2486,3 +2496,5 @@
     ]
   }
 ]
+
+        

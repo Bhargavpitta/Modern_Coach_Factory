@@ -1,12 +1,16 @@
 {
   "id": "0,297",
   "slug": "employees-corner",
-  "title": "Employee’s Corner",
+  "title": "Employee's Corner",
+  "titleHi": "कर्मचारी कोना",
   "lang": "en",
   "lastReviewed": null,
-  "contentHtml": "<p align=\"justify\"></p>\n\t\t\t\t\t\t\t\t\t<br>",
-  "contentMarkdown": "",
+  "contentHtml": "<p align=\"justify\">This section provides important information, forms, circulars, and resources for the employees of Modern Coach Factory, Raebareli.</p>",
+  "contentHtmlHi": "<p align=\"justify\">यह खंड आधुनिक कोच कारखाना, रायबरेली के कर्मचारियों के लिए महत्वपूर्ण जानकारी, प्रपत्र, परिपत्र और संसाधन प्रदान करता है।</p>",
+  "contentMarkdown": "This section provides important information, forms, circulars, and resources for the employees of Modern Coach Factory, Raebareli.",
+  "contentMarkdownHi": "यह खंड आधुनिक कोच कारखाना, रायबरेली के कर्मचारियों के लिए महत्वपूर्ण जानकारी, प्रपत्र, परिपत्र और संसाधन प्रदान करता है।",
   "tables": [],
   "images": [],
   "attachments": []
 }
+
