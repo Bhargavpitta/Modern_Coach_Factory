@@ -3,6 +3,7 @@ import { Download, FileText } from "lucide-react";
 import { getPageBySlug } from "@/data/loader";
 import type { PageContent as PageContentType } from "@/data/types";
 import { useLanguage } from "@/contexts/LanguageContext";
+import HeritageSlideshow from "@/components/HeritageSlideshow";
 
 interface ContentPageProps {
   slug: string;
@@ -57,10 +58,29 @@ export default function ContentPage({ slug }: ContentPageProps) {
   const title = isHindi && page.titleHi ? page.titleHi : page.title;
   const contentHtml = isHindi && page.contentHtmlHi ? page.contentHtmlHi : page.contentHtml;
 
+  // Check if this is the heritage page to render the slideshow
+  const isHeritagePage = slug === "about-mcf/heritage";
+  
+  // Heritage slideshow images
+  const heritageImages = [
+    "/heritage/her 3.jpg",
+    "/heritage/her4.jpg",
+    "/heritage/her 5.jpg",
+    "/heritage/her 6.jpg",
+    "/heritage/her 7.jpg",
+    "/heritage/image2.jpeg",
+    "/heritage/park.jpeg"
+  ];
+
   return (
     <div key={slug} className="animate-fadeIn">
       <section className="card-gov p-6 space-y-6">
         <h2 className="text-2xl font-bold text-foreground">{title}</h2>
+
+        {/* Heritage Slideshow */}
+        {isHeritagePage && (
+          <HeritageSlideshow images={heritageImages} isHindi={isHindi} />
+        )}
 
         <div
           className="content-html"

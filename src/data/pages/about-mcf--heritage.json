@@ -2,23 +2,14 @@
   "id": "0,294,1050",
   "slug": "about-mcf/heritage",
   "title": "Heritage",
+  "titleHi": "विरासत",
   "lang": "en",
   "lastReviewed": null,
-  "contentHtml": "<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/uploads/1751697950955G%20Branch.pdf\"><img alt=\"\" src=\"https://mcf.indianrailways.gov.in/uploads/Image/WhatsApp%20Image%202025-07-12%20at%2010_36_37%20AM.jpeg\"></a>",
-  "contentMarkdown": "[![](https://mcf.indianrailways.gov.in/uploads/Image/WhatsApp%20Image%202025-07-12%20at%2010_36_37%20AM.jpeg)](https://mcf.indianrailways.gov.in/uploads/1751697950955G%20Branch.pdf)",
+  "contentHtml": "<div id=\"heritage-slideshow\" style=\"position: relative; width: 100%; max-width: 800px; margin: 0 auto; overflow: hidden; border-radius: 8px;\"></div>\n<script>\n(function() {\n  var images = [\n    \"/heritage/her 3.jpg\",\n    \"/heritage/her4.jpg\", \n    \"/heritage/her 5.jpg\",\n    \"/heritage/her 6.jpg\",\n    \"/heritage/her 7.jpg\",\n    \"/heritage/image2.jpeg\",\n    \"/heritage/park.jpeg\"\n  ];\n  var container = document.getElementById('heritage-slideshow');\n  var current = 0;\n  function showSlide(index) {\n    container.innerHTML = '<img src=\"' + images[index] + '\" alt=\"Heritage\" style=\"width:100%;height:auto;display:block;\">';\n  }\n  showSlide(current);\n  setInterval(function() {\n    current = (current + 1) % images.length;\n    showSlide(current);\n  }, 3000);\n})();\n</script>",
+  "contentHtmlHi": "<div id=\"heritage-slideshow\" style=\"position: relative; width: 100%; max-width: 800px; margin: 0 auto; overflow: hidden; border-radius: 8px;\"></div>\n<script>\n(function() {\n  var images = [\n    \"/heritage/her 3.jpg\",\n    \"/heritage/her4.jpg\", \n    \"/heritage/her 5.jpg\",\n    \"/heritage/her 6.jpg\",\n    \"/heritage/her 7.jpg\",\n    \"/heritage/image2.jpeg\",\n    \"/heritage/park.jpeg\"\n  ];\n  var container = document.getElementById('heritage-slideshow');\n  var current = 0;\n  function showSlide(index) {\n    container.innerHTML = '<img src=\"' + images[index] + '\" alt=\"विरासत\" style=\"width:100%;height:auto;display:block;\">';\n  }\n  showSlide(current);\n  setInterval(function() {\n    current = (current + 1) % images.length;\n    showSlide(current);\n  }, 3000);\n})();\n</script>",
+  "contentMarkdown": "# Heritage",
+  "contentMarkdownHi": "# विरासत",
   "tables": [],
-  "images": [
-    {
-      "src": "https://mcf.indianrailways.gov.in/uploads/Image/WhatsApp%20Image%202025-07-12%20at%2010_36_37%20AM.jpeg",
-      "alt": "",
-      "localPath": "images/WhatsApp Image 2025-07-12 at 10_36_37 AM.jpeg"
-    }
-  ],
-  "attachments": [
-    {
-      "label": "1751697950955G Branch.pdf",
-      "href": "https://mcf.indianrailways.gov.in/uploads/1751697950955G%20Branch.pdf",
-      "localPath": "attachments/1751697950955G Branch.pdf"
-    }
-  ]
+  "images": [],
+  "attachments": []
 }
