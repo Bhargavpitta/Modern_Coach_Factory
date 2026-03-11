@@ -129,4 +129,10 @@ export const hi: Translations = {
     previous: "पिछला",
     next: "अगला",
   },
+  pageActions: {
+    print: "प्रिंट",
+    printPage: "पृष्ठ प्रिंट करें",
+    shareViaEmail: "ईमेल से साझा करें",
+    email: "ईमेल",
+  },
 };

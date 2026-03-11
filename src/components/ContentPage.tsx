@@ -4,6 +4,7 @@ import { getPageBySlug } from "@/data/loader";
 import type { PageContent as PageContentType } from "@/data/types";
 import { useLanguage } from "@/contexts/LanguageContext";
 import HeritageSlideshow from "@/components/HeritageSlideshow";
+import PageActions from "@/components/common/PageActions";
 
 interface ContentPageProps {
   slug: string;
@@ -75,7 +76,10 @@ export default function ContentPage({ slug }: ContentPageProps) {
   return (
     <div key={slug} className="animate-fadeIn">
       <section className="card-gov p-6 space-y-6">
-        <h2 className="text-2xl font-bold text-foreground">{title}</h2>
+        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+          <h2 className="text-2xl font-bold text-foreground">{title}</h2>
+          <PageActions title={title} />
+        </div>
 
         {/* Heritage Slideshow */}
         {isHeritagePage && (
@@ -116,25 +120,28 @@ export default function ContentPage({ slug }: ContentPageProps) {
         )}
 
         {page.images?.length > 0 && (
-          <div className="space-y-3">
-            <h3 className="text-lg font-semibold">Images</h3>
-            <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
-              {page.images.map((image, idx) => {
-                const file = basenameFromLocalPath(image.localPath);
-                return (
-                  <figure key={`${file}-${idx}`} className="overflow-hidden rounded-md border border-border bg-background">
-                    <img
-                      src={`/images/${file}`}
-                      alt={image.alt || "image"}
-                      loading="lazy"
-                      className="h-auto w-full"
-                    />
-                    {image.alt ? <figcaption className="p-3 text-xs text-muted-foreground">{image.alt}</figcaption> : null}
-                  </figure>
-                );
-              })}
+          /* Only show images section if images are not already embedded in contentHtml */
+          !page.images.every((img) => contentHtml?.includes(img.src)) && (
+            <div className="space-y-3">
+              <h3 className="text-lg font-semibold">Images</h3>
+              <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+                {page.images.map((image, idx) => {
+                  const file = basenameFromLocalPath(image.localPath);
+                  return (
+                    <figure key={`${file}-${idx}`} className="overflow-hidden rounded-md border border-border bg-background">
+                      <img
+                        src={`/images/${file}`}
+                        alt={image.alt || "image"}
+                        loading="lazy"
+                        className="h-auto w-full"
+                      />
+                      {image.alt ? <figcaption className="p-3 text-xs text-muted-foreground">{image.alt}</figcaption> : null}
+                    </figure>
+                  );
+                })}
+              </div>
             </div>
-          </div>
+          )
         )}
 
         {page.lastReviewed ? (
