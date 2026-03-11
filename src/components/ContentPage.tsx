@@ -74,8 +74,8 @@ export default function ContentPage({ slug }: ContentPageProps) {
   ];
 
   return (
-    <div key={slug} className="animate-fadeIn">
-      <section className="card-gov p-6 space-y-6">
+    <div key={slug} className="animate-fadeIn min-h-full">
+      <section className="card-gov p-4 sm:p-6 space-y-6 min-h-[calc(60vh-2rem)]">
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
           <h2 className="text-2xl font-bold text-foreground">{title}</h2>
           <PageActions title={title} />

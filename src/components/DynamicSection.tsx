@@ -329,9 +329,9 @@ export default function DynamicSection({ sectionSlug, pageSlug }: DynamicSection
         </div>
       ) : null}
 
-      <div className="grid lg:grid-cols-[260px,1fr] gap-0 min-h-[60vh] border border-border rounded-lg overflow-hidden">
+      <div className="grid lg:grid-cols-[240px,1fr] gap-0 min-h-[60vh] border border-border rounded-lg overflow-hidden">
         <div className="hidden lg:block">{sidebar}</div>
-        <div className="flex-1 min-w-0 p-6 bg-background">
+        <div className="flex-1 min-w-0 p-4 sm:p-6 bg-background w-full">
           {selected ? <ContentPage slug={selected} /> : <div className="text-muted-foreground">No page selected.</div>}
         </div>
       </div>

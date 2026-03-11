@@ -4,9 +4,15 @@
   "title": "Export",
   "lang": "en",
   "lastReviewed": null,
-  "contentHtml": "MCF has started manufacuring of coaches for export, starting with&nbsp;<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&amp;id=0,294,917,918\"><strong>Mozambique Ports and Railways</strong></a>",
-  "contentMarkdown": "MCF has started manufacuring of coaches for export, starting with [**Mozambique Ports and Railways**](https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0,294,917,918)",
+  "contentHtml": "<p>MCF has started manufacuring of coaches for export, starting with&nbsp;<a class=\"linkn\" href=\"https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&amp;id=0,294,917,918\"><strong>Mozambique Ports and Railways</strong></a></p>\n<div style=\"text-align: center; margin-top: 2rem;\">\n  <img src=\"/Export.png\" alt=\"Export\" style=\"max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);\" />\n</div>",
+  "contentMarkdown": "MCF has started manufacuring of coaches for export, starting with [**Mozambique Ports and Railways**](https://mcf.indianrailways.gov.in/view_section.jsp?lang=0&id=0,294,917,918)",
   "tables": [],
-  "images": [],
+  "images": [
+    {
+      "alt": "Export",
+      "src": "/Export.png"
+    }
+  ],
   "attachments": []
 }
+
