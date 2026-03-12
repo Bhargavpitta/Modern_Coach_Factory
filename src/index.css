@@ -140,6 +140,8 @@
 /* MCF content HTML styles */
 .content-html {
   line-height: 1.6;
+  width: 100%;
+  max-width: none;
 }
 .content-html table {
   width: 100%;

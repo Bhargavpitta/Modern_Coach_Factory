@@ -127,6 +127,12 @@ export const en = {
     previous: "Previous",
     next: "Next",
   },
+  pageActions: {
+    print: "Print",
+    printPage: "Print Page",
+    shareViaEmail: "Share via Email",
+    email: "Email",
+  },
 };
 
 export type Translations = typeof en;
