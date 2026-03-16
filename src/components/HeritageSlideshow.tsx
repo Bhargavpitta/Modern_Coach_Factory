@@ -4,9 +4,10 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 interface HeritageSlideshowProps {
   images: string[];
   isHindi?: boolean;
+  type?: 'heritage' | 'mozambique';
 }
 
-export default function HeritageSlideshow({ images, isHindi = false }: HeritageSlideshowProps) {
+export default function HeritageSlideshow({ images, isHindi = false, type = 'heritage' }: HeritageSlideshowProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isPaused, setIsPaused] = useState(false);
 
@@ -34,7 +35,7 @@ export default function HeritageSlideshow({ images, isHindi = false }: HeritageS
     return null;
   }
 
-  const altText = isHindi ? "विरासत" : "Heritage";
+  const altText = isHindi ? (type === 'mozambique' ? 'मोज़ाम्बिक कोच' : 'विरासत') : (type === 'mozambique' ? 'Mozambique Coach' : 'Heritage');
 
   return (
     <div
