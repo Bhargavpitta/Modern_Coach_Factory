@@ -59,8 +59,20 @@ export default function ContentPage({ slug }: ContentPageProps) {
   const title = isHindi && page.titleHi ? page.titleHi : page.title;
   const contentHtml = isHindi && page.contentHtmlHi ? page.contentHtmlHi : page.contentHtml;
 
-  // Check if this is the heritage page to render the slideshow
+// Check if heritage or Mozambique page for slideshow
   const isHeritagePage = slug === "about-mcf/heritage";
+  const isMozambiquePage = slug === "about-mcf/export/mozambique";
+
+  // Mozambique slideshow images from public/Mozambique/
+  const mozambiqueImages = [
+    "/Mozambique/business.png",
+    "/Mozambique/coach.png",
+    "/Mozambique/demu exter.png",
+    "/Mozambique/first ac.png",
+    "/Mozambique/loco exterior.png",
+    "/Mozambique/reserved.png",
+    "/Mozambique/second ac.png"
+  ];
   
   // Heritage slideshow images
   const heritageImages = [
@@ -90,6 +102,15 @@ export default function ContentPage({ slug }: ContentPageProps) {
           className="content-html"
           dangerouslySetInnerHTML={{ __html: contentHtml || "" }}
         />
+
+        {/* Mozambique Images Slideshow - Added at the end as requested */}
+        {isMozambiquePage && (
+          <HeritageSlideshow 
+            images={mozambiqueImages} 
+            isHindi={isHindi}
+            type="mozambique"
+          />
+        )}
 
         {page.attachments?.length > 0 && (
           <div className="space-y-3">
