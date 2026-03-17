@@ -1,11 +1,10 @@
-# Task: Add bullet points to Production Status section in Mozambique page
+# TODO: Add Loco Hauled Coaches features to Mozambique page
 
-## Steps:
-- [x] Confirm plan with user
-- [ ] Step 1: Update English contentHtml with bullet points in "Production Status"
-- [ ] Step 2: Update English contentMarkdown with bullet points
-- [ ] Step 3: Update Hindi contentHtml with bullet points
-- [ ] Step 4: Update Hindi contentMarkdown with bullet points
-- [ ] Step 5: Verify changes and attempt completion
+- [x] 1. Create TODO.md
+- [ ] 2. Update contentHtml (English)
+- [ ] 3. Update contentHtmlHi (Hindi)
+- [ ] 4. Update contentMarkdown (English)
+- [ ] 5. Update contentMarkdownHi (Hindi)
+- [ ] 6. Verify page renders correctly
+- [ ] 7. Mark complete
 
-Current progress: Plan approved, TODO created.
