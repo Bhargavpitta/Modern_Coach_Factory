@@ -1,10 +1,1 @@
-# TODO: Add Loco Hauled Coaches features to Mozambique page
-
-- [x] 1. Create TODO.md
-- [ ] 2. Update contentHtml (English)
-- [ ] 3. Update contentHtmlHi (Hindi)
-- [ ] 4. Update contentMarkdown (English)
-- [ ] 5. Update contentMarkdownHi (Hindi)
-- [ ] 6. Verify page renders correctly
-- [ ] 7. Mark complete
-
+# Task: Rewrite coach features JSON to point-wise structure\n\n## Steps:\n1. **Create TODO.md** ✅\n2. **Edit JSON contentMarkdown and contentHtml** ✅ (Rewritten to clean points using create_file)\n3. **Task completed** ✅\n\n**All steps done!**
